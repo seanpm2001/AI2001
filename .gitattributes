@@ -32,6 +32,19 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# R source file
+*.r linguist-detectable=true
+*.r linguist-documentation=false
+*.r linguist-language=R
+*.rdata linguist-detectable=true
+*.rdata linguist-documentation=false
+*.rdata linguist-language=R
+*.rds linguist-detectable=true
+*.rds linguist-documentation=false
+*.rds linguist-language=R
+*.rda linguist-detectable=true
+*.rda linguist-documentation=false
+*.rda linguist-language=R
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +174,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Tuesday, February 21st at 12:43 pm PST)
+# Line count (including blank lines and compiler line): 187
+
 # End of script

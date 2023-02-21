@@ -45,6 +45,39 @@
 *.rda linguist-detectable=true
 *.rda linguist-documentation=false
 *.rda linguist-language=R
+# Julia source file
+*.jl linguist-detectable=true
+*.jl linguist-documentation=false
+*.jl linguist-language=Julia
+# Prolog source file
+*.pro linguist-detectable=true
+*.pro linguist-documentation=false
+*.pro linguist-language=Prolog
+# Python source file
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+*.py linguist-language=Python
+*.py3 linguist-detectable=true
+*.py3 linguist-documentation=false
+*.py3 linguist-language=Python
+*.pyt linguist-detectable=true
+*.pyt linguist-documentation=false
+*.pyt linguist-language=Python
+*.pyw linguist-detectable=true
+*.pyw linguist-documentation=false
+*.pyw linguist-language=Python
+# C source file
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.c linguist-language=C
+# C header source file
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.h linguist-language=C
+# Cython source file
+*.pyx linguist-detectable=true
+*.pyx linguist-documentation=false
+*.pyx linguist-language=Cython
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -180,7 +213,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Tuesday, February 21st at 12:43 pm PST)
-# Line count (including blank lines and compiler line): 187
+# File version: 6 (2023, Tuesday, February 21st at 12:59 pm PST)
+# Line count (including blank lines and compiler line): 220
 
 # End of script

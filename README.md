@@ -9,6 +9,10 @@
 
 AI2001 is a free, libre and open source Artificial Intelligence data set and software engine.
 
+AI2001 is early in development, and is not ready yet.
+
+***
+
 ## Documentation
 
 [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/)
@@ -84,19 +88,30 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Photography
 
-- [:octocat: `AI2001 Category: Images ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Photography/)
+- [:octocat: `AI2001 Category: Videos ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Photography/)
 
 #### SC: Gameplay
 
-- [:octocat: `AI2001 Category: Images ;SC: Gameplay`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Gameplay/)
+- [:octocat: `AI2001 Category: Videos ;SC: Gameplay`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Gameplay/)
 
 #### SC: Nature
 
-- [:octocat: `AI2001 Category: Images ;SC: Nature`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Nature/)
+- [:octocat: `AI2001 Category: Videos ;SC: Nature`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Nature/)
 
 #### SC: Animation
 
-- [:octocat: `AI2001 Category: Images ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
+- [:octocat: `AI2001 Category: Videos ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
+- - [:octocat: `AI2001 Category: Videos ;SC: Animation S: Anime`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation-S-Anime/)
+
+### Meta
+
+#### Meta subcategory
+
+##### MT (motion)
+
+Meta categories are for applying filters to datasets belonging to 2 or more categories
+
+- [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
 
 **🌱️ This [`README.md`](/README.md) file is a major stub, and needs significant expansion**
 
@@ -108,9 +123,9 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Friday, March 10th at 5:21 pm PST)`
+**File version:** `3 (2023, Sunday, March 12th at 6:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `186`
+**Line count (including blank lines and compiler line):** `227`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -177,6 +192,32 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [x] Added an entry for version 1
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 3 (2023, Sunday, March 12th at 6:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title/lead section
+- [x] Updated the `Datasets` section
+- ...
+- - ...
+- - - ...
+- - - [x] Added the `AI2001 Category: Videos ;SC: Animation S: Anime` subsection
+- [x] Added the `Meta` category section
+- - [x] Added the `Meta subcategory` subsection
+- - - [x] Added the `MT Motion` subsubsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 

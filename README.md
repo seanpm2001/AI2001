@@ -9,7 +9,7 @@
 
 AI2001 is a free, libre and open source Artificial Intelligence data set and software engine.
 
-AI2001 is early in development, and is not ready yet.
+AI2001 is early in dev elopment, and is not ready yet.
 
 ***
 
@@ -24,6 +24,7 @@ Datasets are sorted by categories, with nested sub-categories (**SC**) and neste
 All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Friday, March 10th)
 
 [`View this list as URLL`](/AI2001_REPOLIST.urll)
+
 
 ### C: Documents
 
@@ -103,6 +104,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Videos ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
 - - [:octocat: `AI2001 Category: Videos ;SC: Animation S: Anime`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation-S-Anime/)
 
+### C: Audio
+
+- [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
+
+#### SC: Music
+
+- [:octocat: `AI2001 Category: Audio ;SC: Music`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music/)
+
 ### Meta
 
 #### Meta subcategory
@@ -112,6 +121,13 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 Meta categories are for applying filters to datasets belonging to 2 or more categories
 
 - [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
+
+##### Tags
+
+Meta tags are for applying filters to datasets of any size.
+
+- [:octocat: `AI2001 Meta: Tags: NSFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW/)
+- [:octocat: `AI2001 Meta: Tags: SFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW/)
 
 **🌱️ This [`README.md`](/README.md) file is a major stub, and needs significant expansion**
 
@@ -123,9 +139,9 @@ Meta categories are for applying filters to datasets belonging to 2 or more cate
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Sunday, March 12th at 6:26 pm PST)`
+**File version:** `4 (2023, Tuesday, March 14th at 7:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `265`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -195,7 +211,6 @@ Meta categories are for applying filters to datasets belonging to 2 or more cate
 
 </details>
 
-
 <details><summary><p lang="en"><b>Version 3 (2023, Sunday, March 12th at 6:26 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -218,6 +233,29 @@ Meta categories are for applying filters to datasets belonging to 2 or more cate
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Tuesday, March 14th at 7:46 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title/lead section
+- [x] Updated the `Datasets` section
+- [x] Added the `AI2001 Category: Audio` subsection
+- - [x] Added the `AI2001 Category: Audio ;SC: Music` subsection
+- ...
+- - ...
+- - - [x] Added the `Tags` subsubsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 

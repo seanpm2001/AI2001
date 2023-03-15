@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 40 total repository links (as of 2023, Tuesday, March 14th at 7:49 pm PST)
+//// 42 total repository links (as of 2023, Wednesday, March 15th at 4:23 pm PST)
 
-//// GitHub (40)
+//// GitHub (42)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -45,8 +45,10 @@ https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW
 https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW
 https://github.com/seanpm2001/AI2001_Category-Audio
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Ambient
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Vocals
 
 //// File info
-//// File version: 4 (2023, Tuesday, March 14th at 7:49 pm PST)
-//// Line count (including blank lines and compiler line): 53
+//// File version: 5 (2023, Wednesday, March 15th at 4:23 pm PST)
+//// Line count (including blank lines and compiler line): 55
 //// End of file (EOF)

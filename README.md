@@ -130,6 +130,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
 
+#### SC: Spanish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
+
+#### SC: French
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
+
 ### Meta
 
 #### Meta subcategory
@@ -157,9 +165,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Friday, March 17th at 8:53 pm PST)`
+**File version:** `8 (2023, Saturday, March 18th at 7:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `344`
+**Line count (including blank lines and compiler line):** `372`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -335,6 +343,26 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2023, Saturday, March 18th at 7:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- ...
+- - [x] Added the `AI2001 Category: Linguistics ;SC: Spanish` subsection
+- - [x] Added the `AI2001 Category: Linguistics ;SC: French` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 

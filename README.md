@@ -23,9 +23,9 @@ AI2001 is early in development, and is not ready yet.
 
 Datasets are sorted by categories, with nested sub-categories (**SC**) and nested subjects (**S**)
 
-All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Friday, March 10th)
+All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Tuesday, March 21st)
 
-[`View this list as URLL`](/AI2001_REPOLIST.urll)
+> [`View this list as URLL`](/AI2001_REPOLIST.urll)
 
 ### [C: Documents](#C-Documents)
 
@@ -155,6 +155,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
 
+#### SC: Greek
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Greek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greek/)
+
+#### SC: Arabic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
+
 ### [Meta](#Meta)
 
 #### Meta subcategory
@@ -182,9 +190,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2023, Monday, March 20th at 6:17 pm PST)`
+**File version:** `11 (2023, Tuesday, March 21st at 4:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `456`
+**Line count (including blank lines and compiler line):** `484`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -442,7 +450,27 @@ Meta tags are for applying filters to datasets of any size.
 
 </details>
 
+<details><summary><p lang="en"><b>Version 11 (2023, Tuesday, March 21st at 4:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Greek` subsection
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Arabic` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
 </details>
+
+</details> <!-- End of file history section !-->
 
 ***
 

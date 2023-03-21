@@ -1,7 +1,7 @@
 
 ***
 
-# AI2001
+# [AI2001](#AI2001)
 
 <img src="/MediaSphere1.png" width="148" height="148" align="left" style="margin-right: 30px">
 
@@ -11,13 +11,15 @@ AI2001 is a free, libre and open source Artificial Intelligence data set and sof
 
 AI2001 is early in development, and is not ready yet.
 
+[:octocat: `About AI2001 logo`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/MediaSphere/)
+
 ***
 
-## Documentation
+## [Documentation](#Documentation)
 
 [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/)
 
-## Datasets
+## [Datasets](#Datasets)
 
 Datasets are sorted by categories, with nested sub-categories (**SC**) and nested subjects (**S**)
 
@@ -25,8 +27,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 [`View this list as URLL`](/AI2001_REPOLIST.urll)
 
-
-### C: Documents
+### [C: Documents](#C-Documents)
 
 - [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/)
 
@@ -50,11 +51,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [:octocat: `S: WikiNews`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiNews/)
 - - [:octocat: `S: WikiSpecies`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiSpecies/)
 
-### C: Source Code
+### [C: Source Code](#C-Source-Code)
 
 - [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/)
 
-### C: Images
+### [C: Images](#C-Images)
 
 - [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/)
 
@@ -83,7 +84,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
 
-### C: Videos
+### [C: Videos](#C-vIDEOS)
 
 - [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/)
 
@@ -104,7 +105,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Videos ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
 - - [:octocat: `AI2001 Category: Videos ;SC: Animation S: Anime`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation-S-Anime/)
 
-### C: Audio
+### [C: Audio](#C-Audio)
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
 
@@ -122,7 +123,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
 
-### C: Linguistics
+### [C: Linguistics](#C-Linguistics)
 
 - [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
 
@@ -146,7 +147,15 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
 
-### Meta
+#### SC: Ukrainian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
+
+#### SC: Latin
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
+
+### [Meta](#Meta)
 
 #### Meta subcategory
 
@@ -167,15 +176,15 @@ Meta tags are for applying filters to datasets of any size.
 
 ***
 
-### File info
+### [File info](#File-info)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Sunday, March 19th at 3:24 pm PST)`
+**File version:** `10 (2023, Monday, March 20th at 6:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `400`
+**Line count (including blank lines and compiler line):** `456`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -191,7 +200,7 @@ Meta tags are for applying filters to datasets of any size.
 
 ***
 
-## File history
+## [File history](#File-history)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
@@ -394,6 +403,53 @@ Meta tags are for applying filters to datasets of any size.
 
 </details>
 
+<details><summary><p lang="en"><b>Version 10 (2023, Monday, March 20th at 6:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added an anchor link to the title
+- [x] Added an anchor link to the documentation section
+- [x] Added an anchor link to the datasets section
+- [x] Updated the `Datasets` section
+- [x] Updated the `C: Documents` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Images` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Audio` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Video` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Source Code` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Linguistics` section
+- - [x] Converted the top heading to an anchor link
+- [x] Updated the `C: Meta` section
+- - [x] Converted the top heading to an anchor link
+- - [x] Added the `AI2001 Category: Linguistics ;SC: Ukrainian` subsection
+- - [x] Added the `AI2001 Category: Linguistics ;SC: Latin` subsection
+- [x] Updated the `file info` section
+- - [x] Added an anchor link to the heading
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an anchor link to the heading
+- - [x] Added an entry for version 10
+- [x] Added the footer
+- [ ] No other changes in version 10
+
 </details>
+
+</details>
+
+***
+
+## [Footer](#Footer)
+
+You have reached the bottom of this page.
+
+( [Back to top](#AI2001) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
 
 ***

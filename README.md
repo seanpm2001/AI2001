@@ -171,6 +171,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
 
+#### SC: Urdu
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
+
+#### SC: Hindi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
+
 ### [Meta](#Meta)
 
 #### Meta subcategory
@@ -198,9 +206,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Wednesday, March 22nd at 3:46 pm PST)`
+**File version:** `13 (2023, Thursday, March 23rd at 3:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `512`
+**Line count (including blank lines and compiler line):** `540`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -495,6 +503,26 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2023, Thursday, March 23rd at 3:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Urdu` subsection
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Hindi` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 

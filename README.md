@@ -187,6 +187,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
 
+#### SC: Azerbaijan
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
+
+#### SC: Chinese (Traditional)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
+
 ### [Meta](#Meta)
 
 #### Meta subcategory
@@ -214,9 +222,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Friday, March 24th at 6:04 pm PST)`
+**File version:** `15 (2023, Saturday, March 25th at 9:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `568`
+**Line count (including blank lines and compiler line):** `596`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -551,6 +559,26 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2023, Saturday, March 25th at 9:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Azerbaijan` subsection
+- - - [x] Added the `AI2001 Category: Linguistics ;SC: Chinese (Traditional)` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
 
 </details>
 

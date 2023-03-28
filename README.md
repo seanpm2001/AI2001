@@ -29,6 +29,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 ### [C: Documents](#C-Documents)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/)
 
 #### SC: Articles
@@ -51,11 +53,19 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [:octocat: `S: WikiNews`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiNews/)
 - - [:octocat: `S: WikiSpecies`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiSpecies/)
 
+</details>
+
 ### [C: Source Code](#C-Source-Code)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/)
 
+</details>
+
 ### [C: Images](#C-Images)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/)
 
@@ -84,7 +94,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
 
+</details>
+
 ### [C: Videos](#C-vIDEOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/)
 
@@ -105,7 +119,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Videos ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
 - - [:octocat: `AI2001 Category: Videos ;SC: Animation S: Anime`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation-S-Anime/)
 
+</details>
+
 ### [C: Audio](#C-Audio)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
 
@@ -123,17 +141,37 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
 
+</details>
+
 ### [C: Linguistics](#C-Linguistics)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
+
+#### SC: Arabic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
+
+#### SC: Azerbaijan
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
+
+#### SC: Berber
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
+
+#### SC: Chinese (Simplified)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
+
+#### SC: Chinese (Traditional)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
 
 #### SC: English
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
-
-#### SC: Spanish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
 
 #### SC: French
 
@@ -143,41 +181,29 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: German`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-German/)
 
-#### SC: Japanese
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
-
-#### SC: Ukrainian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
-
-#### SC: Latin
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
-
 #### SC: Greek
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Greek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greek/)
-
-#### SC: Arabic
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
 
 #### SC: Hebrew
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hebrew`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hebrew/)
 
-#### SC: Russian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
-
-#### SC: Urdu
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
-
 #### SC: Hindi
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
+
+#### SC: Japanese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
+
+#### SC: Korean (South)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
+
+#### SC: Latin
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
 
 #### SC: Portuguese
 
@@ -187,33 +213,41 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
 
-#### SC: Azerbaijan
+#### SC: Russian
 
-- [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
+- [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
 
-#### SC: Chinese (Traditional)
+#### SC: Sindhi
 
-- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sindhi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sindhi/)
 
-#### SC: Chinese (Simplified)
+#### SC: Spanish
 
-- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
-
-#### SC: Korean (South)
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
-
-#### SC: Thai
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
+- [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
 
 #### SC: Telugu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
 
+#### SC: Thai
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
+
+#### SC: Ukrainian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
+
+#### SC: Urdu
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
+
+</details>
+
 ### [Meta](#Meta)
 
 #### Meta subcategory
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 ##### MT (motion)
 
@@ -228,6 +262,8 @@ Meta tags are for applying filters to datasets of any size.
 - [:octocat: `AI2001 Meta: Tags: NSFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW/)
 - [:octocat: `AI2001 Meta: Tags: SFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW/)
 
+</details>
+
 **🌱️ This [`README.md`](/README.md) file is a major stub, and needs significant expansion**
 
 ***
@@ -238,9 +274,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Monday, March 27th at 3:33 pm PST)`
+**File version:** `18 (2023, Tuesday, March 28th at 3:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `652`
+**Line count (including blank lines and compiler line):** `724`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -635,6 +671,42 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p lang="en"><b>Version 18 (2023, Tuesday, March 28th at 3:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Big release, turned all dataset sections into dropdowns, sorted a key section, documentation improvements._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Sindhi` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Berber` subsection
+- - - [x] Sorted the section list into A-Z order (from order: recently created)
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Documents` section
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Images` section
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Videos` section
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Audio` section
+- - - [x] Turned the section into a dropdown section
+- - [x] Updated the `C: Meta` section
+- - - [x] Turned the section into a dropdown section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 

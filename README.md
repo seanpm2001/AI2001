@@ -169,6 +169,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
 
+#### SC: Cuneiform
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
+
 #### SC: English
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
@@ -216,6 +220,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Russian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
+
+#### SC: Sanskrit
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
 
 #### SC: Sindhi
 
@@ -274,9 +282,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Tuesday, March 28th at 3:13 pm PST)`
+**File version:** `19 (2023, Wednesday, March 29th at 8:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `724`
+**Line count (including blank lines and compiler line):** `754`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -707,6 +715,28 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p lang="en"><b>Version 19 (2023, Wednesday, March 29th at 8:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, much smaller compared to yesterday_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Cuneiform` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Sanskrit` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
 
 </details>
 

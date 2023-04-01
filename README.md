@@ -149,6 +149,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
 
+#### SC: Afrikaans
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
+
 #### SC: Arabic
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
@@ -197,6 +201,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
 
+#### SC: Hungarian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
+
 #### SC: Japanese
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
@@ -220,6 +228,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Russian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
+
+#### SC: Ruthenian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
 
 #### SC: Sanskrit
 
@@ -248,6 +260,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Urdu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
+
+#### SC: Zulu
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
 
 </details>
 
@@ -282,9 +298,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Wednesday, March 29th at 8:11 pm PST)`
+**File version:** `20 (2023, Friday, March 31st at 10:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `754`
+**Line count (including blank lines and compiler line):** `794`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -737,6 +753,30 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p lang="en"><b>Version 20 (2023, Friday, March 31st at 10:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, much smaller compared to yesterday_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Afrikaans` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Hungarian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Ruthenian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Zulu` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
 
 </details>
 

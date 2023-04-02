@@ -181,6 +181,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
 
+#### SC: Ethiopian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
+
 #### SC: French
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
@@ -216,6 +220,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Korean (South)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
+
+#### SC: Kurdish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Kurdish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish/)
 
 #### SC: Laos
 
@@ -306,9 +314,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2023, Saturday, April 1st at 6:33 pm PST)`
+**File version:** `22 (2023, Sunday, April 2nd at 3:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `824`
+**Line count (including blank lines and compiler line):** `854`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -807,6 +815,28 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2023, Sunday, April 2nd at 3:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Ethiopian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Kurdish` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
 
 </details>
 

@@ -209,9 +209,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
 
+#### SC: Javanese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
+
 #### SC: Korean (South)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
+
+#### SC: Laos
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Laos`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Laos/)
 
 #### SC: Latin
 
@@ -298,9 +306,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Friday, March 31st at 10:24 pm PST)`
+**File version:** `21 (2023, Saturday, April 1st at 6:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `794`
+**Line count (including blank lines and compiler line):** `824`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -760,7 +768,7 @@ Meta tags are for applying filters to datasets of any size.
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _Normal release, much smaller compared to yesterday_
+> **Note** _Slightly larger release due to a 1 day delay._
 
 > Changes:
 
@@ -777,6 +785,28 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p lang="en"><b>Version 21 (2023, Saturday, April 1st at 6:33 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Laos` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Javanese` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
 
 </details>
 

@@ -269,6 +269,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
 
+#### SC: Turkish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
+
 #### SC: Ukrainian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
@@ -276,6 +280,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Urdu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
+
+#### SC: Yiddish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Yiddish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yiddish/)
 
 #### SC: Zulu
 
@@ -314,9 +322,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2023, Sunday, April 2nd at 3:37 pm PST)`
+**File version:** `23 (2023, Monday, April 3rd at 4:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `854`
+**Line count (including blank lines and compiler line):** `885`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -348,7 +356,7 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Added the file version stamp
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V1 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2023, Friday, March 10th at 5:21 pm PST)</b></p></summary>
 
@@ -384,7 +392,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V2 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2023, Sunday, March 12th at 6:26 pm PST)</b></p></summary>
 
@@ -409,7 +417,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V3 !-->
 
 <details><summary><p lang="en"><b>Version 4 (2023, Tuesday, March 14th at 7:46 pm PST)</b></p></summary>
 
@@ -432,7 +440,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- V4 !-->
 
 <details><summary><p lang="en"><b>Version 5 (2023, Wednesday, March 15th at 4:21 pm PST)</b></p></summary>
 
@@ -453,7 +461,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- V5 !-->
 
 <details><summary><p lang="en"><b>Version 6 (2023, Thursday, March 16th at 5:55 pm PST)</b></p></summary>
 
@@ -473,7 +481,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- V6 !-->
 
 <details><summary><p lang="en"><b>Version 7 (2023, Friday, March 17th at 8:53 pm PST)</b></p></summary>
 
@@ -493,7 +501,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- V7 !-->
 
 <details><summary><p lang="en"><b>Version 8 (2023, Saturday, March 18th at 7:27 pm PST)</b></p></summary>
 
@@ -513,7 +521,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- V8 !-->
 
 <details><summary><p lang="en"><b>Version 9 (2023, Sunday, March 19th at 3:24 pm PST)</b></p></summary>
 
@@ -533,7 +541,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- V9 !-->
 
 <details><summary><p lang="en"><b>Version 10 (2023, Monday, March 20th at 6:17 pm PST)</b></p></summary>
 
@@ -572,7 +580,7 @@ Meta tags are for applying filters to datasets of any size.
 - [x] Added the footer
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- V10 !-->
 
 <details><summary><p lang="en"><b>Version 11 (2023, Tuesday, March 21st at 4:10 pm PST)</b></p></summary>
 
@@ -592,7 +600,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 11
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- V11 !-->
 
 <details><summary><p lang="en"><b>Version 12 (2023, Wednesday, March 22nd at 3:46 pm PST)</b></p></summary>
 
@@ -612,7 +620,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- V12 !-->
 
 <details><summary><p lang="en"><b>Version 13 (2023, Thursday, March 23rd at 3:54 pm PST)</b></p></summary>
 
@@ -632,7 +640,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- V13 !-->
 
 <details><summary><p lang="en"><b>Version 14 (2023, Friday, March 24th at 6:04 pm PST)</b></p></summary>
 
@@ -652,7 +660,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- V14 !-->
 
 <details><summary><p lang="en"><b>Version 15 (2023, Saturday, March 25th at 9:34 pm PST)</b></p></summary>
 
@@ -672,7 +680,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 15
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- V15 !-->
 
 <details><summary><p lang="en"><b>Version 16 (2023, Sunday, March 26th at 10:07 pm PST)</b></p></summary>
 
@@ -692,7 +700,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- V16 !-->
 
 <details><summary><p lang="en"><b>Version 17 (2023, Monday, March 27th at 3:33 pm PST)</b></p></summary>
 
@@ -712,7 +720,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- V17 !-->
 
 <details><summary><p lang="en"><b>Version 18 (2023, Tuesday, March 28th at 3:13 pm PST)</b></p></summary>
 
@@ -748,7 +756,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- V18 !-->
 
 <details><summary><p lang="en"><b>Version 19 (2023, Wednesday, March 29th at 8:11 pm PST)</b></p></summary>
 
@@ -770,7 +778,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- V19 !-->
 
 <details><summary><p lang="en"><b>Version 20 (2023, Friday, March 31st at 10:24 pm PST)</b></p></summary>
 
@@ -794,7 +802,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- V20 !-->
 
 <details><summary><p lang="en"><b>Version 21 (2023, Saturday, April 1st at 6:33 pm PST)</b></p></summary>
 
@@ -816,7 +824,7 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- V21 !-->
 
 <details><summary><p lang="en"><b>Version 22 (2023, Sunday, April 2nd at 3:37 pm PST)</b></p></summary>
 
@@ -838,7 +846,30 @@ Meta tags are for applying filters to datasets of any size.
 - - [x] Added an entry for version 22
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- V22 !-->
+
+<details><summary><p lang="en"><b>Version 23 (2023, Monday, April 3rd at 4:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release._
+
+> Changes:
+
+- [x] **DEVELOPER** Added number sections (`<!-- V1 !-->`, `<!-- V2 !-->` etc.) to all file history release posts, to ease navigation
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Turkish` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Yiddish` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 23
+- [ ] No other changes in version 23
+
+</details> <!-- V23 !-->
 
 </details> <!-- End of file history section !-->
 

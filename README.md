@@ -149,6 +149,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
 
+#### SC: Afar
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Afar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afar/)
+
 #### SC: Afrikaans
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
@@ -161,9 +165,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
 
+#### SC: Belarusian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Belarusian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Belarusian/)
+
 #### SC: Berber
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
+
+#### SC: Bulgarian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
 
 #### SC: Chinese (Simplified)
 
@@ -285,6 +297,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Yiddish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yiddish/)
 
+#### SC: Yoruba
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Yoruba`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yoruba/)
+
 #### SC: Zulu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
@@ -322,9 +338,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2023, Monday, April 3rd at 4:12 pm PST)`
+**File version:** `24 (2023, Wednesday, April 5th at 3:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `885`
+**Line count (including blank lines and compiler line):** `925`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -870,6 +886,30 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 23
 
 </details> <!-- V23 !-->
+
+<details><summary><p lang="en"><b>Version 24 (2023, Wednesday, April 5th at 3:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, 1 day skipped_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Afar` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Belarusian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Bulgarian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Yoruba` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
+
+</details> <!-- V24 !-->
 
 </details> <!-- End of file history section !-->
 

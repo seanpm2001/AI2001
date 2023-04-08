@@ -157,6 +157,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
 
+#### SC: Ancient Egyptian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
+
 #### SC: Arabic
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
@@ -209,6 +213,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Greek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greek/)
 
+#### SC: Greenlandic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
+
 #### SC: Hebrew
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hebrew`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hebrew/)
@@ -229,6 +237,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
 
+#### SC: Korean (North)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (North)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-North/)
+
 #### SC: Korean (South)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
@@ -244,6 +256,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Latin
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
+
+#### SC: Pashto
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Pashto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Pashto/)
 
 #### SC: Portuguese
 
@@ -338,9 +354,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Wednesday, April 5th at 3:23 pm PST)`
+**File version:** `25 (2023, Friday, April 7th at 6:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `925`
+**Line count (including blank lines and compiler line):** `965`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -910,6 +926,30 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 24
 
 </details> <!-- V24 !-->
+
+<details><summary><p lang="en"><b>Version 25 (2023, Friday, April 7th at 6:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, 1 day skipped again_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Ancient Egyptian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Greenlandic` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Korean-North` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Pashto` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
+
+</details> <!-- V25 !-->
 
 </details> <!-- End of file history section !-->
 

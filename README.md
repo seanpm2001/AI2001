@@ -229,6 +229,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
 
+#### SC: Irish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Irish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Irish/)
+
 #### SC: Japanese
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
@@ -284,6 +288,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Sanskrit
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
+
+#### SC: Scottish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Scottish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Scottish/)
 
 #### SC: Sindhi
 
@@ -352,7 +360,12 @@ Meta tags are for applying filters to datasets of any size.
 
 </details>
 
+**🌱️ This [`README.md`](/README.md) file is a stub, and needs expansion**
+
+<!-- A file over 1000 lines in length cannot be considered a "major" stub
+(Possible decision: just say the file is incomplete, and don't refer to it as a stub)
 **🌱️ This [`README.md`](/README.md) file is a major stub, and needs significant expansion**
+!-->
 
 ***
 
@@ -362,9 +375,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2023, Saturday, April 8th at 3:35 pm PST)`
+**File version:** `27 (2023, Sunday, April 9th at 10:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `995`
+**Line count (including blank lines and compiler line):** `1,031`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -980,6 +993,29 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 26
 
 </details> <!-- V26 !-->
+
+<details><summary><p lang="en"><b>Version 27 (2023, Sunday, April 9th at 10:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, on time._
+
+> Changes:
+
+- [x] Updated the stub notice (no longer a major stub, just a stub, a file over 1000 lines in length cannot be considered a "major" stub)
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Irish` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Scottish` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 27
+- [ ] No other changes in version 27
+
+</details> <!-- V27 !-->
 
 </details> <!-- End of file history section !-->
 

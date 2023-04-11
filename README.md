@@ -205,6 +205,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
 
+#### SC: Finnish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Finnish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Finnish/)
+
 #### SC: French
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
@@ -264,6 +268,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Latin
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
+
+#### SC: Norwegian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Norwegian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Norwegian/)
 
 #### SC: Pashto
 
@@ -383,9 +391,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2023, Monday, April 10th at 6:05 pm PST)`
+**File version:** `29 (2023, Tuesday, April 11th at 4:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,061`
+**Line count (including blank lines and compiler line):** `1,091`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1046,6 +1054,28 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 28
 
 </details> <!-- V28 !-->
+
+<details><summary><p lang="en"><b>Version 29 (2023, Tuesday, April 11th at 4:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, on time._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Finnish` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Norwegian` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 29
+- [ ] No other changes in version 29
+
+</details> <!-- V29 !-->
 
 </details> <!-- End of file history section !-->
 

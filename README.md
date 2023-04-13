@@ -193,6 +193,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
 
+#### SC: Danish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
+
 #### SC: Dutch
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Dutch`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dutch/)
@@ -240,6 +244,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Irish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Irish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Irish/)
+
+#### SC: Italian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Italian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Italian/)
 
 #### SC: Japanese
 
@@ -391,9 +399,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `29 (2023, Tuesday, April 11th at 4:34 pm PST)`
+**File version:** `30 (2023, Wednesday, April 12th at 7:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,091`
+**Line count (including blank lines and compiler line):** `1,121`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1076,6 +1084,28 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 29
 
 </details> <!-- V29 !-->
+
+<details><summary><p lang="en"><b>Version 30 (2023, Wednesday, April 12th at 7:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, on time._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Danish` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Italian` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 30
+- [ ] No other changes in version 30
+
+</details> <!-- V30 !-->
 
 </details> <!-- End of file history section !-->
 

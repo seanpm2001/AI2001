@@ -281,6 +281,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
 
+#### SC: Mongolian (Classic)
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Classic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Classic/)
+
 #### SC: Mongolian (Cyrillic)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
@@ -353,6 +357,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
 
+#### SC: Uzbek
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
+
 #### SC: Welsh
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
@@ -407,9 +415,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Thursday, April 13th at 5:33 pm PST)`
+**File version:** `32 (2023, Friday, April 14th at 6:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,151`
+**Line count (including blank lines and compiler line):** `1,181`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1136,6 +1144,28 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 31
 
 </details> <!-- V31 !-->
+
+<details><summary><p lang="en"><b>Version 32 (2023, Friday, April 14th at 6:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, on time._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Mongolian (Classic)` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Uzbek` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
+
+</details> <!-- V32 !-->
 
 </details> <!-- End of file history section !-->
 

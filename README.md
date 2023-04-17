@@ -213,6 +213,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
 
+#### SC: Filipino
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Filipino`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Filipino/)
+
 #### SC: Finnish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Finnish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Finnish/)
@@ -337,6 +341,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
 
+#### SC: Tajik
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
+
 #### SC: Telugu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
@@ -357,6 +365,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
 
+#### SC: Uyghur
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Uyghur`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uyghur/)
+
 #### SC: Uzbek
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
@@ -364,6 +376,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Welsh
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
+
+#### SC: Xhosa
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Xhosa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Xhosa/)
 
 #### SC: Yiddish
 
@@ -415,9 +431,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `32 (2023, Friday, April 14th at 6:57 pm PST)`
+**File version:** `33 (2023, Sunday, April 16th at 6:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,181`
+**Line count (including blank lines and compiler line):** `1,221`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1166,6 +1182,30 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 32
 
 </details> <!-- V32 !-->
+
+<details><summary><p lang="en"><b>Version 33 (2023, Sunday, April 16th at 6:21 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, yesterday was skipped due to time reasons_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Filipino` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Tajik` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Ugyhur` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Xhosa` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 33
+- [ ] No other changes in version 33
+
+</details> <!-- V33 !-->
 
 </details> <!-- End of file history section !-->
 

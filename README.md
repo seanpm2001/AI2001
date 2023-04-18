@@ -185,6 +185,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
 
+#### SC: Chechen
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chechen`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chechen/)
+
 #### SC: Chinese (Simplified)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
@@ -345,6 +349,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
 
+#### SC: Tatar
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tatar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tatar/)
+
 #### SC: Telugu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
@@ -431,9 +439,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2023, Sunday, April 16th at 6:21 pm PST)`
+**File version:** `34 (2023, Monday, April 17th at 5:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,221`
+**Line count (including blank lines and compiler line):** `1,251`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1206,6 +1214,28 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 33
 
 </details> <!-- V33 !-->
+
+<details><summary><p lang="en"><b>Version 34 (2023, Monday, April 17th at 5:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal release, 2 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Chechen` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Tatar` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 34
+- [ ] No other changes in version 34
+
+</details> <!-- V34 !-->
 
 </details> <!-- End of file history section !-->
 

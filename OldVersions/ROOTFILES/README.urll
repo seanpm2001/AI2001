@@ -1,6 +1,7 @@
 /.github/
 /.gitlab/
 /Docs/
+/Logs/
 /OldVersions/
 /RepoData/
 /.editorconfig

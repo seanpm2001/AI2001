@@ -21,6 +21,8 @@ AI2001 is early in development, and is not ready yet.
 
 ## [Datasets](#Datasets)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 Datasets are sorted by categories, with nested sub-categories (**SC**) and nested subjects (**S**)
 
 All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Tuesday, March 21st)
@@ -253,6 +255,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
 
+#### SC: Igbo
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
+
 #### SC: Irish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Irish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Irish/)
@@ -292,6 +298,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Latvian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latvian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latvian/)
+
+#### SC: Lithuanian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
 
 #### SC: Mongolian (Classic)
 
@@ -432,6 +442,131 @@ Meta tags are for applying filters to datasets of any size.
 
 </details>
 
+</details>
+
+***
+
+## Home repository
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+### Logs
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### Incident log
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+The incident log records notable incidents during the development and usage of AI2001. As of 2023, Wednesday, April 19th, the log only has 1 entry. The incident log was created on 2023, Wednesday, April 19th.
+
+> [`View the incident log`](/Logs/AI2001/Incidents/INCIDENT_LOG.md)
+
+</details>
+
+</details>
+
+### README
+
+You are currently reading the `README.md` file in the home repository.
+
+### GitHub
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### GitHub Workflows
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+> **Note** These workflows currently don't stand for anything, as the home repository is not yet functional as a software program.
+
+| Workflows1 | Workflows2 | Workflows3 |
+|---|---|---|
+| [![C/C++ CI](https://github.com/seanpm2001/AI2001/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/c-cpp.yml) | [![CI](https://github.com/seanpm2001/AI2001/actions/workflows/julia-ci.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/julia-ci.yml) | [![CMake](https://github.com/seanpm2001/AI2001/actions/workflows/cmake.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/cmake.yml) |
+| [![CodeQL](https://github.com/seanpm2001/AI2001/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/codeql-analysis.yml) | [![Deploy Jekyll site to Pages](https://github.com/seanpm2001/AI2001/actions/workflows/jekyll.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/jekyll.yml) | [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/seanpm2001/AI2001/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/jekyll-gh-pages.yml) |
+| [![Deploy mdBook site to Pages](https://github.com/seanpm2001/AI2001/actions/workflows/mdbook.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/mdbook.yml) | [![Deploy static content to Pages](https://github.com/seanpm2001/AI2001/actions/workflows/github-pages-static-html.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/github-pages-static-html.yml) | [![Django CI](https://github.com/seanpm2001/AI2001/actions/workflows/django.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/django.yml) |
+| [![Julia Example builds](https://github.com/seanpm2001/AI2001/actions/workflows/julia-setup-build.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/julia-setup-build.yml) | [![Lint Code Base](https://github.com/seanpm2001/AI2001/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/super-linter.yml) | [![Makefile CI](https://github.com/seanpm2001/AI2001/actions/workflows/makefile.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/makefile.yml) |
+| [![Pylint](https://github.com/seanpm2001/AI2001/actions/workflows/pylint.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/pylint.yml) | [![Python application](https://github.com/seanpm2001/AI2001/actions/workflows/python-app.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-app.yml) | [![Python package](https://github.com/seanpm2001/AI2001/actions/workflows/python-package.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-package.yml) |
+| [![Python Package using Conda](https://github.com/seanpm2001/AI2001/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-package-conda.yml) | [![R](https://github.com/seanpm2001/AI2001/actions/workflows/r.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/r.yml) | [![SWI Prolog @Logtalk](https://github.com/seanpm2001/AI2001/actions/workflows/swi-prolog-lt.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/swi-prolog-lt.yml) |
+| [![Upload Python Package](https://github.com/seanpm2001/AI2001/actions/workflows/python-publish.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-publish.yml) | [![YAML Lint](https://github.com/seanpm2001/AI2001/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/yaml-lint.yml) | :x: | 
+
+</details>
+
+#### GitHub Discussions
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [`Read existing (archived) discussions`](/.github/Discussions/)
+- [:octocat: `Start a discussion`](https://github.com/seanpm2001/AI2001/discussions/)
+
+</details>
+
+#### GitHub Issues
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [`Read existing (archived) issues`](/.github/Issues/)
+- [:octocat: `Raise a new issue`](https://github.com/seanpm2001/AI2001/issues/)
+
+</details>
+
+#### GitHub Pull Requests
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [`Read existing (archived) PRs`](/.github/Pull_Requests/)
+- [:octocat: `Raise a new PR`](https://github.com/seanpm2001/AI2001/pulls)
+
+</details>
+
+#### GitHub Social Preview Images
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [`View social preview images`](/.github/SocialPreview/)
+
+</details>
+
+</details>
+
+### GitLab
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This project is not yet on Gitlab.
+
+- [`View GitLab folder anyway`](/.gitlab/)
+
+</details>
+
+### Docs
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[`Read the Docs`](/Docs/)
+
+</details>
+
+### OldVersions
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[`Browse old versions of files`](/OldVersions/)
+
+</details>
+
+### RepoData
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[`Read repository data`](/RepoData/)
+
+</details>
+
+</details>
+
+***
+
 **🌱️ This [`README.md`](/README.md) file is a stub, and needs expansion**
 
 <!-- A file over 1000 lines in length cannot be considered a "major" stub
@@ -447,9 +582,9 @@ Meta tags are for applying filters to datasets of any size.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `35 (2023, Tuesday, April 18th at 3:22 pm PST)`
+**File version:** `36 (2023, Wednesday, April 19th at 4:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,281`
+**Line count (including blank lines and compiler line):** `1,452`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1266,6 +1401,42 @@ Meta tags are for applying filters to datasets of any size.
 - [ ] No other changes in version 35
 
 </details> <!-- V35 !-->
+
+<details><summary><p lang="en"><b>Version 36 (2023, Wednesday, April 19th at 4:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A very large update today._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Igbo` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Lithuanian` subsection
+- [x] Added the `Home repository` section
+- - [x] Added the `Logs` subsection
+- - - [x] Added the `Incident logs` sub-subsection
+- - [x] Added the `README` subsection
+- - [x] Added the `GitHub` subsection
+- - - [x] Added the `GitHub workflows` subsection
+- - - [x] Added the `GitHub Discussions` subsection
+- - - [x] Added the `GitHub Issues` subsection
+- - - [x] Added the `GitHub Pull Requests` subsection
+- - - [x] Added the `GitHub Social Preview Images` subsection
+- - [x] Added the `GitLab` subsection
+- - [x] Added the `Docs` subsection
+- - [x] Added the `OldVersions` subsection
+- - [x] Added the `RepoData` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 36
+- [ ] No other changes in version 36
+
+</details> <!-- V36 !-->
 
 </details> <!-- End of file history section !-->
 

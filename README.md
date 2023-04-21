@@ -187,6 +187,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
 
+#### SC: Catalan
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Catalan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Catalan/)
+
 #### SC: Chechen
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chechen`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chechen/)
@@ -198,6 +202,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Chinese (Traditional)
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
+
+#### SC: Corsican
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Corsican`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Corsican/)
 
 #### SC: Cuneiform
 
@@ -582,9 +590,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2023, Wednesday, April 19th at 4:49 pm PST)`
+**File version:** `37 (2023, Thursday, April 20th at 5:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,452`
+**Line count (including blank lines and compiler line):** `1,482`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1437,6 +1445,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 36
 
 </details> <!-- V36 !-->
+
+<details><summary><p lang="en"><b>Version 37 (2023, Thursday, April 20th at 5:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 5 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Catalan` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Corsican` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- V37 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -159,6 +159,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
 
+#### SC: Akkadian
+
+> **Note** _Commonly confused with Assyrian_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Akkadian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Akkadian/)
+
 #### SC: Ancient Egyptian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
@@ -374,6 +380,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Spanish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
+
+#### SC: Swahili
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Swahili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swahili/)
 
 #### SC: Swedish
 
@@ -598,9 +608,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2023, Friday, April 21st at 7:00 pm PST)`
+**File version:** `39 (2023, Saturday, April 22nd at 6:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,512`
+**Line count (including blank lines and compiler line):** `1,544`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1497,6 +1507,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 38
 
 </details> <!-- V38 !-->
+
+<details><summary><p lang="en"><b>Version 39 (2023, Saturday, April 22nd at 6:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 7 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Akkadian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Swahili` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 39
+- [ ] No other changes in version 39
+
+</details> <!-- V39 !-->
 
 </details> <!-- End of file history section !-->
 

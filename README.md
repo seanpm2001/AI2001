@@ -203,9 +203,13 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Chinese (Simplified)
 
+> **Note** _Not to be confused with Chinese (Traditional)_
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
 
 #### SC: Chinese (Traditional)
+
+> **Note** _Not to be confused with Chinese (Simplified)_
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
 
@@ -231,13 +235,23 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: English
 
+> **Note** _The default language for all AI2001 repositories._
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
+
+#### SC: Esperanto
+
+> **Note** _Esperanto is an attempt at making a universal language._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Esperanto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Esperanto/)
 
 #### SC: Ethiopian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
 
 #### SC: Filipino
+
+> **Note** _Not to be confused with Tagalog._
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Filipino`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Filipino/)
 
@@ -267,6 +281,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Hindi
 
+> **Note** _Not to be confused with Sanskrit._
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
 
 #### SC: Hungarian
@@ -287,17 +303,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Japanese
 
+> **Note** _Not to be confused with Javanese._
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
 
 #### SC: Javanese
+
+> **Note** _Not to be confused with Japanese._
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
 
 #### SC: Korean (North)
 
+> **Note** _Not to be confused with Korean (South)_
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (North)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-North/)
 
 #### SC: Korean (South)
+
+> **Note** _Not to be confused with Korean (North)_
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
 
@@ -323,9 +347,13 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Mongolian (Classic)
 
+> **Note** _Not to be confused with Mongolian (Cyrillic)_
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Classic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Classic/)
 
 #### SC: Mongolian (Cyrillic)
+
+> **Note** _Not to be confused with Mongolian (Classic)_
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
 
@@ -367,6 +395,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Sanskrit
 
+> **Note** _Not to be confused with Hindi._
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
 
 #### SC: Scottish
@@ -380,6 +410,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Spanish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
+
+#### SC: Sundanese
+
+> **Note** _Not to be confused with Sudanese. The language of Sudan is Arabic (also English)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sundanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sundanese/)
 
 #### SC: Swahili
 
@@ -415,6 +451,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Urdu
 
+> **Note** _Not to be confused with Arabic._
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
 
 #### SC: Uyghur
@@ -426,6 +464,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
 
 #### SC: Welsh
+
+> **Note** _Not to be confused with English._
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
 
@@ -608,9 +648,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2023, Saturday, April 22nd at 6:34 pm PST)`
+**File version:** `40 (2023, Sunday, April 23rd at 5:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,544`
+**Line count (including blank lines and compiler line):** `1,606`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1529,6 +1569,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 39
 
 </details> <!-- V39 !-->
+
+<details><summary><p lang="en"><b>Version 40 (2023, Sunday, April 23rd at 5:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 8 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Esperanto` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Sundanese` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 40
+- [ ] No other changes in version 40
+
+</details> <!-- V40 !-->
 
 </details> <!-- End of file history section !-->
 

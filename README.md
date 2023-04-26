@@ -173,6 +173,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
 
+#### SC: Armenian
+
+<!-- Yes, I do realize that the Armenian Genocide happened, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
+
 #### SC: Azerbaijan
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
@@ -262,6 +268,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: French
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
+
+#### SC: Frisian
+
+> **Note** _Frisian has many notable dialects._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Frisian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian/)
 
 #### SC: German
 
@@ -461,6 +473,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Uyghur
 
+<!-- Yes, I do realize that the Uyghur Genocide is ongoing, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
+
 - [:octocat: `AI2001 Category: Linguistics ;SC: Uyghur`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uyghur/)
 
 #### SC: Uzbek
@@ -656,9 +670,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2023, Monday, April 24th at 4:46 pm PST)`
+**File version:** `42 (2023, Tuesday, April 25th at 11:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,636`
+**Line count (including blank lines and compiler line):** `1,672`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1604,7 +1618,7 @@ This project is not yet on Gitlab.
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _Consecutive update, 8 consecutive days in a row._
+> **Note** _Consecutive update, 9 consecutive days in a row._
 
 > Changes:
 
@@ -1621,6 +1635,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 41
 
 </details> <!-- V41 !-->
+
+<details><summary><p lang="en"><b>Version 42 (2023, Tuesday, April 25th at 11:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 10 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Armenian` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Frisian` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 42
+- [ ] No other changes in version 42
+
+</details> <!-- V42 !-->
 
 </details> <!-- End of file history section !-->
 

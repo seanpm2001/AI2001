@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 124 total repository links (as of 2023, Tuesday, April 25th at 11:33 pm PST), Version 42
+//// 126 total repository links (as of 2023, Wednesday, April 26th at 3:12 pm PST), Version 43
 
-//// GitHub (124)
+//// GitHub (126)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -129,11 +129,13 @@ https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Walloon
 https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish
 https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Armenian
 https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bengali
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Indonesian
 
 //// GitLab (0)
 
 //// File info
-//// File version: 42 (2023, Tuesday, April 25th at 11:33 pm PST)
-//// Line count (including blank lines and compiler line): 140
+//// File version: 43 (2023, Wednesday, April 26th at 3:12 pm PST)
+//// Line count (including blank lines and compiler line): 142
 
 //// End of file (EOF)

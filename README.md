@@ -187,6 +187,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Belarusian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Belarusian/)
 
+#### SC: Bengali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bengali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bengali/)
+
 #### SC: Berber
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
@@ -304,6 +308,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Igbo
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
+
+#### SC: Indonesian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Indonesian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Indonesian/)
 
 #### SC: Irish
 
@@ -670,9 +678,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Tuesday, April 25th at 11:30 pm PST)`
+**File version:** `43 (2023, Wednesday, April 26th at 3:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,672`
+**Line count (including blank lines and compiler line):** `1,702`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1657,6 +1665,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 42
 
 </details> <!-- V42 !-->
+
+<details><summary><p lang="en"><b>Version 43 (2023, Wednesday, April 26th at 3:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 11 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Bengali` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Indonesian` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
+
+</details> <!-- V43 !-->
 
 </details> <!-- End of file history section !-->
 

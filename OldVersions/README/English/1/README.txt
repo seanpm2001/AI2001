@@ -453,6 +453,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
 
+#### SC: Tagalog
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tagalog`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tagalog/)
+
 #### SC: Tajik
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
@@ -496,6 +500,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Uzbek
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
+
+#### SC: Vietnamese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Vietnamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Vietnamese/)
 
 #### SC: Welsh
 
@@ -686,9 +694,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `44 (2023, Thursday, April 27th at 5:11 pm PST)`
+**File version:** `45 (2023, Friday, April 28th at 3:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,732`
+**Line count (including blank lines and compiler line):** `1,762`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1717,6 +1725,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 44
 
 </details> <!-- V44 !-->
+
+<details><summary><p lang="en"><b>Version 45 (2023, Friday, April 28th at 3:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 13 consecutive days in a row. This streak will end tomorrow._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Tagalog` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Vietnamese` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 45
+- [ ] No other changes in version 45
+
+</details> <!-- V45 !-->
 
 </details> <!-- End of file history section !-->
 

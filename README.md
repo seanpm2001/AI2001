@@ -369,6 +369,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
 
+#### SC: Marathi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
+
 #### SC: Mongolian (Classic)
 
 > **Note** _Not to be confused with Mongolian (Cyrillic)_
@@ -452,6 +456,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Tajik
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
+
+#### SC: Tamil
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tamil`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tamil/)
 
 #### SC: Tatar
 
@@ -678,9 +686,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `43 (2023, Wednesday, April 26th at 3:10 pm PST)`
+**File version:** `44 (2023, Thursday, April 27th at 5:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,702`
+**Line count (including blank lines and compiler line):** `1,732`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1687,6 +1695,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 43
 
 </details> <!-- V43 !-->
+
+<details><summary><p lang="en"><b>Version 44 (2023, Thursday, April 27th at 5:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Consecutive update, 12 consecutive days in a row. This streak will likely end the day after tomorrow._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Marathi` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Tamil` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
+
+</details> <!-- V44 !-->
 
 </details> <!-- End of file history section !-->
 

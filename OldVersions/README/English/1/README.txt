@@ -235,6 +235,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
 
+#### SC: Czech
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Czech`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Czech/)
+
 #### SC: Danish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
@@ -434,6 +438,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Sindhi
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Sindhi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sindhi/)
+
+#### SC: Somali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Somali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Somali/)
 
 #### SC: Spanish
 
@@ -694,9 +702,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `45 (2023, Friday, April 28th at 3:59 pm PST)`
+**File version:** `46 (2023, Friday, May 5th at 7:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,762`
+**Line count (including blank lines and compiler line):** `1,792`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1747,6 +1755,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 45
 
 </details> <!-- V45 !-->
+
+<details><summary><p lang="en"><b>Version 46 (2023, Friday, May 5th at 7:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Coming back exactly one week later, after a 6 day vacation. Just like I promised._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics Somali` subsection
+- - - [x] Added the `AI2001 Category: Linguistics Czech` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 46
+- [ ] No other changes in version 46
+
+</details> <!-- V46 !-->
 
 </details> <!-- End of file history section !-->
 

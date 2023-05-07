@@ -29,6 +29,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 > [`View this list as URLL`](/AI2001_REPOLIST.urll)
 
+---
+
 ### [C: Documents](#C-Documents)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -57,13 +59,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details>
 
+---
+
 ### [C: Source Code](#C-Source-Code)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/)
 
+#### SC: ABAP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ABAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ABAP/)
+
+#### SC: ActionScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ActionScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ActionScript/)
+
 </details>
+
+---
 
 ### [C: Images](#C-Images)
 
@@ -98,6 +112,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details>
 
+---
+
 ### [C: Videos](#C-vIDEOS)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -123,6 +139,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details>
 
+---
+
 ### [C: Audio](#C-Audio)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -144,6 +162,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
 
 </details>
+
+---
 
 ### [C: Linguistics](#C-Linguistics)
 
@@ -541,6 +561,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details>
 
+---
+
 ### [Meta](#Meta)
 
 #### Meta subcategory
@@ -702,9 +724,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `46 (2023, Friday, May 5th at 7:55 pm PST)`
+**File version:** `47 (2023, Saturday, May 6th at 6:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,792`
+**Line count (including blank lines and compiler line):** `1,836`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1777,6 +1799,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 46
 
 </details> <!-- V46 !-->
+
+<details><summary><p lang="en"><b>Version 47 (2023, Saturday, May 6th at 6:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day. Now transitioning to source code datasets for a while, it is a shame I didn't have my new template ready until yesterday, where it could only be used effectively for 1 day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: ABAP` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ActionScript` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 47
+- [ ] No other changes in version 47
+
+</details> <!-- V47 !-->
 
 </details> <!-- End of file history section !-->
 

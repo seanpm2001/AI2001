@@ -79,6 +79,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ALGOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ALGOL/)
 
+#### SC: AngelScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AngelScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AngelScript/)
+
+#### SC: ASP.NET
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ASP.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP.NET/)
+
 #### SC: AWK
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AWK`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AWK/)
@@ -732,9 +740,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `48 (2023, Sunday, May 7th at 7:07 pm PST)`
+**File version:** `49 (2023, Monday, May 8th at 10:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,866`
+**Line count (including blank lines and compiler line):** `1,896`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1851,6 +1859,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 48
 
 </details> <!-- V48 !-->
+
+<details><summary><p lang="en"><b>Version 49 (2023, Monday, May 8th at 10:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 4th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: AngelScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ASP.NET` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 49
+- [ ] No other changes in version 49
+
+</details> <!-- V49 !-->
 
 </details> <!-- End of file history section !-->
 

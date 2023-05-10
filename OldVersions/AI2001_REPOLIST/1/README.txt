@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 140 total repository links (as of 2023, Tuesday, May 9th at 4:28 pm PST), Version 50
+//// 142 total repository links (as of 2023, Wendesday, May 10th at 4:59 pm PST), Version 51
 
-//// GitHub (140)
+//// GitHub (142)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -145,11 +145,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AngelScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP.NET
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Astro
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Agda
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AMPL
 
 //// GitLab (0)
 
 //// File info
-//// File version: 50 (2023, Tuesday, May 9th at 4:28 pm PST)
-//// Line count (including blank lines and compiler line): 156
+//// File version: 51 (2023, Wednesday, May 10th at 4:59 pm PST)
+//// Line count (including blank lines and compiler line): 158
 
 //// End of file (EOF)

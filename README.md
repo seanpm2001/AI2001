@@ -19,6 +19,8 @@ AI2001 is early in development, and is not ready yet.
 
 [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/)
 
+---
+
 ## [Datasets](#Datasets)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -115,9 +117,18 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AWK`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AWK/)
 
+#### SC: B
+
+- [:octocat: `AI2001 Category: Source Code ;SC: B`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B/)
+
+#### SC: Brainfuck
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Brainfuck`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Brainfuck/)
+
 #### SC: BrighterScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: BrighterScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrighterScript/)
+
 #### SC: BrightScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: BrightScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrightScript/)
@@ -771,9 +782,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `53 (2023, Friday, May 12th at 6:50 pm PST)`
+**File version:** `54 (2023, Saturday, May 13th at 5:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,015`
+**Line count (including blank lines and compiler line):** `2,048`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1979,7 +1990,7 @@ This project is not yet on Gitlab.
 
 </details> <!-- V52 !-->
 
-<details><summary><p lang="en"><b>Version 53 (2023, Thursday, May 12th at 6:50 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 53 (2023, Friday, May 12th at 6:50 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -2000,6 +2011,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 53
 
 </details> <!-- V53 !-->
+
+<details><summary><p lang="en"><b>Version 54 (2023, Saturday, May 13th at 5:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 8th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: B` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Brainfuck` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 54
+- [ ] No other changes in version 54
+
+</details> <!-- V54 !-->
 
 </details> <!-- End of file history section !-->
 

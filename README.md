@@ -141,6 +141,15 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: BrightScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrightScript/)
 
+#### SC: C
+
+- [:octocat: `AI2001 Category: Source Code ;SC: C`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C/)
+
+#### SC: Clean
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Clean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clean/)
+
+
 </details>
 
 ---
@@ -790,9 +799,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `55 (2023, Sunday, May 14th at 5:17 pm PST)`
+**File version:** `56 (2023, Monday, May 15th at 4:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,078`
+**Line count (including blank lines and compiler line):** `2,109`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2063,6 +2072,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 55
 
 </details> <!-- V55 !-->
+
+<details><summary><p lang="en"><b>Version 56 (2023, Monday, May 15th at 4:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 11th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: C` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Clean` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 56
+- [ ] No other changes in version 56
+
+</details> <!-- V56 !-->
 
 </details> <!-- End of file history section !-->
 

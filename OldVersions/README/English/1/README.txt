@@ -121,6 +121,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: B`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B/)
 
+#### SC: Batchfile
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Batchfile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Batchfile/)
+
+#### SC: Bikeshed
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Bikeshed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bikeshed/)
+
 #### SC: Brainfuck
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Brainfuck`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Brainfuck/)
@@ -782,9 +790,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `54 (2023, Saturday, May 13th at 5:25 pm PST)`
+**File version:** `55 (2023, Sunday, May 14th at 5:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,048`
+**Line count (including blank lines and compiler line):** `2,078`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2016,7 +2024,7 @@ This project is not yet on Gitlab.
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _Continuing for an 8th consecutive day._
+> **Note** _Continuing for an 9th consecutive day._
 
 > Changes:
 
@@ -2033,6 +2041,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 54
 
 </details> <!-- V54 !-->
+
+<details><summary><p lang="en"><b>Version 55 (2023, Sunday, May 14th at 5:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 10th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Batchfile` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Bikeshed` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 55
+- [ ] No other changes in version 55
+
+</details> <!-- V55 !-->
 
 </details> <!-- End of file history section !-->
 

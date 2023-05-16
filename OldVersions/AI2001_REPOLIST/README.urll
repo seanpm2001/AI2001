@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 150 total repository links (as of 2023, Sunday, May 14th at 5:20 pm PST), Version 55
+//// 152 total repository links (as of 2023, Monday, May 15th at 5:00 pm PST), Version 56
 
-//// GitHub (150)
+//// GitHub (152)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -155,11 +155,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Brainfuck
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bikeshed
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Batchfile
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clean
 
 //// GitLab (0)
 
 //// File info
-//// File version: 55 (2023, Sunday, May 14th at 5:20 pm PST)
-//// Line count (including blank lines and compiler line): 166
+//// File version: 56 (2023, Monday, May 15th at 5:00 pm PST)
+//// Line count (including blank lines and compiler line): 168
 
 //// End of file (EOF)

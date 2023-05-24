@@ -213,6 +213,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: E`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-E/)
 
+#### SC: Eiffel
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Eiffel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eiffel/)
+
+#### SC: Erlang
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Erlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang/)
+
 </details>
 
 ---
@@ -862,9 +870,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `64 (2023, Tuesday, May 23rd at 9:09 pm PST)`
+**File version:** `65 (2023, Wednesday, May 24th at 4:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,348`
+**Line count (including blank lines and compiler line):** `2,378`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2333,6 +2341,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 64
 
 </details> <!-- V64 !-->
+
+<details><summary><p lang="en"><b>Version 65 (2023, Wednesday, May 24th at 4:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 20th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Eiffel` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Erlang` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 65
+- [ ] No other changes in version 65
+
+</details> <!-- V65 !-->
 
 </details> <!-- End of file history section !-->
 

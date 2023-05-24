@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 166 total repository links (as of 2023, Monday, May 22nd at 3:29 pm PST), Version 63
+//// 168 total repository links (as of 2023, Tuesday, May 23rd at 9:05 pm PST), Version 64
 
-//// GitHub (166)
+//// GitHub (168)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -171,11 +171,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dart
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Desktop
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Diff
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dhall
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DIGITAL-Command-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-E
 
 //// GitLab (0)
 
 //// File info
-//// File version: 63 (2023, Monday, May 22nd at 3:29 pm PST)
-//// Line count (including blank lines and compiler line): 182
+//// File version: 64 (2023, Tuesday, May 23rd at 9:05 pm PST)
+//// Line count (including blank lines and compiler line): 184
 
 //// End of file (EOF)

@@ -205,6 +205,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Diff`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Diff/)
 
+#### SC: DIGITAL Command Language
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DIGITAL Command Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DIGITAL-Command-Language/)
+
+#### SC: E
+
+- [:octocat: `AI2001 Category: Source Code ;SC: E`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-E/)
+
 </details>
 
 ---
@@ -854,9 +862,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `63 (2023, Monday, May 22nd at 3:26 pm PST)`
+**File version:** `64 (2023, Tuesday, May 23rd at 9:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,318`
+**Line count (including blank lines and compiler line):** `2,348`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2303,6 +2311,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 63
 
 </details> <!-- V63 !-->
+
+<details><summary><p lang="en"><b>Version 64 (2023, Tuesday, May 23rd at 9:09 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 19th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: DIGITAL Command Language` subsection
+- - - [x] Added the `AI2001 Category: Source Code: E` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 64
+- [ ] No other changes in version 64
+
+</details> <!-- V64 !-->
 
 </details> <!-- End of file history section !-->
 

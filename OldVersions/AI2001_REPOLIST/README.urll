@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 172 total repository links (as of 2023, Thursday, May 25th at 5:23 pm PST), Version 66
+//// 174 total repository links (as of 2023, Friday, May 26th at 6:49 pm PST), Version 67
 
-//// GitHub (172)
+//// GitHub (174)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -177,11 +177,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eiffel
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJS
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Epigram
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-F-Sharp
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fish
 
 //// GitLab (0)
 
 //// File info
-//// File version: 66 (2023, Thursday, May 25th at 5:23 pm PST)
-//// Line count (including blank lines and compiler line): 188
+//// File version: 67 (2023, Friday, May 26th at 6:49 pm PST)
+//// Line count (including blank lines and compiler line): 190
 
 //// End of file (EOF)

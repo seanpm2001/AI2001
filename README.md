@@ -237,6 +237,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Factor`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Factor/)
 
+#### SC: Fancy
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Fancy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fancy/)
+
 #### SC: Fish
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fish`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fish/)
@@ -244,6 +248,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Fluent
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fluent`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fluent/)
+
+#### SC: Fortran95
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
 
 </details>
 
@@ -894,9 +902,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `68 (2023, Saturday, May 27th at 1:44 pm PST)`
+**File version:** `69 (2023, Sunday, May 28th at 9:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,468`
+**Line count (including blank lines and compiler line):** `2,498`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2453,6 +2461,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 68
 
 </details> <!-- V68 !-->
+
+<details><summary><p lang="en"><b>Version 69 (2023, Sunday, May 28th at 9:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 22nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Fancy` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Fortran95` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 69
+- [ ] No other changes in version 69
+
+</details> <!-- V69 !-->
 
 </details> <!-- End of file history section !-->
 

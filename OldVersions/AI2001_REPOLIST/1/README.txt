@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 180 total repository links (as of 2023, Monday, May 29th at 10:09 pm PST), Version 70
+//// 182 total repository links (as of 2023, Tuesday, May 30th at 10:01 pm PST), Version 70
 
-//// GitHub (180)
+//// GitHub (182)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -185,11 +185,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fancy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoogleGo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GLSL
 
 //// GitLab (0)
 
 //// File info
-//// File version: 70 (2023, Monday, May 29th at 10:09 pm PST)
-//// Line count (including blank lines and compiler line): 196
+//// File version: 71 (2023, Tuesday, May 30th at 10:01 pm PST)
+//// Line count (including blank lines and compiler line): 198
 
 //// End of file (EOF)

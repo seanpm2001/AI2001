@@ -253,6 +253,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
 
+#### SC: GDScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GDScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDScript/)
+
+#### SC: GLSL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GLSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GLSL/)
+
 #### SC: Go!
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Go!`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-/)
@@ -893,9 +901,9 @@ This project is not yet on Gitlab.
 
 </details>
 
-***
+<!-- ***
 
-**🌱️ This [`README.md`](/README.md) file is a stub, and needs expansion**
+**🌱️ This [`README.md`](/README.md) file is a stub, and needs expansion** !-->
 
 <!-- A file over 1000 lines in length cannot be considered a "major" stub
 (Possible decision: just say the file is incomplete, and don't refer to it as a stub)
@@ -910,9 +918,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `70 (2023, Monday, May 29th at 10:06 pm PST)`
+**File version:** `71 (2023, Tuesday, May 30th at 9:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,528`
+**Line count (including blank lines and compiler line):** `2,558`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2513,6 +2521,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 70
 
 </details> <!-- V70 !-->
+
+<details><summary><p lang="en"><b>Version 71 (2023, Tuesday, May 30th at 9:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 24th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: GDScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: GLSL` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 71
+- [ ] No other changes in version 71
+
+</details> <!-- V71 !-->
 
 </details> <!-- End of file history section !-->
 

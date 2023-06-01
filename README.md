@@ -253,9 +253,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
 
+#### SC: GAP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAP/)
+
 #### SC: GDScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GDScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDScript/)
+
+#### SC: Gherkin
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Gherkin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gherkin/)
 
 #### SC: GLSL
 
@@ -918,9 +926,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `71 (2023, Tuesday, May 30th at 9:58 pm PST)`
+**File version:** `72 (2023, Wednesday, May 31st at 8:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,558`
+**Line count (including blank lines and compiler line):** `2,588`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2543,6 +2551,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 71
 
 </details> <!-- V71 !-->
+
+<details><summary><p lang="en"><b>Version 72 (2023, Wednesday, May 31st at 8:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 25th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: GAP` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Gherkin` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 72
+- [ ] No other changes in version 72
+
+</details> <!-- V72 !-->
 
 </details> <!-- End of file history section !-->
 

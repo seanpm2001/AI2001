@@ -277,6 +277,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Google Go/Google Golang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoogleGo/)
 
+#### SC: GSC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GSC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GSC/)
+
+#### SC: Haskell
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Haskell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Haskell/)
+
 </details>
 
 ---
@@ -771,6 +779,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+- [:octocat: `AI2001 Category: Meta`](https://github.com/seanpm2001/AI2001_Category-Meta/)
+
 ##### MT (motion)
 
 Meta categories are for applying filters to datasets belonging to 2 or more categories
@@ -920,15 +930,15 @@ This project is not yet on Gitlab.
 
 ***
 
-### [File info](#File-info)
+# [File info](#File-info)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `72 (2023, Wednesday, May 31st at 8:55 pm PST)`
+**File version:** `73 (2023, Thursday, June 1st at 4:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,588`
+**Line count (including blank lines and compiler line):** `2,626`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -944,7 +954,7 @@ This project is not yet on Gitlab.
 
 ***
 
-## [File history](#File-history)
+# [File history](#File-history)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
@@ -2574,14 +2584,42 @@ This project is not yet on Gitlab.
 
 </details> <!-- V72 !-->
 
+<details><summary><p lang="en"><b>Version 73 (2023, Thursday, June 1st at 4:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 26th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: GSC` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Haskell` subsection
+- - [x] Updated the `C: Meta` section
+- - - [x] Added a link to the newly created meta category repository
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 73
+- [x] Updated the footer
+- - [x] Added an `EOF` line
+- [ ] No other changes in version 73
+
+</details> <!-- V73 !-->
+
 </details> <!-- End of file history section !-->
 
 ***
 
-## [Footer](#Footer)
+# [Footer](#Footer)
 
 You have reached the bottom of this page.
 
 ( [Back to top](#AI2001) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+
+###### [EOF](#EOF)
 
 ***

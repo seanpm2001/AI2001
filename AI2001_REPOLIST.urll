@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 187 total repository links (as of 2023, Thursday, June 1st at 4:21 pm PST), Version 73
+//// 189 total repository links (as of 2023, Friday, June 2nd at 10:19 pm PST), Version 74
 
-//// GitHub (187)
+//// GitHub (189)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -192,11 +192,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gherkin
 https://github.com/seanpm2001/AI2001_Category-Meta
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GSC
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Haskell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTTP
 
 //// GitLab (0)
 
 //// File info
-//// File version: 73 (2023, Thursday, June 1st at 4:21 pm PST)
-//// Line count (including blank lines and compiler line): 203
+//// File version: 74 (2023, Friday, June 2nd at 10:19 pm PST)
+//// Line count (including blank lines and compiler line): 205
 
 //// End of file (EOF)

@@ -285,6 +285,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Haskell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Haskell/)
 
+#### SC: HTML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: HTML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML/)
+
+#### SC: HTTP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: HTTP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTTP/)
+
 </details>
 
 ---
@@ -936,9 +944,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `73 (2023, Thursday, June 1st at 4:17 pm PST)`
+**File version:** `74 (2023, Friday, June 2nd at 10:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,626`
+**Line count (including blank lines and compiler line):** `2,660`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2609,6 +2617,32 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 73
 
 </details> <!-- V73 !-->
+
+<details><summary><p lang="en"><b>Version 74 (2023, Friday, June 2nd at 10:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 26th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: HTML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: HTTP` subsection
+- - [x] Updated the `C: Meta` section
+- - - [x] Added a link to the newly created meta category repository
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 74
+- [x] Updated the footer
+- - [x] Added an `EOF` line
+- [ ] No other changes in version 74
+
+</details> <!-- V74 !-->
 
 </details> <!-- End of file history section !-->
 

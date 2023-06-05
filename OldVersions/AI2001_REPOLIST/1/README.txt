@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 193 total repository links (as of 2023, Sunday, June 4th at 4:25 pm PST), Version 76
+//// 195 total repository links (as of 2023, Monday, June 5th at 3:37 pm PST), Version 77
 
-//// GitHub (193)
+//// GitHub (195)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -198,11 +198,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HaProxy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HyPhy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Haxe
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Inno-Setup
 
 //// GitLab (0)
 
 //// File info
-//// File version: 76 (2023, Sunday, June 4th at 4:25 pm PST)
-//// Line count (including blank lines and compiler line): 209
+//// File version: 77 (2023, Monday, June 5th at 3:37 pm PST)
+//// Line count (including blank lines and compiler line): 211
 
 //// End of file (EOF)

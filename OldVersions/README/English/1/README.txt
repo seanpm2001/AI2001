@@ -281,6 +281,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GSC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GSC/)
 
+#### SC: Hack
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Hack`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack/)
+
 #### SC: HAProxy
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HAProxy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HaProxy/)
@@ -308,6 +312,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: HyPhy
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HyPhy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HyPhy/)
+
+#### SC: Inno Setup
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Inno Setup`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Inno-Setup/)
 
 </details>
 
@@ -960,9 +968,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `76 (2023, Sunday, June 4th at 4:22 pm PST)`
+**File version:** `77 (2023, Monday, June 5th at 3:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,728`
+**Line count (including blank lines and compiler line):** `2,754`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2654,8 +2662,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 74
-- [x] Updated the footer
-- - [x] Added an `EOF` line
 - [ ] No other changes in version 74
 
 </details> <!-- V74 !-->
@@ -2680,8 +2686,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 75
-- [x] Updated the footer
-- - [x] Added an `EOF` line
 - [ ] No other changes in version 75
 
 </details> <!-- V75 !-->
@@ -2706,11 +2710,33 @@ This project is not yet on Gitlab.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 76
-- [x] Updated the footer
-- - [x] Added an `EOF` line
 - [ ] No other changes in version 76
 
 </details> <!-- V76 !-->
+
+<details><summary><p lang="en"><b>Version 77 (2023, Monday, June 5th at 3:35 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 29th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Hack` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Inno Setup` subsection
+- - [x] Updated the `C: Meta` section
+- - - [x] Added a link to the newly created meta category repository
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 77
+- [ ] No other changes in version 77
+
+</details> <!-- V77 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 197 total repository links (as of 2023, Tuesday, June 6th at 9:21 pm PST), Version 78
+//// 199 total repository links (as of 2023, Wednesday, June 7th at 10:01 pm PST), Version 79
 
-//// GitHub (197)
+//// GitHub (199)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -202,11 +202,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Inno-Setup
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-INI
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON
 
 //// GitLab (0)
 
 //// File info
-//// File version: 78 (2023, Tuesday, June 6th at 9:21 pm PST)
-//// Line count (including blank lines and compiler line): 213
+//// File version: 79 (2023, Wednesday, June 7th at 10:01 pm PST)
+//// Line count (including blank lines and compiler line): 215
 
 //// End of file (EOF)

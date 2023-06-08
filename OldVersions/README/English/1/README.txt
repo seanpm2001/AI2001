@@ -321,6 +321,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Inno Setup`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Inno-Setup/)
 
+#### SC: J
+
+- [:octocat: `AI2001 Category: Source Code ;SC: J`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-J/)
+
 #### SC: Java
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Java`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java/)
@@ -332,6 +336,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: JSON
 
 - [:octocat: `AI2001 Category: Source Code ;SC: JSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON/)
+
+#### SC: Jsonnet
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Jsonnet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jsonnet/)
 
 </details>
 
@@ -984,9 +992,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `79 (2023, Wednesday, June 7th at 10:05 pm PST)`
+**File version:** `80 (2023, Thursday, June 8th at 3:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,818`
+**Line count (including blank lines and compiler line):** `2,836`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2670,8 +2678,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: HTML` subsection
 - - - [x] Added the `AI2001 Category: Source Code: HTTP` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2694,8 +2700,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: HAProxy` subsection
 - - - [x] Added the `AI2001 Category: Source Code: Hy` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2718,8 +2722,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: Haxe` subsection
 - - - [x] Added the `AI2001 Category: Source Code: HyPhy` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2742,8 +2744,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: Hack` subsection
 - - - [x] Added the `AI2001 Category: Source Code: Inno Setup` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2766,8 +2766,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: INI` subsection
 - - - [x] Added the `AI2001 Category: Source Code: Java` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2790,8 +2788,6 @@ This project is not yet on Gitlab.
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added the `AI2001 Category: Source Code: JavaScript` subsection
 - - - [x] Added the `AI2001 Category: Source Code: JSON` subsection
-- - [x] Updated the `C: Meta` section
-- - - [x] Added a link to the newly created meta category repository
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2801,6 +2797,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 79
 
 </details> <!-- V79 !-->
+
+<details><summary><p lang="en"><b>Version 80 (2023, Thursday, June 8th at 3:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 32nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: J` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Jsonnet` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 80
+- [ ] No other changes in version 80
+
+</details> <!-- V80 !-->
 
 </details> <!-- End of file history section !-->
 

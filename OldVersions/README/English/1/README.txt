@@ -325,6 +325,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Java`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java/)
 
+#### SC: JavaScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: JavaScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript/)
+
+#### SC: JSON
+
+- [:octocat: `AI2001 Category: Source Code ;SC: JSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON/)
+
 </details>
 
 ---
@@ -976,9 +984,9 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `78 (2023, Tuesday, June 6th at 9:19 pm PST)`
+**File version:** `79 (2023, Wednesday, June 7th at 10:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,786`
+**Line count (including blank lines and compiler line):** `2,818`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2769,6 +2777,30 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 78
 
 </details> <!-- V78 !-->
+
+<details><summary><p lang="en"><b>Version 79 (2023, Wednesday, June 7th at 10:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 31st consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: JavaScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: JSON` subsection
+- - [x] Updated the `C: Meta` section
+- - - [x] Added a link to the newly created meta category repository
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 79
+- [ ] No other changes in version 79
+
+</details> <!-- V79 !-->
 
 </details> <!-- End of file history section !-->
 

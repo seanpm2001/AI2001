@@ -349,6 +349,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Kotlin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Kotlin/)
 
+#### SC: Less
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
+
+#### SC: Lua
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lua`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lua/)
+
 </details>
 
 ---
@@ -1000,9 +1008,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `81 (2023, Friday, June 9th at 10:59 pm PST)`
+**File version:** `82 (2023, Saturday, June 10th at 09:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,866`
+**Line count (including blank lines and compiler line):** `2,904`
+
+**Word count:** `14,739`
+
+**Character count (including spaces):** `105,963`
+
+**Character count (excluding spaces):** `91,246`
+
+**Size (in bytes):** `106,012`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2849,6 +2865,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 81
 
 </details> <!-- V81 !-->
+
+<details><summary><p lang="en"><b>Version 82 (2023, Saturday, June 10th at 09:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 34th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Less` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Lua` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 82
+- [ ] No other changes in version 82
+
+</details> <!-- V82 !-->
 
 </details> <!-- End of file history section !-->
 

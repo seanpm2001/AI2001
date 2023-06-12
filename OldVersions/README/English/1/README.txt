@@ -353,6 +353,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
 
+#### SC: Lisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lisp/)
+
+#### SC: Logos
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Logos`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Logos/)
+
 #### SC: Lua
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lua`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lua/)
@@ -1008,17 +1016,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `82 (2023, Saturday, June 10th at 09:57 pm PST)`
+**File version:** `83 (2023, Sunday, June 11th at 10:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,904`
+**Line count (including blank lines and compiler line):** `2,934`
 
-**Word count:** `14,739`
+**Word count:** `14,887`
 
-**Character count (including spaces):** `105,963`
+**Character count (including spaces):** `106,992`
 
-**Character count (excluding spaces):** `91,246`
+**Character count (excluding spaces):** `92,120`
 
-**Size (in bytes):** `106,012`
+**Size (in bytes):** `107,041`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2887,6 +2895,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 82
 
 </details> <!-- V82 !-->
+
+<details><summary><p lang="en"><b>Version 83 (2023, Sunday, June 11th at 10:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 35th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Lisp` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Logos` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 83
+- [ ] No other changes in version 83
+
+</details> <!-- V83 !-->
 
 </details> <!-- End of file history section !-->
 

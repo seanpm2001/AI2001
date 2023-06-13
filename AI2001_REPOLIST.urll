@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 209 total repository links (as of 2023, Monday, June 12th at 09:39 pm PST), Version 84.
+//// 211 total repository links (as of 2023, Tuesday, June 13th at 02:55 pm PST), Version 85.
 
-//// GitHub (209)
+//// GitHub (211)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -214,11 +214,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Logos
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lisp
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Limbo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lean
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Macaulay2
 
 //// GitLab (0)
 
 //// File info
-//// File version: 84 (2023, Monday, June 12th at 09:39 pm PST)
-//// Line count (including blank lines and compiler line): 225
+//// File version: 85 (2023, Tuesday, June 13th at 02:55 pm PST)
+//// Line count (including blank lines and compiler line): 227
 
 //// End of file (EOF)

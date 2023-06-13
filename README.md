@@ -349,9 +349,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Kotlin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Kotlin/)
 
+#### SC: Lean
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lean/)
+
 #### SC: Less
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
+
+#### SC: Limbo
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Limbo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Limbo/)
 
 #### SC: Lisp
 
@@ -1016,17 +1024,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `83 (2023, Sunday, June 11th at 10:01 pm PST)`
+**File version:** `84 (2023, Monday, June 12th at 09:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,934`
+**Line count (including blank lines and compiler line):** `2,964`
 
-**Word count:** `14,887`
+**Word count:** `15,035`
 
-**Character count (including spaces):** `106,992`
+**Character count (including spaces):** `108,023`
 
-**Character count (excluding spaces):** `92,120`
+**Character count (excluding spaces):** `92,996`
 
-**Size (in bytes):** `107,041`
+**Size (in bytes):** `108,072`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2917,6 +2925,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 83
 
 </details> <!-- V83 !-->
+
+<details><summary><p lang="en"><b>Version 84 (2023, Monday, June 12th at 09:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for an 36th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Limbo` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Lean` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 84
+- [ ] No other changes in version 84
+
+</details> <!-- V84 !-->
 
 </details> <!-- End of file history section !-->
 

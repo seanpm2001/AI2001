@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 217 total repository links (as of 2023, Friday, June 16th at 10:55 pm PST), Version 87.
+//// 219 total repository links (as of 2023, Saturday, June 17th at 08:37 pm PST), Version 88.
 
-//// GitHub (217)
+//// GitHub (219)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -222,11 +222,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Makefile
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Monkey
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Monkey-C
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Max
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MAXScript
 
 //// GitLab (0)
 
 //// File info
-//// File version: 87 (2023, Friday, June 16th at 10:55 pm PST)
-//// Line count (including blank lines and compiler line): 233
+//// File version: 88 (2023, Saturday, June 17th at 08:37 pm PST)
+//// Line count (including blank lines and compiler line): 235
 
 //// End of file (EOF)

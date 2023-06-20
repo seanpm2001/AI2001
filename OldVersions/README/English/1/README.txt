@@ -421,6 +421,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
 
+#### SC: Nemerle
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Nemerle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nemerle/)
+
+#### SC: Nim
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Nim`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nim/)
+
 </details>
 
 ---
@@ -1072,17 +1080,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `89 (2023, Sunday, June 18th at 05:16 pm PST)`
+**File version:** `90 (2023, Monday, June 19th at 09:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,124`
+**Line count (including blank lines and compiler line):** `3,154`
 
-**Word count:** `15,841`
+**Word count:** `15,989`
 
-**Character count (including spaces):** `113,719`
+**Character count (including spaces):** `114,752`
 
-**Character count (excluding spaces):** `97,861`
+**Character count (excluding spaces):** `98,739`
 
-**Size (in bytes):** `113,768`
+**Size (in bytes):** `114,801`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3107,6 +3115,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 89
 
 </details> <!-- V89 !-->
+
+<details><summary><p lang="en"><b>Version 90 (2023, Monday, June 19th at 09:21 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 5th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Nemerle` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Nim` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 90
+- [ ] No other changes in version 90
+
+</details> <!-- V90 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -437,6 +437,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: NSIS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NSIS/)
 
+#### SC: Objective-C
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Objective-C`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Objective-C/)
+
+#### SC: Objective-C++
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Objective-C++`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Objective-C-Plus-Plus/)
+
 </details>
 
 ---
@@ -1088,17 +1096,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `91 (2023, Tuesday, June 20th at 05:25 pm PST)`
+**File version:** `92 (2023, Wednesday, June 21st at 08:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,184`
+**Line count (including blank lines and compiler line):** `3,214`
 
-**Word count:** `16,137`
+**Word count:** `16,295`
 
-**Character count (including spaces):** `115,791`
+**Character count (including spaces):** `116,894`
 
-**Character count (excluding spaces):** `99,623`
+**Character count (excluding spaces):** `100,571`
 
-**Size (in bytes):** `115,840`
+**Size (in bytes):** `116,943`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3167,6 +3175,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 91
 
 </details> <!-- V91 !-->
+
+<details><summary><p lang="en"><b>Version 92 (2023, Wednesday, June 21st at 08:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 7th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Objective-C` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Objective-C++` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 92
+- [ ] No other changes in version 92
+
+</details> <!-- V92 !-->
 
 </details> <!-- End of file history section !-->
 

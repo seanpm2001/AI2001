@@ -445,6 +445,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Objective-C++`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Objective-C-Plus-Plus/)
 
+#### SC: Objective-J
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Objective-J`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Objective-J/)
+
+#### SC: OCaml
+
+- [:octocat: `AI2001 Category: Source Code ;SC: OCaml`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OCaml/)
+
 </details>
 
 ---
@@ -1096,17 +1104,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `92 (2023, Wednesday, June 21st at 08:59 pm PST)`
+**File version:** `93 (2023, Thursday, June 22nd at 09:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,214`
+**Line count (including blank lines and compiler line):** `3,245`
 
-**Word count:** `16,295`
+**Word count:** `16,447`
 
-**Character count (including spaces):** `116,894`
+**Character count (including spaces):** `117,953`
 
-**Character count (excluding spaces):** `100,571`
+**Character count (excluding spaces):** `101,474`
 
-**Size (in bytes):** `116,943`
+**Size (in bytes):** `118,002`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3176,7 +3184,7 @@ This project is not yet on Gitlab.
 
 </details> <!-- V91 !-->
 
-<details><summary><p lang="en"><b>Version 92 (2023, Wednesday, June 21st at 08:59 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 92 (2023, Wednesday, June 21st at xx:xx pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -3197,6 +3205,29 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 92
 
 </details> <!-- V92 !-->
+
+
+<details><summary><p lang="en"><b>Version 93 (2023, Thursday, June 22nd at 09:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 8th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Objective-J` subsection
+- - - [x] Added the `AI2001 Category: Source Code: OCaml` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 93
+- [ ] No other changes in version 93
+
+</details> <!-- V93 !-->
 
 </details> <!-- End of file history section !-->
 

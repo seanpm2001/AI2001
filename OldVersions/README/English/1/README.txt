@@ -453,6 +453,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: OCaml`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OCaml/)
 
+#### SC: Octave
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Octave`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Octave/)
+
+#### SC: Pascal
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pascal/)
+
 </details>
 
 ---
@@ -1104,17 +1112,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `93 (2023, Thursday, June 22nd at 09:55 pm PST)`
+**File version:** `94 (2023, Friday, June 23rd at 05:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,245`
+**Line count (including blank lines and compiler line):** `3,274`
 
-**Word count:** `16,447`
+**Word count:** `16,595`
 
-**Character count (including spaces):** `117,953`
+**Character count (including spaces):** `118,991`
 
-**Character count (excluding spaces):** `101,474`
+**Character count (excluding spaces):** `102,358`
 
-**Size (in bytes):** `118,002`
+**Size (in bytes):** `119,040`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3206,7 +3214,6 @@ This project is not yet on Gitlab.
 
 </details> <!-- V92 !-->
 
-
 <details><summary><p lang="en"><b>Version 93 (2023, Thursday, June 22nd at 09:55 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3228,6 +3235,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 93
 
 </details> <!-- V93 !-->
+
+<details><summary><p lang="en"><b>Version 94 (2023, Friday, June 23rd at 05:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 9th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Octave` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Pascal` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 94
+- [ ] No other changes in version 94
+
+</details> <!-- V94 !-->
 
 </details> <!-- End of file history section !-->
 

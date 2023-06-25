@@ -461,6 +461,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pascal/)
 
+#### SC: Perl
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Perl`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Perl/)
+
+#### SC: PHP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PHP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PHP/)
+
 </details>
 
 ---
@@ -1112,17 +1120,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `94 (2023, Friday, June 23rd at 05:48 pm PST)`
+**File version:** `95 (2023, Saturday, June 24th at 10:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,274`
+**Line count (including blank lines and compiler line):** `3,304`
 
-**Word count:** `16,595`
+**Word count:** `16,743`
 
-**Character count (including spaces):** `118,991`
+**Character count (including spaces):** `120,017`
 
-**Character count (excluding spaces):** `102,358`
+**Character count (excluding spaces):** `103,229`
 
-**Size (in bytes):** `119,040`
+**Size (in bytes):** `120,066`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3257,6 +3265,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 94
 
 </details> <!-- V94 !-->
+
+<details><summary><p lang="en"><b>Version 95 (2023, Saturday, June 24th at 10:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 10th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Perl` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PHP` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 95
+- [ ] No other changes in version 95
+
+</details> <!-- V95 !-->
 
 </details> <!-- End of file history section !-->
 

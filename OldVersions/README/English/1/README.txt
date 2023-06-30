@@ -497,6 +497,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: R`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-R/)
 
+#### SC: Ragel
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Ragel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ragel/)
+
+#### SC: Raku
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Raku`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raku/)
+
 #### SC: Red
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Red`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Red/)
@@ -1152,17 +1160,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `99 (2023, Wednesday, June 28th at 10:37 pm PST)`
+**File version:** `100 (2023, Thursday, June 29th at 11:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,424`
+**Line count (including blank lines and compiler line):** `3,454`
 
-**Word count:** `17,336`
+**Word count:** `17,495`
 
-**Character count (including spaces):** `124,111`
+**Character count (including spaces):** `125,205`
 
-**Character count (excluding spaces):** `106,703`
+**Character count (excluding spaces):** `107,631`
 
-**Size (in bytes):** `124,160`
+**Size (in bytes):** `125,254`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3407,6 +3415,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 99
 
 </details> <!-- V99 !-->
+
+<details><summary><p lang="en"><b>Version 100 (2023, Thursday, June 29th at 11:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 15th consecutive day. 100 versions to the mainR README file have now been made._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Raku` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Ragel` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 100
+- [ ] No other changes in version 100
+
+</details> <!-- V100 !-->
 
 </details> <!-- End of file history section !-->
 

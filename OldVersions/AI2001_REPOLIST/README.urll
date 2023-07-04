@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 247 total repository links (as of 2023, Sunday, July 2nd at 11:02 pm PST), Version 102.
+//// 249 total repository links (as of 2023, Monday, July 3rd at 10:36 pm PST), Version 103.
 
-//// GitHub (247)
+//// GitHub (249)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -252,11 +252,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RMarkdown
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rust
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RenPy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Reason
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RouterOS-Script
 
 //// GitLab (0)
 
 //// File info
-//// File version: 102 (2023, Sunday, July 2nd at 11:02 pm PST)
-//// Line count (including blank lines and compiler line): 263
+//// File version: 103 (2023, Monday, July 3rd at 10:36 pm PST)
+//// Line count (including blank lines and compiler line): 265
 
 //// End of file (EOF)

@@ -517,9 +517,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ren'Py`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RenPy/)
 
+#### SC: ReScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ReScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReScript/)
+
 #### SC: RMarkdown
 
 - [:octocat: `AI2001 Category: Source Code ;SC: RMarkdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RMarkdown/)
+
+#### SC: RouterOS Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RouterOS Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RouterOS-Script/)
 
 #### SC: Rust
 
@@ -1176,17 +1184,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `102 (2023, Sunday, July 2nd at 11:01 pm PST)`
+**File version:** `103 (2023, Monday, July 3rd at 10:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,514`
+**Line count (including blank lines and compiler line):** `3,544`
 
-**Word count:** `17,799`
+**Word count:** `17,950`
 
-**Character count (including spaces):** `127,334`
+**Character count (including spaces):** `128,419`
 
-**Character count (excluding spaces):** `109,445`
+**Character count (excluding spaces):** `110,373`
 
-**Size (in bytes):** `127,383`
+**Size (in bytes):** `128,468`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3497,6 +3505,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 102
 
 </details> <!-- V102 !-->
+
+<details><summary><p lang="en"><b>Version 103 (2023, Monday, July 3rd at 10:29 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for 3 consecutive days._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: ReScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RouterOS Script` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 103
+- [ ] No other changes in version 103
+
+</details> <!-- V103 !-->
 
 </details> <!-- End of file history section !-->
 

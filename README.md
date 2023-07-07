@@ -533,9 +533,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Rust`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rust/)
 
+#### SC: Sage
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Sage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage/)
+
 #### SC: Scala
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Scala`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scala/)
+
+#### SC: Shell
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Shell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shell/)
 
 #### SC: Svelte
 
@@ -1192,17 +1200,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `104 (2023, Wednesday, July 5th at 10:58 pm PST)`
+**File version:** `105 (2023, Thursday, July 6th at 10:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,574`
+**Line count (including blank lines and compiler line):** `3,604`
 
-**Word count:** `18,105`
+**Word count:** `18,252`
 
-**Character count (including spaces):** `129,516`
+**Character count (including spaces):** `130,546`
 
-**Character count (excluding spaces):** `111,308`
+**Character count (excluding spaces):** `112,184`
 
-**Size (in bytes):** `129,565`
+**Size (in bytes):** `130,595`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3557,6 +3565,28 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 104
 
 </details> <!-- V104 !-->
+
+<details><summary><p lang="en"><b>Version 105 (2023, Thursday, July 6th at 10:33 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for 2 consecutive days._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Sage` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Shell` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 105
+- [ ] No other changes in version 105
+
+</details> <!-- V105 !-->
 
 </details> <!-- End of file history section !-->
 

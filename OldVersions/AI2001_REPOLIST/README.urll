@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 253 total repository links (as of 2023, Thursday, July 6th at 10:51 pm PST), Version 105.
+//// 255 total repository links (as of 2023, Friday, July 7th at 11:11 pm PST), Version 106.
 
-//// GitHub (253)
+//// GitHub (255)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -258,11 +258,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scala
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Svelte
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shell
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slim
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeScript
 
 //// GitLab (0)
 
 //// File info
-//// File version: 105 (2023, Thursday, July 6th at 10:51 pm PST)
-//// Line count (including blank lines and compiler line): 269
+//// File version: 106 (2023, Friday, July 7th at 11:11 pm PST)
+//// Line count (including blank lines and compiler line): 271
 
 //// End of file (EOF)

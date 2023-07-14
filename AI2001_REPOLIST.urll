@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 255 total repository links (as of 2023, Friday, July 7th at 11:11 pm PST), Version 106.
+//// 277 total repository links (as of 2023, Thursday, July 13th at 05:48 pm PST), Version 107.
 
-//// GitHub (255)
+//// GitHub (277)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -260,11 +260,23 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shell
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slim
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tcl
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TOML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TeX
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-UnrealScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Uno
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-URLL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vala
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VB.NET
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-V
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly
 
 //// GitLab (0)
 
 //// File info
-//// File version: 106 (2023, Friday, July 7th at 11:11 pm PST)
-//// Line count (including blank lines and compiler line): 271
+//// File version: 107 (2023, Thursday, July 13th at 05:48 pm PST)
+//// Line count (including blank lines and compiler line): 283
 
 //// End of file (EOF)

@@ -553,9 +553,57 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Svelte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Svelte/)
 
+#### SC: Tcl
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Tcl`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tcl/)
+
+#### SC: TeX
+
+- [:octocat: `AI2001 Category: Source Code ;SC: TeX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TeX/)
+
+#### SC: TOML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: TOML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TOML/)
+
 #### SC: TypeScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: TypeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeScript/)
+
+#### SC: Uno
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Uno`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Uno/)
+
+#### SC: UnrealScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: UnrealScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-UnrealScript/)
+
+#### SC: URLL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: URLL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-URLL/)
+
+#### SC: V
+
+- [:octocat: `AI2001 Category: Source Code ;SC: V`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-V/)
+
+#### SC: Vala
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Vala`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vala/)
+
+#### SC: VB.NET
+
+- [:octocat: `AI2001 Category: Source Code ;SC: VB.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VB.NET/)
+
+#### SC: VBScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: VBScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBScript/)
+
+#### SC: VHDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: VHDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL/)
+
+#### SC: WebAssembly
+
+- [:octocat: `AI2001 Category: Source Code ;SC: WebAssembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly/)
 
 </details>
 
@@ -1208,17 +1256,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `106 (2023, Friday, July 7th at xx:xx pm PST)`
+**File version:** `107 (2023, Thursday, July 13th at 05:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,387`
+**Line count (including blank lines and compiler line):** `1,467`
 
-**Word count:** `7,039`
+**Word count:** `7,525`
 
-**Character count (including spaces):** `53,352`
+**Character count (including spaces):** `56,796`
 
-**Character count (excluding spaces):** `48,210`
+**Character count (excluding spaces):** `51,195`
 
-**Size (in bytes):** `53,401`
+**Size (in bytes):** `56,845`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1370,6 +1418,38 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 106
 
 </details> <!-- V106 !-->
+
+<details><summary><p lang="en"><b>Version 107 (2023, Thursday, July 13th at 05:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Very late update, I had a 6 day pause due to difficulties transitioning my work from a Dell XPS 13 back to my System76 Pangolin. Today, I finally got caught back up on this project, and set a precedent that this work is still possible for myself. I feel bad for missing 5 days of consecutive work. Consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Tcl` subsection
+- - - [x] Added the `AI2001 Category: Source Code: TeX` subsection
+- - - [x] Added the `AI2001 Category: Source Code: TOML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Uno` subsection
+- - - [x] Added the `AI2001 Category: Source Code: UnrealScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: URLL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: V` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Vala` subsection
+- - - [x] Added the `AI2001 Category: Source Code: VB.NET` subsection
+- - - [x] Added the `AI2001 Category: Source Code: VBScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: VHDL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: WebAssembly` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 107
+- [ ] No other changes in version 107
+
+</details> <!-- V107 !-->
 
 </details> <!-- End of file history section !-->
 

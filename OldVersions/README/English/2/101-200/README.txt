@@ -605,6 +605,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: WebAssembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly/)
 
+#### SC: Windows Registry Entry
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Windows Registry Entry`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Windows-Registry-Entry)
+
+#### SC: Wren
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Wren`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wren/)
+
 </details>
 
 ---
@@ -1256,17 +1264,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `107 (2023, Thursday, July 13th at 05:59 pm PST)`
+**File version:** `108 (2023, Saturday, July 15th at 01:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,467`
+**Line count (including blank lines and compiler line):** `1,497`
 
-**Word count:** `7,525`
+**Word count:** `7,713`
 
-**Character count (including spaces):** `56,796`
+**Character count (including spaces):** `58,058`
 
-**Character count (excluding spaces):** `51,195`
+**Character count (excluding spaces):** `52,265`
 
-**Size (in bytes):** `56,845`
+**Size (in bytes):** `58,107`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1450,6 +1458,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 107
 
 </details> <!-- V107 !-->
+
+<details><summary><p lang="en"><b>Version 108 (2023, Saturday, July 15th at 01:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This update is one day late, as I am still struggling, but there wasn't any day of data that had to be merged with another day, as no new AI2001 repositories were created today. Consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Windows Registry Entry` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Wren` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 108
+- [ ] No other changes in version 108
+
+</details> <!-- V108 !-->
 
 </details> <!-- End of file history section !-->
 

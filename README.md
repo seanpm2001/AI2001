@@ -613,6 +613,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Wren`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wren/)
 
+#### SC: YASnippet
+
+- [:octocat: `AI2001 Category: Source Code ;SC: YASnippet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YASnippet/)
+
+#### SC: Zig
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Zig`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zig/)
+
 </details>
 
 ---
@@ -1264,17 +1272,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `108 (2023, Saturday, July 15th at 01:32 pm PST)`
+**File version:** `109 (2023, Monday, July 17th at 05:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,497`
+**Line count (including blank lines and compiler line):** `1,527`
 
-**Word count:** `7,713`
+**Word count:** `7,908`
 
-**Character count (including spaces):** `58,058`
+**Character count (including spaces):** `59,372`
 
-**Character count (excluding spaces):** `52,265`
+**Character count (excluding spaces):** `53,384`
 
-**Size (in bytes):** `58,107`
+**Size (in bytes):** `59,421`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1480,6 +1488,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 108
 
 </details> <!-- V108 !-->
+
+<details><summary><p lang="en"><b>Version 109 (2023, Monday, July 17th at 05:21 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I took a 2 day break from updating this project in full, as I now take most projects off during weekends. Saturday was a catchup day, while nothing was done on Sunday, except in the other AI2001 core repository ([:octocat: `AI2001_Docs`](https://github.com/seanpm2001/AI2001_Docs/)). Consecutive days: 1 or 3_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: YASnippet` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Zig` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 109
+- [ ] No other changes in version 109
+
+</details> <!-- V109 !-->
 
 </details> <!-- End of file history section !-->
 

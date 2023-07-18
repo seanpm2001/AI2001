@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 279 total repository links (as of 2023, Saturday, July 13th at 01:28 pm PST), Version 108.
+//// 281 total repository links (as of 2023, Monday, July 17th at 05:24 pm PST), Version 109.
 
-//// GitHub (279)
+//// GitHub (281)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -274,11 +274,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wren
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Windows-Registry-Entry
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YASnippet
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zig
 
 //// GitLab (0)
 
 //// File info
-//// File version: 108 (2023, Saturday, July 15th at 01:28 pm PST)
-//// Line count (including blank lines and compiler line): 285
+//// File version: 109 (2023, Monday, July 17th at 05:24 pm PST)
+//// Line count (including blank lines and compiler line): 287
 
 //// End of file (EOF)

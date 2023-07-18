@@ -617,6 +617,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: YASnippet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YASnippet/)
 
+#### SC: ZAP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ZAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZAP/)
+
+#### SC: ZenScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ZenScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZenScript/)
+
 #### SC: Zig
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Zig`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zig/)
@@ -1272,17 +1280,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `109 (2023, Monday, July 17th at 05:21 pm PST)`
+**File version:** `110 (2023, Tuesday, July 18th at 03:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,527`
+**Line count (including blank lines and compiler line):** `1,557`
 
-**Word count:** `7,908`
+**Word count:** `8,072`
 
-**Character count (including spaces):** `59,372`
+**Character count (including spaces):** `60,519`
 
-**Character count (excluding spaces):** `53,384`
+**Character count (excluding spaces):** `54,360`
 
-**Size (in bytes):** `59,421`
+**Size (in bytes):** `60,568`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1510,6 +1518,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 109
 
 </details> <!-- V109 !-->
+
+<details><summary><p lang="en"><b>Version 110 (2023, Tuesday, July 18th at 03:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing normally for a second day, although a recent break caused the consecutive day counter some confusion. Consecutive days: 2 or 4_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: ZAP` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ZenScript` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 110
+- [ ] No other changes in version 110
+
+</details> <!-- V110 !-->
 
 </details> <!-- End of file history section !-->
 

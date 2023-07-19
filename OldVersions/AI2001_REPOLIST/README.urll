@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 283 total repository links (as of 2023, Tuesday, July 18th at 03:20 pm PST), Version 110.
+//// 285 total repository links (as of 2023, Wednesday, July 19th at 03:54 pm PST), Version 111.
 
-//// GitHub (283)
+//// GitHub (285)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -278,11 +278,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YASnippet
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zig
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZenScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZAP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZIL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zeek
 
 //// GitLab (0)
 
 //// File info
-//// File version: 110 (2023, Tuesday, July 18th at 03:20 pm PST)
-//// Line count (including blank lines and compiler line): 289
+//// File version: 111 (2023, Wednesday, July 19th at 03:54 pm PST)
+//// Line count (including blank lines and compiler line): 291
 
 //// End of file (EOF)

@@ -951,6 +951,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
 
+#### SC: Lushootseed
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lushootseed`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lushootseed/)
+
 #### SC: Luxembourgish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
@@ -1006,6 +1010,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Ruthenian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
+
+#### SC: Sámi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sámi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sami/)
 
 #### SC: Sanskrit
 
@@ -1288,17 +1296,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `111 (2023, Wednesday, July 19th at 04:00 pm PST)`
+**File version:** `112 (2023, Thursday, July 20th at 12:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,557`
+**Line count (including blank lines and compiler line):** `1,617`
 
-**Word count:** `8,236`
+**Word count:** `8,402`
 
-**Character count (including spaces):** `61,648`
+**Character count (including spaces):** `62,862`
 
-**Character count (excluding spaces):** `55,318`
+**Character count (excluding spaces):** `56,357`
 
-**Size (in bytes):** `61,697`
+**Size (in bytes):** `62,914`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1570,6 +1578,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 111
 
 </details> <!-- V111 !-->
+
+<details><summary><p lang="en"><b>Version 112 (2023, Thursday, July 20th at 12:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing normally for a fourth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets today, Consecutive days: 4 or 6_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Lushootseed` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Sámi` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 112
+- [ ] No other changes in version 112
+
+</details> <!-- V112 !-->
 
 </details> <!-- End of file history section !-->
 

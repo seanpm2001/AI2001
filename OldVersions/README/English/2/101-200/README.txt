@@ -955,6 +955,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Latvian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latvian/)
 
+#### SC: Lingala
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lingala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lingala/)
+
 #### SC: Lithuanian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
@@ -982,6 +986,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 > **Note** _Not to be confused with Mongolian (Classic)_
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
+
+#### SC: Nepali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
 
 #### SC: Norwegian
 
@@ -1304,17 +1312,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `113 (2023, Friday, July 21st at 06:15 pm PST)`
+**File version:** `114 (2023, Saturday, July 22nd at 04:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,647`
+**Line count (including blank lines and compiler line):** `1,677`
 
-**Word count:** `8,568`
+**Word count:** `8,749`
 
-**Character count (including spaces):** `64,072`
+**Character count (including spaces):** `65,329`
 
-**Character count (excluding spaces):** `57,392`
+**Character count (excluding spaces):** `58,460`
 
-**Size (in bytes):** `64,124`
+**Size (in bytes):** `65,381`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1613,7 +1621,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _Continuing normally for a fifth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets yesterdyy, Consecutive days: 5 or 7_
+> **Note** _Continuing normally for a fifth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets yesterday, Consecutive days: 5 or 7_
 
 > Changes:
 
@@ -1630,6 +1638,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 113
 
 </details> <!-- V113 !-->
+
+<details><summary><p lang="en"><b>Version 114 (2023, Saturday, July 22nd at 04:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing normally for a sixth day, although a recent break caused the consecutive day counter some confusion. I will be going on vacation for at least the next 5 days, so this project won't be updated in this time. Consecutive days: 6 or 8_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Lingala` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Nepali` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 114
+- [ ] No other changes in version 114
+
+</details> <!-- V114 !-->
 
 </details> <!-- End of file history section !-->
 

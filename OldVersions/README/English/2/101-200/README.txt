@@ -747,6 +747,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Akkadian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Akkadian/)
 
+#### SC: Amharic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Amharic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Amharic/)
+
 #### SC: Ancient Egyptian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
@@ -784,6 +788,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Bulgarian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
+
+#### SC: Burmese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Burmese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Burmese/)
 
 #### SC: Catalan
 
@@ -1296,17 +1304,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `112 (2023, Thursday, July 20th at 12:52 pm PST)`
+**File version:** `113 (2023, Friday, July 21st at 06:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,617`
+**Line count (including blank lines and compiler line):** `1,647`
 
-**Word count:** `8,402`
+**Word count:** `8,568`
 
-**Character count (including spaces):** `62,862`
+**Character count (including spaces):** `64,072`
 
-**Character count (excluding spaces):** `56,357`
+**Character count (excluding spaces):** `57,392`
 
-**Size (in bytes):** `62,914`
+**Size (in bytes):** `64,124`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1600,6 +1608,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 112
 
 </details> <!-- V112 !-->
+
+<details><summary><p lang="en"><b>Version 113 (2023, Friday, July 21st at 06:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing normally for a fifth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets yesterdyy, Consecutive days: 5 or 7_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Amharic` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Burmese` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 113
+- [ ] No other changes in version 113
+
+</details> <!-- V113 !-->
 
 </details> <!-- End of file history section !-->
 

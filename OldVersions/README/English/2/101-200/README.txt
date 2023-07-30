@@ -927,6 +927,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
 
+#### SC: Kashmiri
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Kashmiri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kashmiri/)
+
+#### SC: Konkani
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Konkani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Konkani/)
+
 #### SC: Korean (North)
 
 > **Note** _Not to be confused with Korean (South)_
@@ -1312,17 +1320,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `114 (2023, Saturday, July 22nd at 04:58 pm PST)`
+**File version:** `115 (2023, Saturday, July 29th at 07:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,677`
+**Line count (including blank lines and compiler line):** `1,707`
 
-**Word count:** `8,749`
+**Word count:** `8,896`
 
-**Character count (including spaces):** `65,329`
+**Character count (including spaces):** `66,410`
 
-**Character count (excluding spaces):** `58,460`
+**Character count (excluding spaces):** `59,385`
 
-**Size (in bytes):** `65,381`
+**Size (in bytes):** `66,462`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1660,6 +1668,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 114
 
 </details> <!-- V114 !-->
+
+<details><summary><p lang="en"><b>Version 115 (2023, Saturday, July 29th at 07:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Coming back from a 1 week hiatus. Total consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Kashmiri` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Konkani` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 115
+- [ ] No other changes in version 115
+
+</details> <!-- V115 !-->
 
 </details> <!-- End of file history section !-->
 

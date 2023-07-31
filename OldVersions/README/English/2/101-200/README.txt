@@ -979,6 +979,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
 
+#### SC: Maithili
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
+
+#### SC: Malayalam
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
+
 #### SC: Marathi
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
@@ -1320,17 +1328,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `115 (2023, Saturday, July 29th at 07:11 pm PST)`
+**File version:** `116 (2023, Sunday, July 30th at 06:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,707`
+**Line count (including blank lines and compiler line):** `1,737`
 
-**Word count:** `8,896`
+**Word count:** `9,043`
 
-**Character count (including spaces):** `66,410`
+**Character count (including spaces):** `67,495`
 
-**Character count (excluding spaces):** `59,385`
+**Character count (excluding spaces):** `60,314`
 
-**Size (in bytes):** `66,462`
+**Size (in bytes):** `67,547`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1690,6 +1698,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 115
 
 </details> <!-- V115 !-->
+
+<details><summary><p lang="en"><b>Version 116 (2023, Sunday, July 30th at 06:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Coming back from a 1 week hiatus. Total consecutive days: 2_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Maithili` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Malayalam` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 116
+- [ ] No other changes in version 116
+
+</details> <!-- V116 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -895,6 +895,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
 
+#### SC: Hindustani
+
+> **Note** _Not to be confused with Hindi or Urdu._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hindustani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindustani/)
+
 #### SC: Hungarian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
@@ -990,6 +996,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Marathi
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
+
+#### SC: Meitei
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
 
 #### SC: Mongolian (Classic)
 
@@ -1328,17 +1338,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `116 (2023, Sunday, July 30th at 06:52 pm PST)`
+**File version:** `117 (2023, Monday, July 31st at 04:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,737`
+**Line count (including blank lines and compiler line):** `1,769`
 
-**Word count:** `9,043`
+**Word count:** `9,194`
 
-**Character count (including spaces):** `67,495`
+**Character count (including spaces):** `68,609`
 
-**Character count (excluding spaces):** `60,314`
+**Character count (excluding spaces):** `61,266`
 
-**Size (in bytes):** `67,547`
+**Size (in bytes):** `68,661`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1720,6 +1730,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 116
 
 </details> <!-- V116 !-->
+
+<details><summary><p lang="en"><b>Version 117 (2023, Monday, July 31st at 04:35 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 3rd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Meitei` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Hindustani` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 117
+- [ ] No other changes in version 117
+
+</details> <!-- V117 !-->
 
 </details> <!-- End of file history section !-->
 

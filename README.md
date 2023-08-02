@@ -873,6 +873,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Frisian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian/)
 
+#### SC: Fula
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
+
 #### SC: German
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: German`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-German/)
@@ -1062,6 +1066,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 > **Note** _Not to be confused with Hindi._
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
+
+#### SC: Santali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Santali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Santali/)
 
 #### SC: Scottish
 
@@ -1338,17 +1346,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `117 (2023, Monday, July 31st at 04:35 pm PST)`
+**File version:** `118 (2023, Tuesday, August 1st at 07:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,769`
+**Line count (including blank lines and compiler line):** `1,799`
 
-**Word count:** `9,194`
+**Word count:** `9,336`
 
-**Character count (including spaces):** `68,609`
+**Character count (including spaces):** `69,654`
 
-**Character count (excluding spaces):** `61,266`
+**Character count (excluding spaces):** `62,160`
 
-**Size (in bytes):** `68,661`
+**Size (in bytes):** `69,706`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1752,6 +1760,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 117
 
 </details> <!-- V117 !-->
+
+<details><summary><p lang="en"><b>Version 118 (2023, Tuesday, August 1st at 07:22 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 4th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Linguistics: Fula` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Santani` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 118
+- [ ] No other changes in version 118
+
+</details> <!-- V118 !-->
 
 </details> <!-- End of file history section !-->
 

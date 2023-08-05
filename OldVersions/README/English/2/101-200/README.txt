@@ -213,6 +213,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: E`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-E/)
 
+#### SC: Eagle
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Eagle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eagle/)
+
 #### SC: Eiffel
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Eiffel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eiffel/)
@@ -220,6 +224,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: EJS
 
 - [:octocat: `AI2001 Category: Source Code ;SC: EJS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJS/)
+
+#### SC: Emacs Lisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
 
 #### SC: Epigram
 
@@ -801,6 +809,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Catalan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Catalan/)
 
+#### SC: Cebuano
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Cebuano`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cebuano/)
+
 #### SC: Chechen
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Chechen`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chechen/)
@@ -1129,6 +1141,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
 
+#### SC: Tigrinya
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tigrinya`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tigrinya/)
+
 #### SC: Turkish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
@@ -1354,17 +1370,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `119 (2023, Wednesday, August 2nd at 07:37 pm PST)`
+**File version:** `120 (2023, Friday, August 4th at 08:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,829`
+**Line count (including blank lines and compiler line):** `1,871`
 
-**Word count:** `9,478`
+**Word count:** `9,743`
 
-**Character count (including spaces):** `70,705`
+**Character count (including spaces):** `72,590`
 
-**Character count (excluding spaces):** `63,060`
+**Character count (excluding spaces):** `64,674`
 
-**Size (in bytes):** `70,757`
+**Size (in bytes):** `72,642`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1646,7 +1662,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Lushootseed` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Sámi` subsection
 - [x] Updated the `file info` section
@@ -1668,7 +1684,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Amharic` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Burmese` subsection
 - [x] Updated the `file info` section
@@ -1690,7 +1706,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Lingala` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Nepali` subsection
 - [x] Updated the `file info` section
@@ -1712,7 +1728,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Kashmiri` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Konkani` subsection
 - [x] Updated the `file info` section
@@ -1734,7 +1750,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Maithili` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Malayalam` subsection
 - [x] Updated the `file info` section
@@ -1756,7 +1772,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Meitei` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Hindustani` subsection
 - [x] Updated the `file info` section
@@ -1778,7 +1794,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Fula` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Santani` subsection
 - [x] Updated the `file info` section
@@ -1800,7 +1816,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 > Changes:
 
 - [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
+- - [x] Updated the `C: Linguistics` section
 - - - [x] Added the `AI2001 Category: Linguistics: Bambara` subsection
 - - - [x] Added the `AI2001 Category: Linguistics: Wolof` subsection
 - [x] Updated the `file info` section
@@ -1812,6 +1828,32 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 119
 
 </details> <!-- V119 !-->
+
+<details><summary><p lang="en"><b>Version 120 (2023, Friday, August 4th at 08:02 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I took yesterday off due to schedule issues, and needing a calm day. I did not take on 4 AI2001 repositories for this reason, it was already rescheduled like that in my calendar a couple weeks ago. Yesterday was a blank day in the schedule to begin with. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Eagle` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Emacs Lisp` subsection
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics: Cebuano` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Tigrinya` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Fixed a typo in the entries for versions 112, 113, 114, 115, 116, 117, 118, and 119
+- - [x] Added an entry for version 120
+- [ ] No other changes in version 120
+
+</details> <!-- V120 !-->
 
 </details> <!-- End of file history section !-->
 

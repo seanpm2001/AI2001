@@ -217,6 +217,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Eagle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eagle/)
 
+#### SC: Earthly
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Earthly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Earthly/)
+
 #### SC: EBNF
 
 - [:octocat: `AI2001 Category: Source Code ;SC: EBNF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF/)
@@ -240,6 +244,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Erlang
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Erlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang/)
+
+#### SC: Euphoria
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Euphoria`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Euphoria/)
 
 #### SC: Ezhil
 
@@ -1378,17 +1386,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `121 (2023, Saturday, August 5th at 06:07 pm PST)`
+**File version:** `122 (2023, Sunday, August 6th at 04:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,901`
+**Line count (including blank lines and compiler line):** `1,931`
 
-**Word count:** `9,902`
+**Word count:** `10,050`
 
-**Character count (including spaces):** `73,693`
+**Character count (including spaces):** `74,752`
 
-**Character count (excluding spaces):** `65,911`
+**Character count (excluding spaces):** `66,515`
 
-**Size (in bytes):** `73,745`
+**Size (in bytes):** `74,804`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1884,6 +1892,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 121
 
 </details> <!-- V121 !-->
+
+<details><summary><p lang="en"><b>Version 122 (2023, Sunday, August 6th at 04:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a third consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Earthly` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Euphoria` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 122
+- [ ] No other changes in version 122
+
+</details> <!-- V122 !-->
 
 </details> <!-- End of file history section !-->
 

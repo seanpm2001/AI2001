@@ -217,6 +217,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Eagle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eagle/)
 
+#### SC: EBNF
+
+- [:octocat: `AI2001 Category: Source Code ;SC: EBNF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF/)
+
 #### SC: Eiffel
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Eiffel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eiffel/)
@@ -236,6 +240,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Erlang
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Erlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang/)
+
+#### SC: Ezhil
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Ezhil`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ezhil/)
 
 #### SC: F#
 
@@ -1370,17 +1378,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `120 (2023, Friday, August 4th at 08:02 pm PST)`
+**File version:** `121 (2023, Saturday, August 5th at 06:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,871`
+**Line count (including blank lines and compiler line):** `1,901`
 
-**Word count:** `9,743`
+**Word count:** `9,902`
 
-**Character count (including spaces):** `72,590`
+**Character count (including spaces):** `73,693`
 
-**Character count (excluding spaces):** `64,674`
+**Character count (excluding spaces):** `65,911`
 
-**Size (in bytes):** `72,642`
+**Size (in bytes):** `73,745`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1854,6 +1862,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 120
 
 </details> <!-- V120 !-->
+
+<details><summary><p lang="en"><b>Version 121 (2023, Saturday, August 5th at 06:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Going back to only source code datasets for the meantime, and continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: EBNF` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Ezhil` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 121
+- [ ] No other changes in version 121
+
+</details> <!-- V121 !-->
 
 </details> <!-- End of file history section !-->
 

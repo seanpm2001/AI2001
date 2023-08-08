@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 309 total repository links (as of 2023, Sunday, August 6th at 04:41 pm PST), Version 122.
+//// 311 total repository links (as of 2023, Monday, August 7th at 07:59 pm PST), Version 123.
 
-//// GitHub (309)
+//// GitHub (311)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -304,11 +304,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ezhil
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Earthly
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Euphoria
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elixir
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elm
 
 //// GitLab (0)
 
 //// File info
-//// File version: 122 (2023, Sunday, August 6th at 04:41 pm PST)
-//// Line count (including blank lines and compiler line): 315
+//// File version: 123 (2023, Monday, August 7th at 07:59 pm PST)
+//// Line count (including blank lines and compiler line): 317
 
 //// End of file (EOF)

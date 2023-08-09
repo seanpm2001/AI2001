@@ -209,6 +209,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: DIGITAL Command Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DIGITAL-Command-Language/)
 
+#### SC: DogeScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DogeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DogeScript/)
+
+#### SC: Dylan
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Dylan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dylan/)
+
 #### SC: E
 
 - [:octocat: `AI2001 Category: Source Code ;SC: E`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-E/)
@@ -529,6 +537,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: R`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-R/)
 
+#### SC: Racket
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Racket`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Racket/)
+
 #### SC: Ragel
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ragel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ragel/)
@@ -552,6 +564,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: ReScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ReScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReScript/)
+
+#### SC: reStructuredText
+
+- [:octocat: `AI2001 Category: Source Code ;SC: reStructuredText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReStructuredText/)
 
 #### SC: RMarkdown
 
@@ -1394,17 +1410,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `123 (2023, Monday, August 7th at 08:03 pm PST)`
+**File version:** `124 (2023, Tuesday, August 8th at 08:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,961`
+**Line count (including blank lines and compiler line):** `2,001`
 
-**Word count:** `10,198`
+**Word count:** `10,402`
 
-**Character count (including spaces):** `75,789`
+**Character count (including spaces):** `77,321`
 
-**Character count (excluding spaces):** `67,397`
+**Character count (excluding spaces):** `68,724`
 
-**Size (in bytes):** `75,841`
+**Size (in bytes):** `77,373`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1944,6 +1960,30 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 123
 
 </details> <!-- V123 !-->
+
+<details><summary><p lang="en"><b>Version 124 (2023, Tuesday, August 8th at 08:35 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a fifth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: DogeScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Dylan` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Racket` subsection
+- - - [x] Added the `AI2001 Category: Source Code: reStructuredText` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 124
+- [ ] No other changes in version 124
+
+</details> <!-- V124 !-->
 
 </details> <!-- End of file history section !-->
 

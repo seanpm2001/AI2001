@@ -165,9 +165,33 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CartoCSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CartoCSS/)
 
+#### SC: Ceylon
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Ceylon`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ceylon/)
+
 #### SC: Clean
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Clean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clean/)
+
+#### SC: COBOL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: COBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL/)
+
+#### SC: CoffeeScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: CoffeeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoffeeScript/)
+
+#### SC: Component Pascal
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Component Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal/)
+
+#### SC: Coq
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Coq`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Coq/)
+
+#### SC: Crystal
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Crystal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crystal/)
 
 #### SC: CSound
 
@@ -209,9 +233,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: DIGITAL Command Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DIGITAL-Command-Language/)
 
+#### SC: DM
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DM/)
+
 #### SC: DogeScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: DogeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DogeScript/)
+
+#### SC: DTrace
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DTrace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DTrace/)
 
 #### SC: Dylan
 
@@ -1410,17 +1442,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `124 (2023, Tuesday, August 8th at 08:35 pm PST)`
+**File version:** `125 (2023, Saturday, August 12th at 06:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,001`
+**Line count (including blank lines and compiler line):** `2,061`
 
-**Word count:** `10,402`
+**Word count:** `10,764`
 
-**Character count (including spaces):** `77,321`
+**Character count (including spaces):** `79,915`
 
-**Character count (excluding spaces):** `68,724`
+**Character count (excluding spaces):** `70,969`
 
-**Size (in bytes):** `77,373`
+**Size (in bytes):** `79,967`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1984,6 +2016,34 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 124
 
 </details> <!-- V124 !-->
+
+<details><summary><p lang="en"><b>Version 125 (2023, Saturday, August 12th at 06:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I kept making new AI2001 repositories in the past 4 days, but I had some real struggles recently, and wasn't able to update the core AI2001 documentation until today (4 days later) I am going to try to stay caught up here again. Total consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Ceylon` subsection
+- - - [x] Added the `AI2001 Category: Source Code: COBOL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: CoffeeScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Component Pascal` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Coq` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Crystal` subsection
+- - - [x] Added the `AI2001 Category: Source Code: DM` subsection
+- - - [x] Added the `AI2001 Category: Source Code: DTrace` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 125
+- [ ] No other changes in version 125
+
+</details> <!-- V125 !-->
 
 </details> <!-- End of file history section !-->
 

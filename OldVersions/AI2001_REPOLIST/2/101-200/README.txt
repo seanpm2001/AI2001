@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 315 total repository links (as of 2023, Tuesday, August 8th at 08:31 pm PST), Version 124.
+//// 313 total repository links (as of 2023, Saturday, August 12th at 06:23 pm PST), Version 125.
 
-//// GitHub (315)
+//// GitHub (313)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -310,11 +310,19 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DogeScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dylan
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReStructuredText
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Racket
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DM
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DTrace
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Coq
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ceylon
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoffeeScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crystal
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal
 
 //// GitLab (0)
 
 //// File info
-//// File version: 124 (2023, Tuesday, August 8th at 08:31 pm PST)
-//// Line count (including blank lines and compiler line): 321
+//// File version: 125 (2023, Saturday, August 12th at 06:23 pm PST)
+//// Line count (including blank lines and compiler line): 329
 
 //// End of file (EOF)

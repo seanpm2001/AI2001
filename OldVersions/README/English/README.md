@@ -173,6 +173,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Clean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clean/)
 
+#### SC: Clojure
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Clojure`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clojure/)
+
+#### SC: CMake
+
+- [:octocat: `AI2001 Category: Source Code ;SC: CMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CMake/)
+
 #### SC: COBOL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: COBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL/)
@@ -1442,17 +1450,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `125 (2023, Saturday, August 12th at 06:25 pm PST)`
+**File version:** `126 (2023, Sunday, August 13th at 10:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,061`
+**Line count (including blank lines and compiler line):** `2,091`
 
-**Word count:** `10,764`
+**Word count:** `10,912`
 
-**Character count (including spaces):** `79,915`
+**Character count (including spaces):** `80,962`
 
-**Character count (excluding spaces):** `70,969`
+**Character count (excluding spaces):** `71,861`
 
-**Size (in bytes):** `79,967`
+**Size (in bytes):** `81,014`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2044,6 +2052,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 125
 
 </details> <!-- V125 !-->
+
+<details><summary><p lang="en"><b>Version 126 (2023, Sunday, August 13th at 10:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Clojure` subsection
+- - - [x] Added the `AI2001 Category: Source Code: CMake` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 126
+- [ ] No other changes in version 126
+
+</details> <!-- V126 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 321 total repository links (as of 2023, Wednesday, August 16th at 05:55 pm PST), Version 129.
+//// 325 total repository links (as of 2023, Thursday, August 17th at 06:45 pm PST), Version 130.
 
-//// GitHub (321)
+//// GitHub (325)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -326,11 +326,15 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Creole
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUDA
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Chapel
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cython
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cap-n-Proto
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP-CDS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme
 
 //// GitLab (0)
 
 //// File info
-//// File version: 129 (2023, Wednesday, August 16th at 05:55 pm PST)
-//// Line count (including blank lines and compiler line): 337
+//// File version: 130 (2023, Thursday, August 17th at 06:45 pm PST)
+//// Line count (including blank lines and compiler line): 341
 
 //// End of file (EOF)

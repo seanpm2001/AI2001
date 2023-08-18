@@ -161,6 +161,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAML/)
 
+#### SC: CAP-CDS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: CAP-CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP-CDS/)
+
+#### SC: Cap'n Proto
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Cap'n Proto`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cap-n-Proto/)
+
 #### SC: CartoCSS
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CartoCSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CartoCSS/)
@@ -613,6 +621,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Raku`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raku/)
 
+#### SC: Rascal
+
+> **Note** _Not to be confused with Pascal or RouterOS Script_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Rascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal/)
+
 #### SC: Reason
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Reason`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Reason/)
@@ -652,6 +666,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Scala
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Scala`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scala/)
+
+#### SC: Scheme
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Scheme`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme/)
 
 #### SC: Shell
 
@@ -1474,17 +1492,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `129 (2023, Wednesday, August 16th at 05:53 pm PST)`
+**File version:** `130 (2023, Thursday, August 17th at 06:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,181`
+**Line count (including blank lines and compiler line):** `2,223`
 
-**Word count:** `11,356`
+**Word count:** `11,582`
 
-**Character count (including spaces):** `84,097`
+**Character count (including spaces):** `85,665`
 
-**Character count (excluding spaces):** `74,531`
+**Character count (excluding spaces):** `75,879`
 
-**Size (in bytes):** `84,149`
+**Size (in bytes):** `85,717`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2164,6 +2182,30 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 129
 
 </details> <!-- V129 !-->
+
+<details><summary><p lang="en"><b>Version 130 (2023, Thursday, August 17th at 06:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a sixth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Cap'n Proto` subsection
+- - - [x] Added the `AI2001 Category: Source Code: CAP-CDS` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Rascal` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Scheme` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 130
+- [ ] No other changes in version 130
+
+</details> <!-- V130 !-->
 
 </details> <!-- End of file history section !-->
 

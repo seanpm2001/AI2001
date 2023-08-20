@@ -193,6 +193,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Clojure`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clojure/)
 
+#### SC: Closure Templates
+
+> **Note** _Not to be confused with Clojure_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Closure Templates`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Closure-Templates/)
+
 #### SC: CMake
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CMake/)
@@ -201,6 +207,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: COBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL/)
 
+#### SC: Cool
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Cool`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cool/)
+
 #### SC: CoffeeScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CoffeeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoffeeScript/)
@@ -208,6 +218,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Component Pascal
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Component Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal/)
+
+#### SC: Common Lisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Common Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonLisp/)
+
+#### SC: CommonWorkflowLanguage
+
+- [:octocat: `AI2001 Category: Source Code ;SC: CommonWorkflowLanguage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonWorkflowLanguage/)
 
 #### SC: Coq
 
@@ -1492,17 +1510,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `130 (2023, Thursday, August 17th at 06:48 pm PST)`
+**File version:** `131 (2023, Saturday, August 19th at 09:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,223`
+**Line count (including blank lines and compiler line):** `2,265`
 
-**Word count:** `11,582`
+**Word count:** `11,820`
 
-**Character count (including spaces):** `85,665`
+**Character count (including spaces):** `87,400`
 
-**Character count (excluding spaces):** `75,879`
+**Character count (excluding spaces):** `77,374`
 
-**Size (in bytes):** `85,717`
+**Size (in bytes):** `87,452`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2206,6 +2224,30 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 130
 
 </details> <!-- V130 !-->
+
+<details><summary><p lang="en"><b>Version 131 (2023, Saturday, August 19th at 09:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I had a really hard night last night and had to skip this project for the day. Continuing for 1 consecutive day on a new streak._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Closure Templates` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Common Lisp` subsection
+- - - [x] Added the `AI2001 Category: Source Code: CommonWorkflowLanguage` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Cool` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 131
+- [ ] No other changes in version 131
+
+</details> <!-- V131 !-->
 
 </details> <!-- End of file history section !-->
 

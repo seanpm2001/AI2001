@@ -121,6 +121,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: B`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B/)
 
+#### SC: Ballerina
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Ballerina`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ballerina/)
+
+#### SC: BASIC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BASIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC/)
+
 #### SC: Batchfile
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Batchfile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Batchfile/)
@@ -1518,17 +1526,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `132 (2023, Sunday, August 20th at 10:01 pm PST)`
+**File version:** `133 (2023, Monday, August 21st at 06:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,295`
+**Line count (including blank lines and compiler line):** `2,325`
 
-**Word count:** `11,972`
+**Word count:** `12,120`
 
-**Character count (including spaces):** `88,455`
+**Character count (including spaces):** `89,511`
 
-**Character count (excluding spaces):** `78,271`
+**Character count (excluding spaces):** `79,172`
 
-**Size (in bytes):** `88,507`
+**Size (in bytes):** `89,563`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2278,6 +2286,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 132
 
 </details> <!-- V132 !-->
+
+<details><summary><p lang="en"><b>Version 133 (2023, Monday, August 21st at 06:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a third consecutive day_
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Ballerina` subsection
+- - - [x] Added the `AI2001 Category: Source Code: BASIC` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 133
+- [ ] No other changes in version 133
+
+</details> <!-- V133 !-->
 
 </details> <!-- End of file history section !-->
 

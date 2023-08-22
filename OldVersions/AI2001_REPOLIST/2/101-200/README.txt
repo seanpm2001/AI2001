@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 333 total repository links (as of 2023, Sunday, August 20th at 10:05 pm PST), Version 132.
+//// 335 total repository links (as of 2023, Monday, August 21st at 06:27 pm PST), Version 133.
 
-//// GitHub (333)
+//// GitHub (335)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -338,11 +338,13 @@ https://github.com/seanpm2001/AI2001_API
 https://github.com/seanpm2001/Awesome-AI2001
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Classic-ASP
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ballerina
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC
 
 //// GitLab (0)
 
 //// File info
-//// File version: 132 (2023, Sunday, August 20th at 10:05 pm PST)
-//// Line count (including blank lines and compiler line): 349
+//// File version: 133 (2023, Monday, August 21st at 06:27 pm PST)
+//// Line count (including blank lines and compiler line): 351
 
 //// End of file (EOF)

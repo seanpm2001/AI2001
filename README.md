@@ -73,6 +73,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ABAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ABAP/)
 
+#### SC: ABAP CDS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ABAP CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ABAP-CDS/)
+
 #### SC: ActionScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ActionScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ActionScript/)
@@ -81,13 +85,33 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ada`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ada/)
 
+#### SC: AIDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AIDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AIDL/)
+
 #### SC: Agda
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Agda`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Agda/)
 
+#### SC: AGS Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AGS Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AGS-Script/)
+
+#### SC: AL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AL/)
+
 #### SC: ALGOL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ALGOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ALGOL/)
+
+#### SC: Alloy
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Alloy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alloy/)
+
+#### SC: ALS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ALS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ALS/)
 
 #### SC: AMPL
 
@@ -96,6 +120,30 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: AngelScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AngelScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AngelScript/)
+
+#### SC: Antlers
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Antlers`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Antlers/)
+
+#### SC: ANTLR
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ANTLR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ANTLR/)
+
+#### SC: ApacheConf
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ApacheConf`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApacheConf/)
+
+#### SC: Apache Pig/PigLatin
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ApachePig/Apache PigLatin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApachePig/)
+
+#### SC: Apex
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Apex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apex/)
+
+#### SC: API Blueprint
+
+- [:octocat: `AI2001 Category: Source Code ;SC: API Blueprint`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-API-Blueprint/)
 
 #### SC: AppleScript
 
@@ -109,9 +157,37 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ASP.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP.NET/)
 
+#### SC: Assembly
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Assembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Assembly/)
+
+#### SC: ASCIIDoc
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ASCIIDoc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASCIIDoc/)
+
+#### SC: AspectJ
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AspectJ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AspectJ/)
+
+#### SC: AssemblyScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AssemblyScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AssemblyScript/)
+
 #### SC: Astro
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ASP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP/)
+
+#### SC: Augeas
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Augeas`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Augeas/)
+
+#### SC: AutoHotKey
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AutoHotKey`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoHotKey/)
+
+#### SC: AutoIt
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AutoIt`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoIt/)
 
 #### SC: AWK
 
@@ -133,6 +209,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Batchfile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Batchfile/)
 
+#### SC: Beef
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Beef`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Beef/)
+
 #### SC: Befunge
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Befunge`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Befunge/)
@@ -153,6 +233,38 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Bikeshed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bikeshed/)
 
+#### SC: BitBake
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BitBake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BitBake/)
+
+#### SC: Blade
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Blade`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Blade/)
+
+#### SC: BLISS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BLISS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BLISS/)
+
+#### SC: BlitzBASIC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BlitzBASIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzBASIC/)
+
+#### SC: BlitzMax
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BlitzMax`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzMax/)
+
+#### SC: BlooP
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BlooP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlooP/)
+
+#### SC: Boo
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Boo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boo/)
+
+#### SC: Boogie
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Boogie`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boogie/)
+
 #### SC: Brainfuck
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Brainfuck`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Brainfuck/)
@@ -164,6 +276,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: BrightScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: BrightScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrightScript/)
+
+#### SC: Bro
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Bro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bro/)
+
+#### SC: BSDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: BSDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BSDL/)
 
 #### SC: C
 
@@ -419,17 +539,51 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAP/)
 
+#### SC: G-CODE
+
+- [:octocat: `AI2001 Category: Source Code ;SC: G-CODE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-G-CODE/)
+
+#### SC: GCC Machine Description
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GCC Machine Description`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GCC-Machine-Description/)
+
+#### SC: GDB
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GDB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDB/)
+
 #### SC: GDScript
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GDScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDScript/)
+
+#### SC: Genie
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Genie`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genie/)
+
+#### SC: Gerber Image
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Gerber Image`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gerber-Image/)
 
 #### SC: Gherkin
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Gherkin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gherkin/)
 
+#### SC: Gleam
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Gleam`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gleam/)
+
 #### SC: GLSL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GLSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GLSL/)
+
+#### SC: GN
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GN`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GN/)
+
+#### SC: GnuPlot
+
+> **Note** _It is not spelled GNUPlot, as it is not part of the GNU software project._
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GnuPlot`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GnuPlot/)
 
 #### SC: Go!
 
@@ -438,6 +592,30 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Google Go/Google Golang
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Google Go/Google Golang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoogleGo/)
+
+#### SC: Gradle
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Gradle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle/)
+
+#### SC: Grammatical Framework
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Grammatical Framework`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GrammaticalFramework/)
+
+#### SC: GraphQL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GraphQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphQL/)
+
+#### SC: GraphViz (DOT)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GraphViz(DOT)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphVizDOT/)
+
+#### SC: Groovy
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Groovy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Groovy/)
+
+#### SC: Gosu
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Gosu`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gosu/)
 
 #### SC: GSC
 
@@ -792,6 +970,22 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Wren
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Wren`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wren/)
+
+#### SC: XML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: XML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XML/)
+
+#### SC: XTend
+
+- [:octocat: `AI2001 Category: Source Code ;SC: XTend`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XTend/)
+
+#### SC: Yacc
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Yacc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Yacc/)
+
+#### SC: YAML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: YAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YAML/)
 
 #### SC: YASnippet
 
@@ -1542,17 +1736,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `134 (2023, Wednesday, August 23rd at 07:08 pm PST)`
+**File version:** `135 (2023, Thursday, September 14th at 09:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,325`
+**Line count (including blank lines and compiler line):** `2,627`
 
-**Word count:** `12,371`
+**Word count:** `13,937`
 
-**Character count (including spaces):** `91,221`
+**Character count (including spaces):** `102,832`
 
-**Character count (excluding spaces):** `80,631`
+**Character count (excluding spaces):** `90,824`
 
-**Size (in bytes):** `91,273`
+**Size (in bytes):** `102,884`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2348,6 +2542,74 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 134
 
 </details> <!-- V134 !-->
+
+<details><summary><p lang="en"><b>Version 135 (2023, Thursday, September 14th at 09:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+ _I skipped work on this project for 3 full weeks, before coming back today. There was a recent productivity bubble burst, and it was really difficult to get every vassal under my control again. I added 1 vassal per day for several days, then on 2023, September 14th, I brought 7 vassals back into reach in one day, including this project. I hope to prevent this from happening again for so long (at least for the rest of the year) Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: BitBake subsection
+- - - [x] Added the `AI2001 Category: Source Code: Blade subsection
+- - - [x] Added the `AI2001 Category: Source Code: BLISS subsection
+- - - [x] Added the `AI2001 Category: Source Code: BlitzBasic subsection
+- - - [x] Added the `AI2001 Category: Source Code: BlitzMax subsection
+- - - [x] Added the `AI2001 Category: Source Code: Boo subsection
+- - - [x] Added the `AI2001 Category: Source Code: Boogie subsection
+- - - [x] Added the `AI2001 Category: Source Code: Bro subsection
+- - - [x] Added the `AI2001 Category: Source Code: BSDL subsection
+- - - [x] Added the `AI2001 Category: Source Code: BlooP subsection
+- - - [x] Added the `AI2001 Category: Source Code: ABAP-CDS subsection
+- - - [x] Added the `AI2001 Category: Source Code: AGS-Script subsection
+- - - [x] Added the `AI2001 Category: Source Code: AIDL subsection
+- - - [x] Added the `AI2001 Category: Source Code: AL subsection
+- - - [x] Added the `AI2001 Category: Source Code: ALS subsection
+- - - [x] Added the `AI2001 Category: Source Code: Alloy subsection
+- - - [x] Added the `AI2001 Category: Source Code: XML subsection
+- - - [x] Added the `AI2001 Category: Source Code: XTend subsection
+- - - [x] Added the `AI2001 Category: Source Code: Antlers subsection
+- - - [x] Added the `AI2001 Category: Source Code: ANTLR subsection
+- - - [x] Added the `AI2001 Category: Source Code: YAML subsection
+- - - [x] Added the `AI2001 Category: Source Code: Yacc subsection
+- - - [x] Added the `AI2001 Category: Source Code: ApacheConf subsection
+- - - [x] Added the `AI2001 Category: Source Code: ApachePig subsection
+- - - [x] Added the `AI2001 Category: Source Code: Apex subsection
+- - - [x] Added the `AI2001 Category: Source Code: API-Blueprint subsection
+- - - [x] Added the `AI2001 Category: Source Code: ASCIIDoc subsection
+- - - [x] Added the `AI2001 Category: Source Code: AspectJ subsection
+- - - [x] Added the `AI2001 Category: Source Code: Assembly subsection
+- - - [x] Added the `AI2001 Category: Source Code: AssemblyScript subsection
+- - - [x] Added the `AI2001 Category: Source Code: Augeas subsection
+- - - [x] Added the `AI2001 Category: Source Code: AutoHotKey subsection
+- - - [x] Added the `AI2001 Category: Source Code: AutoIt subsection
+- - - [x] Added the `AI2001 Category: Source Code: Beef subsection
+- - - [x] Added the `AI2001 Category: Source Code: Genie subsection
+- - - [x] Added the `AI2001 Category: Source Code: Gerber-Image subsection
+- - - [x] Added the `AI2001 Category: Source Code: Gosu subsection
+- - - [x] Added the `AI2001 Category: Source Code: Gleam subsection
+- - - [x] Added the `AI2001 Category: Source Code: GnuPlot subsection
+- - - [x] Added the `AI2001 Category: Source Code: Groovy subsection
+- - - [x] Added the `AI2001 Category: Source Code: GrammaticalFramework subsection
+- - - [x] Added the `AI2001 Category: Source Code: Gradle subsection
+- - - [x] Added the `AI2001 Category: Source Code: GraphVizDOT subsection
+- - - [x] Added the `AI2001 Category: Source Code: GraphQL subsection
+- - - [x] Added the `AI2001 Category: Source Code: G-CODE subsection
+- - - [x] Added the `AI2001 Category: Source Code: GCC-Machine-Description subsection
+- - - [x] Added the `AI2001 Category: Source Code: GDB subsection
+- - - [x] Added the `AI2001 Category: Source Code: GN subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 135
+- [ ] No other changes in version 135
+
+</details> <!-- V135 !-->
 
 </details> <!-- End of file history section !-->
 

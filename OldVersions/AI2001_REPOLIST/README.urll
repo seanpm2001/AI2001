@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 339 total repository links (as of 2023, Wednesday, August 23rd at 06:53 pm PST), Version 134.
+//// 387 total repository links (as of 2023, Thursday, September 14th at 08:11 pm PST), Version 135.
 
-//// GitHub (339)
+//// GitHub (387)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -344,11 +344,59 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Befunge
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Berry
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BibTeX
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bicep
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BitBake
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Blade
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BLISS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzBasic
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzMax
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boo
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boogie
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bro
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BSDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlooP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ABAP-CDS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AGS-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AIDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ALS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alloy
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XTend
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Antlers
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ANTLR
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YAML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Yacc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApacheConf
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApachePig
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apex
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-API-Blueprint
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASCIIDoc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AspectJ
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Assembly
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AssemblyScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Augeas
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoHotKey
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoIt
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Beef
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genie
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gerber-Image
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gosu
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gleam
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GnuPlot
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Groovy
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GrammaticalFramework
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphVizDOT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-G-CODE
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GCC-Machine-Description
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDB
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GN
 
 //// GitLab (0)
 
 //// File info
-//// File version: 134 (2023, Wednesday, August 23rd at 06:53 pm PST)
-//// Line count (including blank lines and compiler line): 355
+//// File version: 135 (2023, Thursday, September 14th at 08:11 pm PST)
+//// Line count (including blank lines and compiler line): 403
 
 //// End of file (EOF)

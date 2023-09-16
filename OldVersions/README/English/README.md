@@ -563,6 +563,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Gerber Image`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gerber-Image/)
 
+#### SC: GetText Catalog
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GetText Catalog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GetText-Catalog/)
+
 #### SC: Gherkin
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Gherkin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gherkin/)
@@ -588,6 +592,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Go!
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Go!`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-/)
+
+#### SC: Google Apps Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Google Apps Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Google-Apps-Script/)
 
 #### SC: Google Go/Google Golang
 
@@ -1736,17 +1744,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `135 (2023, Thursday, September 14th at 09:19 pm PST)`
+**File version:** `136 (2023, Friday, September 15th at 09:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,627`
+**Line count (including blank lines and compiler line):** `2,657`
 
-**Word count:** `13,937`
+**Word count:** `14,097`
 
-**Character count (including spaces):** `102,832`
+**Character count (including spaces):** `103,967`
 
-**Character count (excluding spaces):** `90,824`
+**Character count (excluding spaces):** `91,795`
 
-**Size (in bytes):** `102,884`
+**Size (in bytes):** `104,019`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2610,6 +2618,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 135
 
 </details> <!-- V135 !-->
+
+<details><summary><p lang="en"><b>Version 136 (2023, Friday, September 15th at 09:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: GetText Catalog` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Google Apps Script` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 136
+- [ ] No other changes in version 136
+
+</details> <!-- V136 !-->
 
 </details> <!-- End of file history section !-->
 

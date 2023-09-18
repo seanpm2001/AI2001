@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 391 total repository links (as of 2023, Saturday, September 16th at 10:18 pm PST), Version 137.
+//// 393 total repository links (as of 2023, Sunday, September 17th at 09:42 pm PST), Version 138.
 
-//// GitHub (391)
+//// GitHub (393)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -396,11 +396,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GetText-Catalog
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Google-Apps-Script
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HAML
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HCL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HiveQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HLSL
 
 //// GitLab (0)
 
 //// File info
-//// File version: 137 (2023, Saturday, September 16th at 10:18 pm PST)
-//// Line count (including blank lines and compiler line): 407
+//// File version: 138 (2023, Sunday, September 17th at 09:42 pm PST)
+//// Line count (including blank lines and compiler line): 409
 
 //// End of file (EOF)

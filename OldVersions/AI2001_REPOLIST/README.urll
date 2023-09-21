@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 395 total repository links (as of 2023, Monday, September 18th at 07:32 pm PST), Version 139.
+//// 399 total repository links (as of 2023, Wednesday, September 20th at 11:00 pm PST), Version 140.
 
-//// GitHub (395)
+//// GitHub (399)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -400,11 +400,15 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HiveQL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HLSL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HolyC
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HXML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Idris
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ-Macro
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ
 
 //// GitLab (0)
 
 //// File info
-//// File version: 139 (2023, Monday, September 18th at 07:32 pm PST)
-//// Line count (including blank lines and compiler line): 411
+//// File version: 140 (2023, Wednesday, September 20th at 11:00 pm PST)
+//// Line count (including blank lines and compiler line): 415
 
 //// End of file (EOF)

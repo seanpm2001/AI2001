@@ -685,6 +685,24 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HyPhy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HyPhy/)
 
+#### SC: IDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: IDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IDL/)
+
+#### SC: Idris
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Idris`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Idris/)
+
+<!-- IMAGEJ !-->
+
+#### SC: ImageJ
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ImageJ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ/)
+
+#### SC: ImageJ Macro
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ImageJ Macro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ-Macro/)
+
 #### SC: INI
 
 - [:octocat: `AI2001 Category: Source Code ;SC: INI`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-INI/)
@@ -1768,17 +1786,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `139 (2023, Monday, September 18th at 07:25 pm PST)`
+**File version:** `140 (2023, Wednesday, September 20th at 11:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,747`
+**Line count (including blank lines and compiler line):** `2,789`
 
-**Word count:** `14,541`
+**Word count:** `14,797`
 
-**Character count (including spaces):** `107,087`
+**Character count (including spaces):** `108,828`
 
-**Character count (excluding spaces):** `094,450`
+**Character count (excluding spaces):** `095,933`
 
-**Size (in bytes):** `107,139`
+**Size (in bytes):** `108,880`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2730,6 +2748,30 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 139
 
 </details> <!-- V139 !-->
+
+<details><summary><p lang="en"><b>Version 140 (2023, Wednesday, September 20th at 11:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I was so distracted last night that I decided it would be better to try and stop, instead of wasting time. I was fearful I wouldn't be able to get my schedule under control again today, but I managed to pull it off by the last hour. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: IDL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Idris` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ImageJ` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ImageJ Macro` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 140
+- [ ] No other changes in version 140
+
+</details> <!-- V140 !-->
 
 </details> <!-- End of file history section !-->
 

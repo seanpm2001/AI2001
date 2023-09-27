@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 399 total repository links (as of 2023, Wednesday, September 20th at 11:00 pm PST), Version 140.
+//// 411 total repository links (as of 2023, Tuesday, September 26th at 10:50 pm PST), Version 141.
 
-//// GitHub (399)
+//// GitHub (411)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -404,11 +404,23 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IDL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Idris
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ-Macro
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Io
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jasmin
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jinja
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-jq
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Julia
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JupyterNotebook
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Harbour
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Layout
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic
 
 //// GitLab (0)
 
 //// File info
-//// File version: 140 (2023, Wednesday, September 20th at 11:00 pm PST)
-//// Line count (including blank lines and compiler line): 415
+//// File version: 141 (2023, Tuesday, September 26th at 10:50pm PST)
+//// Line count (including blank lines and compiler line): 427
 
 //// End of file (EOF)

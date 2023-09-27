@@ -641,6 +641,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HAProxy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HaProxy/)
 
+#### SC: Harbour
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Harbour`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Harbour/)
+
 #### SC: Haskell
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Haskell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Haskell/)
@@ -711,6 +715,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Inno Setup`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Inno-Setup/)
 
+#### SC: Io
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Io`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Io/)
+
+#### SC: Isabelle
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Isabelle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle/)
+
 #### SC: J
 
 - [:octocat: `AI2001 Category: Source Code ;SC: J`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-J/)
@@ -718,6 +730,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Java
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Java`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java/)
+
+#### SC: Jasmin
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Jasmin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jasmin/)
 
 #### SC: JavaScript
 
@@ -727,6 +743,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: JetBrains MPS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JetBrains-MPS/)
 
+#### SC: Jinja
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Jinja`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jinja/)
+
+#### SC: jq
+
+- [:octocat: `AI2001 Category: Source Code ;SC: jq`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-jq/)
+
 #### SC: JSON
 
 - [:octocat: `AI2001 Category: Source Code ;SC: JSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON/)
@@ -735,9 +759,33 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Jsonnet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jsonnet/)
 
+#### SC: Julia
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Julia`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Julia/)
+
+#### SC: Jupyter Notebook
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Jupyter Notebook`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JupyterNotebook/)
+
+#### SC: KiCad
+
+- [:octocat: `AI2001 Category: Source Code ;SC: KiCad`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad/)
+
+#### SC: KiCad Layout
+
+- [:octocat: `AI2001 Category: Source Code ;SC: KiCad Layout`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Layout/)
+
+#### SC: KiCad Schematic
+
+- [:octocat: `AI2001 Category: Source Code ;SC: KiCad Schematic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic/)
+
 #### SC: Kotlin
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Kotlin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Kotlin/)
+
+#### SC: kvlang
+
+- [:octocat: `AI2001 Category: Source Code ;SC: kvlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang/)
 
 #### SC: Lean
 
@@ -1786,17 +1834,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `140 (2023, Wednesday, September 20th at 11:05 pm PST)`
+**File version:** `141 (2023, Tuesday, September 26th at 10:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,789`
+**Line count (including blank lines and compiler line):** `2,869`
 
-**Word count:** `14,797`
+**Word count:** `15,258`
 
-**Character count (including spaces):** `108,828`
+**Character count (including spaces):** `112,213`
 
-**Character count (excluding spaces):** `095,933`
+**Character count (excluding spaces):** `098,882`
 
-**Size (in bytes):** `108,880`
+**Size (in bytes):** `112,265`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2772,6 +2820,38 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 140
 
 </details> <!-- V140 !-->
+
+<details><summary><p lang="en"><b>Version 141 (2023, Tuesday, September 26th at 10:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I have been going through a series of changes lately, and it took me until today to get this project back under my control. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Io` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Isabelle` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Jasmin` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Jinja` subsection
+- - - [x] Added the `AI2001 Category: Source Code: jq` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Julia` subsection
+- - - [x] Added the `AI2001 Category: Source Code: JupyterNotebook` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Harbour` subsection
+- - - [x] Added the `AI2001 Category: Source Code: kvlang` subsection
+- - - [x] Added the `AI2001 Category: Source Code: KiCad` subsection
+- - - [x] Added the `AI2001 Category: Source Code: KiCad Layout` subsection
+- - - [x] Added the `AI2001 Category: Source Code: KiCad Schematic` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 141
+- [ ] No other changes in version 141
+
+</details> <!-- V141 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 411 total repository links (as of 2023, Tuesday, September 26th at 10:50 pm PST), Version 141.
+//// 413 total repository links (as of 2023, Wednesday, September 27th at 9:18 pm PST), Version 142.
 
-//// GitHub (411)
+//// GitHub (413)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -416,11 +416,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Layout
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LABView
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Latte
 
 //// GitLab (0)
 
 //// File info
-//// File version: 141 (2023, Tuesday, September 26th at 10:50pm PST)
-//// Line count (including blank lines and compiler line): 427
+//// File version: 142 (2023, Wednesday, September 27th at 09:18 pm PST)
+//// Line count (including blank lines and compiler line): 429
 
 //// End of file (EOF)

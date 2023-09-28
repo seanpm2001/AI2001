@@ -787,6 +787,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: kvlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang/)
 
+#### SC: LABView
+
+- [:octocat: `AI2001 Category: Source Code ;SC: LABView`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LABView/)
+
+#### SC: Latte
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Latte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Latte/)
+
 #### SC: Lean
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lean/)
@@ -1834,17 +1842,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `141 (2023, Tuesday, September 26th at 10:58 pm PST)`
+**File version:** `142 (2023, Wednesday, September 27th at 09:15 pm PST)`
 
 **Line count (including blank lines and compiler line):** `2,869`
 
-**Word count:** `15,258`
+**Word count:** `15,405`
 
-**Character count (including spaces):** `112,213`
+**Character count (including spaces):** `113,265`
 
-**Character count (excluding spaces):** `098,882`
+**Character count (excluding spaces):** `099,780`
 
-**Size (in bytes):** `112,265`
+**Size (in bytes):** `113,317`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2852,6 +2860,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 141
 
 </details> <!-- V141 !-->
+
+<details><summary><p lang="en"><b>Version 142 (2023, Wednesday, September 27th at 09:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for 2 consecutive days._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: LABView` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Latte` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 142
+- [ ] No other changes in version 142
+
+</details> <!-- V142 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -803,13 +803,29 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
 
+#### SC: Lex
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lex/)
+
 #### SC: Limbo
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Limbo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Limbo/)
 
+#### SC: Lingo
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lingo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo/)
+
+#### SC: Linker Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Linker Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script/)
+
 #### SC: Lisp
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lisp/)
+
+#### SC: Lisp Flavored Erlang (LFE)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: LispFlavoredErlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LispFlavoredErlang/)
 
 #### SC: Logos
 
@@ -1842,17 +1858,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `142 (2023, Wednesday, September 27th at 09:15 pm PST)`
+**File version:** `143 (2023, Friday, September 29th at 09:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,869`
+**Line count (including blank lines and compiler line):** `2,939`
 
-**Word count:** `15,405`
+**Word count:** `15,639`
 
-**Character count (including spaces):** `113,265`
+**Character count (including spaces):** `114,939`
 
-**Character count (excluding spaces):** `099,780`
+**Character count (excluding spaces):** `101,220`
 
-**Size (in bytes):** `113,317`
+**Size (in bytes):** `114,991`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2882,6 +2898,30 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 142
 
 </details> <!-- V142 !-->
+
+<details><summary><p lang="en"><b>Version 143 (2023, Friday, September 29th at 09:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I became way too distracted last night, and cut my work short, and it almost repeated exactly again tonight. I am coming back today. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Lex` subsection
+- - - [x] Added the `AI2001 Category: Source Code: LispFlavoredErlang` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Lingo` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Linker Script` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 143
+- [ ] No other changes in version 143
+
+</details> <!-- V143 !-->
 
 </details> <!-- End of file history section !-->
 

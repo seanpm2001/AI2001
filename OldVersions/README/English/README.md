@@ -815,9 +815,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lingo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo/)
 
+#### SC: Linux Kernel Module
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Linux Kernel Module`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LinuxKernelModule/)
+
 #### SC: Linker Script
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Linker Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script/)
+
+#### SC: Liquid
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Liquid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Liquid/)
 
 #### SC: Lisp
 
@@ -1858,17 +1866,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `143 (2023, Friday, September 29th at 09:59 pm PST)`
+**File version:** `144 (2023, Saturday, September 30th at 11:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,939`
+**Line count (including blank lines and compiler line):** `2,969`
 
-**Word count:** `15,639`
+**Word count:** `15,791`
 
-**Character count (including spaces):** `114,939`
+**Character count (including spaces):** `116,041`
 
-**Character count (excluding spaces):** `101,220`
+**Character count (excluding spaces):** `102,163`
 
-**Size (in bytes):** `114,991`
+**Size (in bytes):** `116,093`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2922,6 +2930,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 143
 
 </details> <!-- V143 !-->
+
+<details><summary><p lang="en"><b>Version 144 (2023, Saturday, September 30th at 11:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: LinuxKernelModule` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Liquid` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 144
+- [ ] No other changes in version 144
+
+</details> <!-- V144 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 417 total repository links (as of 2023, Friday, September 29th at 10:04 pm PST), Version 143.
+//// 419 total repository links (as of 2023, Saturday, September 30th at 11:15 pm PST), Version 144.
 
-//// GitHub (417)
+//// GitHub (419)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -422,11 +422,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lex
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LispFlavoredErlang
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LinuxKernelModule
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Liquid
 
 //// GitLab (0)
 
 //// File info
-//// File version: 143 (2023, Friday, September 29th at 10:04 pm PST)
-//// Line count (including blank lines and compiler line): 433
+//// File version: 144 (2023, Saturday, September 30th at 11:15 pm PST)
+//// Line count (including blank lines and compiler line): 435
 
 //// End of file (EOF)

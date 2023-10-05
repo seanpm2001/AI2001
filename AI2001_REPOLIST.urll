@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 419 total repository links (as of 2023, Saturday, September 30th at 11:15 pm PST), Version 144.
+//// 427 total repository links (as of 2023, Wednesday, October 4th at 11:33 pm PST), Version 145.
 
-//// GitHub (419)
+//// GitHub (427)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -424,11 +424,19 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LinuxKernelModule
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Liquid
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LiveCode
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LiveScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LLVM
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LogCat
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LogTalk
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LOLCODE
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LookML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lucid
 
 //// GitLab (0)
 
 //// File info
-//// File version: 144 (2023, Saturday, September 30th at 11:15 pm PST)
-//// Line count (including blank lines and compiler line): 435
+//// File version: 145 (2023, Wednesday, October 4th at 11:33 pm PST)
+//// Line count (including blank lines and compiler line): 443
 
 //// End of file (EOF)

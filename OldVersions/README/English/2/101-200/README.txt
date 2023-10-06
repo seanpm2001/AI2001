@@ -15,6 +15,8 @@ AI2001 is early in development, and is not ready yet.
 
 ***
 
+**Not to be confused with [:octocat: `API2001`](https://github.com/seanpm2001/API-2001/)**
+
 ## [Documentation](#Documentation)
 
 [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/)
@@ -880,6 +882,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: M
 
 - [:octocat: `AI2001 Category: Source Code ;SC: M`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M/)
+
+#### SC: M4
+
+- [:octocat: `AI2001 Category: Source Code ;SC: M4`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4/)
+
+#### SC: M4Sugar
+
+- [:octocat: `AI2001 Category: Source Code ;SC: M4Sugar`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4Sugar/)
 
 #### SC: Macaulay2
 
@@ -1900,17 +1910,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `145 (2023, Wednesday, October 4th at 11:31 pm PST)`
+**File version:** `146 (2023, Thursday, October 5th at 11:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,031`
+**Line count (including blank lines and compiler line):** `3,063`
 
-**Word count:** `16,160`
+**Word count:** `16,321`
 
-**Character count (including spaces):** `118,697`
+**Character count (including spaces):** `119,825`
 
-**Character count (excluding spaces):** `104,470`
+**Character count (excluding spaces):** `105,435`
 
-**Size (in bytes):** `118,749`
+**Size (in bytes):** `119,877`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3014,6 +3024,28 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 145
 
 </details> <!-- V145 !-->
+
+<details><summary><p lang="en"><b>Version 146 (2023, Thursday, October 5th at 11:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: M4` subsection
+- - - [x] Added the `AI2001 Category: Source Code: M4Sugar` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 146
+- [ ] No other changes in version 146
+
+</details> <!-- V146 !-->
 
 </details> <!-- End of file history section !-->
 

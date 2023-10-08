@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 429 total repository links (as of 2023, Thursday, October 5th at 11:32 pm PST), Version 146.
+//// 435 total repository links (as of 2023, Sunday, October 8th at 04:39 pm PST), Version 147.
 
-//// GitHub (429)
+//// GitHub (435)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -434,11 +434,17 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LookML
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lucid
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4Sugar
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mallard
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATLAB
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mcFunction
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Meson
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script
 
 //// GitLab (0)
 
 //// File info
-//// File version: 146 (2023, Thursday, October 5th at 11:32 pm PST)
-//// Line count (including blank lines and compiler line): 445
+//// File version: 147 (2023, Sunday, October 8th at 04:39 pm PST)
+//// Line count (including blank lines and compiler line): 451
 
 //// End of file (EOF)

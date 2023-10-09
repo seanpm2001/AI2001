@@ -15,11 +15,27 @@ AI2001 is early in development, and is not ready yet.
 
 ***
 
-**Not to be confused with [:octocat: `API2001`](https://github.com/seanpm2001/API-2001/)**
+## [Similar projects](#Similar-projects)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this hat note]</b></p></summary>
+
+| **Not to be confused with [:octocat: `API-2001 (API2001)`](https://github.com/seanpm2001/API-2001/)** |
+|---|
+| For the AI2001 API, see [:octocat: `AI2001 API`](https://github.com/seanpm2001/AI2001_API/) |
+
+</details>
+
+---
 
 ## [Documentation](#Documentation)
 
-[:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/)
+<details open><summary><p><b>[Click/tap here to expand/collapse this hat note]</b></p></summary>
+
+| [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/) |
+|---|
+| It is recommended that you read the documentation first. |
+
+</details>
 
 ---
 
@@ -31,7 +47,27 @@ Datasets are sorted by categories, with nested sub-categories (**SC**) and neste
 
 All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Tuesday, March 21st)
 
-> [`View this list as URLL`](/AI2001_REPOLIST.urll)
+> [`View this list in URLL format`](/AI2001_REPOLIST.urll)
+
+---
+
+### [Dataset counters](#Dataset-counters)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**As of:** `2023, Sunday, October 8th at 5:11 pm PST)`
+
+- **🎵️ Audio datasets:** `5` (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/))
+- **📃️ Document datasets:** `11` (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/))
+- **🖼️ Image datasets:** `13` (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/))
+- **🔡️ Linguistics datasets:** `105` (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/))
+- **🔵️ Meta datasets:** `3` (not including [1](https://github.com/seanpm2001/AI2001_Category-META/))
+- **💾️ Source code datasets:** `282` (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/))
+- **🎥️ Video datasets:** `5` (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/))
+
+**Overall total:** `424` dataset repositories
+
+</details>
 
 ---
 
@@ -903,9 +939,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mako`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mako/)
 
+#### SC: Mallard
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Mallard`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mallard/)
+
 #### SC: Markdown
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Markdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Markdown/)
+
+#### SC: MATLAB
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MATLAB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATLAB/)
 
 #### SC: Max
 
@@ -915,9 +959,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: MAXScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MAXScript/)
 
+#### SC: mcfunction
+
+- [:octocat: `AI2001 Category: Source Code ;SC: mcFunction`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mcFunction/)
+
+#### SC: Mercury
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Mercury`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury/)
+
+#### SC: Meson
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Meson`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Meson/)
+
 #### SC: Metal
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Metal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Metal/)
+
+#### SC: mIRC-Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: mIRC-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script/)
 
 #### SC: Monkey
 
@@ -1910,17 +1970,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `146 (2023, Thursday, October 5th at 11:30 pm PST)`
+**File version:** `147 (2023, Sunday, October 8th at 05:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,063`
+**Line count (including blank lines and compiler line):** `3,176`
 
-**Word count:** `16,321`
+**Word count:** `17,026`
 
-**Character count (including spaces):** `119,825`
+**Character count (including spaces):** `124,752`
 
-**Character count (excluding spaces):** `105,435`
+**Character count (excluding spaces):** `109,692`
 
-**Size (in bytes):** `119,877`
+**Size (in bytes):** `124,839`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3046,6 +3106,59 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 146
 
 </details> <!-- V146 !-->
+
+<details><summary><p lang="en"><b>Version 146 (2023, Thursday, October 5th at 11:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: M4` subsection
+- - - [x] Added the `AI2001 Category: Source Code: M4Sugar` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 146
+- [ ] No other changes in version 146
+
+</details> <!-- V146 !-->
+
+<details><summary><p lang="en"><b>Version 147 (2023, Sunday, October 8th at 5:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I was going to work on the project on 2023 October 6th, but I didn't have the time. I liked the chain I had where there were 2 days of updates, then one off day. I didn't have enough time yesterday, so the chain broke. I am coming back on it early today, to ensure it doesn't get held off to the very last minute again. Some unique new content was added to this page today. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Improved the confusion note about API2001, and provided a link to the AI2001 API
+- - [x] Turned this section into the `Similar projects` section, and converted the section into a dropdown section
+- - [x] Turned the `Documentation` section into a dropdown section
+- [x] Added the `Dataset counters` section
+- [x] Corrected a grammar/syntax error in the `Datasets` section
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Mallard` subsection
+- - - [x] Added the `AI2001 Category: Source Code: MATLAB` subsection
+- - - [x] Added the `AI2001 Category: Source Code: mcFunction` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Mercury` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Meson` subsection
+- - - [x] Added the `AI2001 Category: Source Code: mIRC-Script` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 147
+- [ ] No other changes in version 147
+
+</details> <!-- V147 !-->
 
 </details> <!-- End of file history section !-->
 

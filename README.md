@@ -1,7 +1,11 @@
 
 ***
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the entire article]</b></p></summary>
+
 # [AI2001](#AI2001)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the lead/title section]</b></p></summary>
 
 <img src="/MediaSphere1.png" width="148" height="148" align="left" style="margin-right: 30px">
 
@@ -9,9 +13,11 @@
 
 AI2001 is a free, libre and open source Artificial Intelligence data set and software engine.
 
-AI2001 is early in development, and is not ready yet.
+AI2001 is early in development, and is not ready yet (it is not yet functional)
 
 [:octocat: `About AI2001 logo`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/MediaSphere/)
+
+</details> <!-- Title/lead section = END !-->
 
 ***
 
@@ -23,7 +29,7 @@ AI2001 is early in development, and is not ready yet.
 |---|
 | For the AI2001 API, see [:octocat: `AI2001 API`](https://github.com/seanpm2001/AI2001_API/) |
 
-</details>
+</details>> <!-- Simular projects section = END !-->
 
 ---
 
@@ -35,7 +41,7 @@ AI2001 is early in development, and is not ready yet.
 |---|
 | It is recommended that you read the documentation first. |
 
-</details>
+</details>> <!-- Documentation section = END !-->
 
 ---
 
@@ -55,19 +61,22 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Sunday, October 8th at 5:11 pm PST)`
+**As of:** `2023, Monday, October 9th at 4:58 pm PST)`
 
-- **🎵️ Audio datasets:** `5` (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/))
-- **📃️ Document datasets:** `11` (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/))
-- **🖼️ Image datasets:** `13` (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/))
-- **🔡️ Linguistics datasets:** `105` (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/))
-- **🔵️ Meta datasets:** `3` (not including [1](https://github.com/seanpm2001/AI2001_Category-META/))
-- **💾️ Source code datasets:** `282` (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/))
-- **🎥️ Video datasets:** `5` (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/))
+| Dataset type | Count | Dataset Exclusions |
+|---|---|---|
+| **🎵️ Audio datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
+| **📃️ Document datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
+| **🖼️ Image datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
+| **🔡️ Linguistics datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
+| **🔵️ Meta datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
+| **💾️ Source code datasets:** | `284` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **🎥️ Video datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-**Overall total:** `424` dataset repositories
+| **Overall total:** | `426` dataset repositories | As of: 2023.10.09@16:58PST |
+|---|---|---|
 
-</details>
+</details> <!-- Dataset counters = END !-->
 
 ---
 
@@ -79,13 +88,23 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Articles
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Documents ;SC: Articles`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Articles/)
+
+</details> <!-- Documents, SC: Articles = END !-->
 
 #### SC: Books
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Documents ;SC: Books`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Books/)
 
+</details> <!-- Documents, SC: Books = END !-->
+
 #### SC: Wikis
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Documents ;SC: Wikis`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis/)
 - - [:octocat: `S: Wikipedia`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-Wikipedia/)
@@ -97,7 +116,9 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [:octocat: `S: WikiNews`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiNews/)
 - - [:octocat: `S: WikiSpecies`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis-S-WikiSpecies/)
 
-</details>
+</details> <!-- Documents, SC: Wikis = END !-->
+
+</details> <!-- Documents = END !-->
 
 ---
 
@@ -427,6 +448,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: CSON
 
+> **Note** _Not to be confused with JSON_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: CSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSON/)
 
 #### SC: CSound
@@ -450,6 +473,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: CUE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE/)
 
 #### SC: Cython
+
+> **Note** _Not to be confused with CPython (Python)_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Cython`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cython/)
 
@@ -518,6 +543,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: Eiffel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eiffel/)
 
 #### SC: EJS
+
+> **Note** _Not to be confused with EJSS_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: EJS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJS/)
 
@@ -629,6 +656,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Go!
 
+> **Note** _Not to be confused with Google Go/Google Golang_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: Go!`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-/)
 
 #### SC: Google Apps Script
@@ -636,6 +665,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: Google Apps Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Google-Apps-Script/)
 
 #### SC: Google Go/Google Golang
+
+> **Note** _Not to be confused with Go!_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Google Go/Google Golang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoogleGo/)
 
@@ -672,6 +703,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: Hack`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack/)
 
 #### SC: HAML
+
+> **Note** _Not to be confused with YAML or RAML_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HAML/)
 
@@ -739,6 +772,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: ImageJ
 
+> **Note** _This dataset is a duplicate of the `ImageJ-Macro` dataset_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: ImageJ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ/)
 
 #### SC: ImageJ Macro
@@ -767,6 +802,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Java
 
+> **Note** _Not to be confused with JavaScript._
+
 - [:octocat: `AI2001 Category: Source Code ;SC: Java`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java/)
 
 #### SC: Jasmin
@@ -774,6 +811,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: Jasmin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jasmin/)
 
 #### SC: JavaScript
+
+> **Note** _Not to be confused with Java or JScript_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: JavaScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript/)
 
@@ -791,6 +830,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: JSON
 
+> **Note** _Not to be confused with CSON_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: JSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON/)
 
 #### SC: Jsonnet
@@ -806,6 +847,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Source Code ;SC: Jupyter Notebook`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JupyterNotebook/)
 
 #### SC: KiCad
+
+> **Note** _This dataset combines the `KiCad-Layout` and `KiCad-Schematic` datasets.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: KiCad`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad/)
 
@@ -978,6 +1021,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: mIRC-Script
 
 - [:octocat: `AI2001 Category: Source Code ;SC: mIRC-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script/)
+
+#### SC: MLIR
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MLIR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MLIR/)
+
+#### SC: Modelica
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Modelica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modelica/)
 
 #### SC: Monkey
 
@@ -1245,7 +1296,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ZIL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZIL/)
 
-</details>
+</details> <!-- Source Code = END !-->
 
 ---
 
@@ -1257,6 +1308,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 ##### SC: Photography
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Images ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography/)
 - - [:octocat: `S: Nature`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Nature/)
 - - [:octocat: `S: Portrait`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Portrait/)
@@ -1264,11 +1317,19 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [:octocat: `S: War`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-War/)
 - - [:octocat: `S: Space`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Space/)
 
+</details><!-- Images, SC: Photography = END !-->
+
 ##### SC: Screenshots
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Images ;SC: Screenshots`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Screenshots/)
 
+</details> <!-- Images, SC: Screenshots = END !-->
+
 ##### SC: Graphic Design
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Images ;SC: Graphic Design`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design/)
 - - [:octocat: `S: Icons`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Icons/)
@@ -1276,11 +1337,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - - [:octocat: `S: Logos`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Logos/)
 - - [:octocat: `S: Vexillology`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Vexillology/)
 
+</details> <!-- Images, SC: Graphic Design = END !-->
+
 ##### SC: Heraldry
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
 
-</details>
+</details> <!-- Images, SC: Heraldry = END !-->
+
+</details> <!-- Images = END !-->
 
 ---
 
@@ -1292,22 +1359,38 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Photography
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Videos ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Photography/)
+
+</details> <!-- Videos, SC: Photography = END !-->
 
 #### SC: Gameplay
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Videos ;SC: Gameplay`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Gameplay/)
+
+</details> <!-- Videos, SC: Gameplay = END !-->
 
 #### SC: Nature
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Videos ;SC: Nature`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Nature/)
 
+</details> <!-- Videos, SC: Nature = END !-->
+
 #### SC: Animation
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Videos ;SC: Animation`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation/)
 - - [:octocat: `AI2001 Category: Videos ;SC: Animation S: Anime`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Animation-S-Anime/)
 
-</details>
+</details> <!-- Videos, SC: Animation = END !-->
+
+</details> <!-- Videos = END !-->
 
 ---
 
@@ -1319,19 +1402,31 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 #### SC: Music
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 - [:octocat: `AI2001 Category: Audio ;SC: Music`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Music S: Ambient`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Ambient/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Music S: Vocals`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Vocals/)
 
+</details> <!-- Audio, SC: Music = END !-->
+
 #### SC: Sound Effects
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Audio ;SC: Sound Effects`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Sound_Effects/)
 
+</details> <!-- Audio, SC: Sound Effects (SFX) = END !-->
+
 #### SC: Speeches
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
 
-</details>
+</details> <!-- Audio, SC: Speeches = END !-->
+
+</details> <!-- Audio = END !-->
 
 ---
 
@@ -1803,7 +1898,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
 
-</details>
+</details> <!-- Linguistics = END !-->
 
 ---
 
@@ -1817,20 +1912,28 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 ##### MT (motion)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
 Meta categories are for applying filters to datasets belonging to 2 or more categories
 
 - [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
 
+</details> <!-- Meta, SC: Motion = END !-->
+
 ##### Tags
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
 
 Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Meta: Tags: NSFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW/)
 - [:octocat: `AI2001 Meta: Tags: SFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW/)
 
-</details>
+</details> <!-- Meta, SC: Tags = END !-->
 
-</details>
+</details> <!-- Meta = END !-->
+
+</details> <!-- End of datasets !-->
 
 ***
 
@@ -1850,9 +1953,9 @@ The incident log records notable incidents during the development and usage of A
 
 > [`View the incident log`](/Logs/AI2001/Incidents/INCIDENT_LOG.md)
 
-</details>
+</details> <!-- Incident log = END !-->
 
-</details>
+</details> <!-- Logs = END !-->
 
 ### README
 
@@ -1878,7 +1981,7 @@ You are currently reading the `README.md` file in the home repository.
 | [![Python Package using Conda](https://github.com/seanpm2001/AI2001/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-package-conda.yml) | [![R](https://github.com/seanpm2001/AI2001/actions/workflows/r.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/r.yml) | [![SWI Prolog @Logtalk](https://github.com/seanpm2001/AI2001/actions/workflows/swi-prolog-lt.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/swi-prolog-lt.yml) |
 | [![Upload Python Package](https://github.com/seanpm2001/AI2001/actions/workflows/python-publish.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/python-publish.yml) | [![YAML Lint](https://github.com/seanpm2001/AI2001/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/AI2001/actions/workflows/yaml-lint.yml) | :x: | 
 
-</details>
+</details> <!-- GitHub Workflows = END !-->
 
 #### GitHub Discussions
 
@@ -1887,7 +1990,7 @@ You are currently reading the `README.md` file in the home repository.
 - [`Read existing (archived) discussions`](/.github/Discussions/)
 - [:octocat: `Start a discussion`](https://github.com/seanpm2001/AI2001/discussions/)
 
-</details>
+</details> <!-- GitHub Discussions = END !-->
 
 #### GitHub Issues
 
@@ -1896,7 +1999,7 @@ You are currently reading the `README.md` file in the home repository.
 - [`Read existing (archived) issues`](/.github/Issues/)
 - [:octocat: `Raise a new issue`](https://github.com/seanpm2001/AI2001/issues/)
 
-</details>
+</details> <!-- GitHub Issues = END !-->
 
 #### GitHub Pull Requests
 
@@ -1905,7 +2008,7 @@ You are currently reading the `README.md` file in the home repository.
 - [`Read existing (archived) PRs`](/.github/Pull_Requests/)
 - [:octocat: `Raise a new PR`](https://github.com/seanpm2001/AI2001/pulls)
 
-</details>
+</details> <!-- GitHub Pull Requests = END !-->
 
 #### GitHub Social Preview Images
 
@@ -1913,9 +2016,9 @@ You are currently reading the `README.md` file in the home repository.
 
 - [`View social preview images`](/.github/SocialPreview/)
 
-</details>
+</details> <!-- GitHub Social Preview Images = END !-->
 
-</details>
+</details> <!-- GitHub = END !-->
 
 ### GitLab
 
@@ -1925,7 +2028,7 @@ This project is not yet on Gitlab.
 
 - [`View GitLab folder anyway`](/.gitlab/)
 
-</details>
+</details> <!-- GitLab = END !-->
 
 ### Docs
 
@@ -1933,7 +2036,7 @@ This project is not yet on Gitlab.
 
 [`Read the Docs`](/Docs/)
 
-</details>
+</details> <!-- Docs = END !-->
 
 ### OldVersions
 
@@ -1941,7 +2044,7 @@ This project is not yet on Gitlab.
 
 [`Browse old versions of files`](/OldVersions/)
 
-</details>
+</details> <!-- OldVersions = END !-->
 
 ### RepoData
 
@@ -1949,18 +2052,9 @@ This project is not yet on Gitlab.
 
 [`Read repository data`](/RepoData/)
 
-</details>
+</details> <!-- RepoData = END !-->
 
-</details>
-
-<!-- ***
-
-**🌱️ This [`README.md`](/README.md) file is a stub, and needs expansion** !-->
-
-<!-- A file over 1000 lines in length cannot be considered a "major" stub
-(Possible decision: just say the file is incomplete, and don't refer to it as a stub)
-**🌱️ This [`README.md`](/README.md) file is a major stub, and needs significant expansion**
-!-->
+</details> <!-- Home repository = END !-->
 
 ***
 
@@ -1970,17 +2064,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `147 (2023, Sunday, October 8th at 05:11 pm PST)`
+**File version:** `148 (2023, Monday, October 9th at 04:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,176`
+**Line count (including blank lines and compiler line):** `3,324`
 
-**Word count:** `17,026`
+**Word count:** `17,928`
 
-**Character count (including spaces):** `124,752`
+**Character count (including spaces):** `131,378`
 
-**Character count (excluding spaces):** `109,692`
+**Character count (excluding spaces):** `115,336`
 
-**Size (in bytes):** `124,839`
+**Size (in bytes):** `131,455`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1992,11 +2086,13 @@ This project is not yet on Gitlab.
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-</details>
+</details> <!-- File info = END !-->
 
 ***
 
 # [File history](#File-history)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
 Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. This was done to clear up about 2000 lines. These older entries can be viewed in versions 105 and below.
 
@@ -3160,16 +3256,68 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 </details> <!-- V147 !-->
 
+<details><summary><p lang="en"><b>Version 148 (2023, Monday, October 9th at 04:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day. Hopefully I can also succeed in a 3rd consecutive day this time._
+
+> Changes:
+
+- [x] Made the entire article collapsable
+- [x] Improved the title/lead section
+- - [x] Converted the section into a dropdown section
+- - [x] Some minor polishing
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- - [x] Converted the list into a table
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Audio` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - [x] Updated the `C: Documents` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added notes for several languages about confusion with other languages.
+- - - [x] Added the `AI2001 Category: Source Code: MLIR` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Modelica` subsection
+- - [x] Updated the `C: Images` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - [x] Updated the `C: Videos` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - [x] Updated the `C: Linguistics` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - [x] Updated the `C: Meta` section
+- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 148
+- - [x] Made the file history section collapse-capable again
+- [x] Updated the footer
+- - [x] Made the footer collapsable (converted all sections into dropdown sections)
+- [x] Added lots of source code comments (one on the end of every ` < / details > ` tag) for readability
+- [ ] No other changes in version 148
+
+</details> <!-- V148 !-->
+
 </details> <!-- End of file history section !-->
 
 ***
 
 # [Footer](#Footer)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the lead/title section]</b></p></summary>
+
 You have reached the bottom of this page.
 
 ( [Back to top](#AI2001) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
 
+</details> <!-- Footer = END !-->
+
 ###### [EOF](#EOF)
+
+</details> <!-- End of article !-->
 
 ***

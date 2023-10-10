@@ -27,9 +27,9 @@ AI2001 is early in development, and is not ready yet (it is not yet functional)
 
 | **Not to be confused with [:octocat: `API-2001 (API2001)`](https://github.com/seanpm2001/API-2001/)** |
 |---|
-| For the AI2001 API, see [:octocat: `AI2001 API`](https://github.com/seanpm2001/AI2001_API/) |
+| _For the AI2001 API, see_ [:octocat: `AI2001 API`](https://github.com/seanpm2001/AI2001_API/) |
 
-</details>> <!-- Simular projects section = END !-->
+</details> <!-- Simular projects section = END !-->
 
 ---
 
@@ -39,9 +39,9 @@ AI2001 is early in development, and is not ready yet (it is not yet functional)
 
 | [:octocat: `Click/tap here to go to the official AI2001 documentation repository`](https://github.com/seanpm2001/AI2001_Docs/) |
 |---|
-| It is recommended that you read the documentation first. |
+| **It is recommended that you read the documentation first.** |
 
-</details>> <!-- Documentation section = END !-->
+</details> <!-- Documentation section = END !-->
 
 ---
 
@@ -61,28 +61,68 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Monday, October 9th at 4:58 pm PST)`
+**As of:** `2023, Tuesday, October 10th at 4:40 pm PST)`
 
-| Dataset type | Count | Dataset Exclusions |
+| ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
-| **🎵️ Audio datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
-| **📃️ Document datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
-| **🖼️ Image datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
-| **🔡️ Linguistics datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
-| **🔵️ Meta datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **💾️ Source code datasets:** | `284` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
-| **🎥️ Video datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
+| **[🎵️ Audio](#C-Audio) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
+| **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
+| **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
+| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
+| **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `286` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `426` dataset repositories | As of: 2023.10.09@16:58PST |
+| **Overall total:** | `428` _dataset repositories_ | **As of:** `2023.10.10@16:40PST` |
 |---|---|---|
 
 </details> <!-- Dataset counters = END !-->
 
 ---
 
+### [C: Audio](#C-Audio)
+
+**🎵️ Audio datasets:**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
+
+#### SC: Music
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Audio ;SC: Music`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music/)
+- - [:octocat: `AI2001 Category: Audio ;SC: Music S: Ambient`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Ambient/)
+- - [:octocat: `AI2001 Category: Audio ;SC: Music S: Vocals`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Vocals/)
+
+</details> <!-- Audio, SC: Music = END !-->
+
+#### SC: Sound Effects
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Audio ;SC: Sound Effects`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Sound_Effects/)
+
+</details> <!-- Audio, SC: Sound Effects (SFX) = END !-->
+
+#### SC: Speeches
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
+
+</details> <!-- Audio, SC: Speeches = END !-->
+
+</details> <!-- Audio = END !-->
+
+---
+
 ### [C: Documents](#C-Documents)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+**📃️ Document datasets**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/)
 
@@ -122,9 +162,579 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 ---
 
+### [C: Images](#C-Images)
+
+**🖼️ Image datasets:**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/)
+
+##### SC: Photography
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography/)
+- - [:octocat: `S: Nature`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Nature/)
+- - [:octocat: `S: Portrait`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Portrait/)
+- - [:octocat: `S: Construction`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Construction/)
+- - [:octocat: `S: War`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-War/)
+- - [:octocat: `S: Space`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Space/)
+
+</details><!-- Images, SC: Photography = END !-->
+
+##### SC: Screenshots
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Screenshots`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Screenshots/)
+
+</details> <!-- Images, SC: Screenshots = END !-->
+
+##### SC: Graphic Design
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Graphic Design`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design/)
+- - [:octocat: `S: Icons`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Icons/)
+- - [:octocat: `S: Wallpapers`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers/)
+- - [:octocat: `S: Logos`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Logos/)
+- - [:octocat: `S: Vexillology`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Vexillology/)
+
+</details> <!-- Images, SC: Graphic Design = END !-->
+
+##### SC: Heraldry
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
+
+</details> <!-- Images, SC: Heraldry = END !-->
+
+</details> <!-- Images = END !-->
+
+---
+
+### [C: Linguistics](#C-Linguistics)
+
+**🔡️ Linguistics datasets:**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
+
+#### SC: Afar
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Afar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afar/)
+
+#### SC: Afrikaans
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
+
+#### SC: Akkadian
+
+> **Note** _Commonly confused with Assyrian_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Akkadian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Akkadian/)
+
+#### SC: Amharic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Amharic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Amharic/)
+
+#### SC: Ancient Egyptian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
+
+#### SC: Arabic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
+
+#### SC: Armenian
+
+<!-- Yes, I do realize that the Armenian Genocide happened, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
+
+#### SC: Azerbaijan
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
+
+#### SC: Bambara
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bambara`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bambara/)
+
+#### SC: Belarusian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Belarusian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Belarusian/)
+
+#### SC: Bengali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bengali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bengali/)
+
+#### SC: Berber
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
+
+#### SC: Bosnian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bosnian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bosnian/)
+
+#### SC: Bulgarian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
+
+#### SC: Burmese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Burmese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Burmese/)
+
+#### SC: Catalan
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Catalan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Catalan/)
+
+#### SC: Cebuano
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Cebuano`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cebuano/)
+
+#### SC: Chechen
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chechen`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chechen/)
+
+#### SC: Chinese (Simplified)
+
+> **Note** _Not to be confused with Chinese (Traditional)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
+
+#### SC: Chinese (Traditional)
+
+> **Note** _Not to be confused with Chinese (Simplified)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
+
+#### SC: Cornish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Cornish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cornish/)
+
+#### SC: Corsican
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Corsican`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Corsican/)
+
+#### SC: Cuneiform
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
+
+#### SC: Czech
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Czech`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Czech/)
+
+#### SC: Danish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
+
+#### SC: Dutch
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Dutch`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dutch/)
+
+#### SC: English
+
+> **Note** _The default language for all AI2001 repositories._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
+
+#### SC: Esperanto
+
+> **Note** _Esperanto is an attempt at making a universal language._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Esperanto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Esperanto/)
+
+#### SC: Ethiopian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
+
+#### SC: Filipino
+
+> **Note** _Not to be confused with Tagalog._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Filipino`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Filipino/)
+
+#### SC: Finnish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Finnish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Finnish/)
+
+#### SC: French
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
+
+#### SC: Frisian
+
+> **Note** _Frisian has many notable dialects._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Frisian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian/)
+
+#### SC: Fula
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
+
+#### SC: German
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: German`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-German/)
+
+#### SC: Greek
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Greek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greek/)
+
+#### SC: Greenlandic
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
+
+#### SC: Hebrew
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hebrew`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hebrew/)
+
+#### SC: Hindi
+
+> **Note** _Not to be confused with Sanskrit._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
+
+#### SC: Hindustani
+
+> **Note** _Not to be confused with Hindi or Urdu._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hindustani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindustani/)
+
+#### SC: Hungarian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
+
+#### SC: Igbo
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
+
+#### SC: Indonesian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Indonesian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Indonesian/)
+
+#### SC: Irish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Irish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Irish/)
+
+#### SC: Italian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Italian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Italian/)
+
+#### SC: Japanese
+
+> **Note** _Not to be confused with Javanese._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
+
+#### SC: Javanese
+
+> **Note** _Not to be confused with Japanese._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
+
+#### SC: Kashmiri
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Kashmiri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kashmiri/)
+
+#### SC: Konkani
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Konkani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Konkani/)
+
+#### SC: Korean (North)
+
+> **Note** _Not to be confused with Korean (South)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (North)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-North/)
+
+#### SC: Korean (South)
+
+> **Note** _Not to be confused with Korean (North)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
+
+#### SC: Kurdish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Kurdish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish/)
+
+#### SC: Laos
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Laos`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Laos/)
+
+#### SC: Latin
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
+
+#### SC: Latvian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Latvian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latvian/)
+
+#### SC: Lingala
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lingala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lingala/)
+
+#### SC: Lithuanian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
+
+#### SC: Lushootseed
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Lushootseed`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lushootseed/)
+
+#### SC: Luxembourgish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
+
+#### SC: Maithili
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
+
+#### SC: Malayalam
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
+
+#### SC: Marathi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
+
+#### SC: Meitei
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
+
+#### SC: Mongolian (Classic)
+
+> **Note** _Not to be confused with Mongolian (Cyrillic)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Classic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Classic/)
+
+#### SC: Mongolian (Cyrillic)
+
+> **Note** _Not to be confused with Mongolian (Classic)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
+
+#### SC: Nepali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
+
+#### SC: Norwegian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Norwegian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Norwegian/)
+
+#### SC: Pashto
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Pashto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Pashto/)
+
+#### SC: Persian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Persian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Persian/)
+
+#### SC: Polish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Polish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Polish/)
+
+#### SC: Portuguese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Portuguese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Portuguese/)
+
+#### SC: Punjabi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Punjabi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Punjabi/)
+
+#### SC: Romanian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
+
+#### SC: Russian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
+
+#### SC: Ruthenian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
+
+#### SC: Sámi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sámi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sami/)
+
+#### SC: Sanskrit
+
+> **Note** _Not to be confused with Hindi._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
+
+#### SC: Santali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Santali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Santali/)
+
+#### SC: Scottish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Scottish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Scottish/)
+
+#### SC: Sindhi
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sindhi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sindhi/)
+
+#### SC: Somali
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Somali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Somali/)
+
+#### SC: Spanish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
+
+#### SC: Sundanese
+
+> **Note** _Not to be confused with Sudanese. The language of Sudan is Arabic (also English)_
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Sundanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sundanese/)
+
+#### SC: Swahili
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Swahili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swahili/)
+
+#### SC: Swedish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
+
+#### SC: Tagalog
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tagalog`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tagalog/)
+
+#### SC: Tajik
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
+
+#### SC: Tamil
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tamil`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tamil/)
+
+#### SC: Tatar
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tatar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tatar/)
+
+#### SC: Telugu
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
+
+#### SC: Thai
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
+
+#### SC: Tigrinya
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Tigrinya`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tigrinya/)
+
+#### SC: Turkish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
+
+#### SC: Ukrainian
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
+
+#### SC: Urdu
+
+> **Note** _Not to be confused with Arabic._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
+
+#### SC: Uyghur
+
+<!-- Yes, I do realize that the Uyghur Genocide is ongoing, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Uyghur`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uyghur/)
+
+#### SC: Uzbek
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
+
+#### SC: Vietnamese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Vietnamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Vietnamese/)
+
+#### SC: Welsh
+
+> **Note** _Not to be confused with English._
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
+
+#### SC: Walloon
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Walloon`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Walloon/)
+
+#### SC: Wolof
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Wolof`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Wolof/)
+
+#### SC: Xhosa
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Xhosa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Xhosa/)
+
+#### SC: Yiddish
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Yiddish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yiddish/)
+
+#### SC: Yoruba
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Yoruba`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yoruba/)
+
+#### SC: Zulu
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
+
+</details> <!-- Linguistics = END !-->
+
+---
+
+### [C: Meta](#C-Meta)
+
+**🔵️ Meta datasets:**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### Meta subcategory
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Meta`](https://github.com/seanpm2001/AI2001_Category-Meta/)
+
+##### MT (motion)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+Meta categories are for applying filters to datasets belonging to 2 or more categories
+
+- [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
+
+</details> <!-- Meta, SC: Motion = END !-->
+
+##### Tags
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+Meta tags are for applying filters to datasets of any size.
+
+- [:octocat: `AI2001 Meta: Tags: NSFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW/)
+- [:octocat: `AI2001 Meta: Tags: SFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW/)
+
+</details> <!-- Meta, SC: Tags = END !-->
+
+</details> <!-- Meta Subcategory = END !-->
+
+</details> <!-- Meta = END !-->
+
+---
+
 ### [C: Source Code](#C-Source-Code)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+**💾️ Source code datasets:**
+
+> **Note** _The abbreviation for Source Code datasets (SC) is not to be confused with the abbreviation for sub-category (SC) datasets. It is currently preferred to not abbreviate Source Code datasets with SC, but there is no consensus yet._
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/)
 
@@ -1030,6 +1640,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Modelica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modelica/)
 
+#### SC: Modula-2
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Modula-2`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-2/)
+
+#### SC: Modula-3
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Modula-3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-3/)
+
 #### SC: Monkey
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Monkey`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Monkey/)
@@ -1300,60 +1918,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 ---
 
-### [C: Images](#C-Images)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/)
-
-##### SC: Photography
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Images ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography/)
-- - [:octocat: `S: Nature`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Nature/)
-- - [:octocat: `S: Portrait`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Portrait/)
-- - [:octocat: `S: Construction`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Construction/)
-- - [:octocat: `S: War`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-War/)
-- - [:octocat: `S: Space`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Photography-S-Space/)
-
-</details><!-- Images, SC: Photography = END !-->
-
-##### SC: Screenshots
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Images ;SC: Screenshots`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Screenshots/)
-
-</details> <!-- Images, SC: Screenshots = END !-->
-
-##### SC: Graphic Design
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Images ;SC: Graphic Design`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design/)
-- - [:octocat: `S: Icons`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Icons/)
-- - [:octocat: `S: Wallpapers`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers/)
-- - [:octocat: `S: Logos`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Logos/)
-- - [:octocat: `S: Vexillology`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Vexillology/)
-
-</details> <!-- Images, SC: Graphic Design = END !-->
-
-##### SC: Heraldry
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
-
-</details> <!-- Images, SC: Heraldry = END !-->
-
-</details> <!-- Images = END !-->
-
----
-
 ### [C: Videos](#C-Videos)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+**🎥️ Video datasets:** 
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/)
 
@@ -1392,546 +1961,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Videos = END !-->
 
----
-
-### [C: Audio](#C-Audio)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
-
-#### SC: Music
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Audio ;SC: Music`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music/)
-- - [:octocat: `AI2001 Category: Audio ;SC: Music S: Ambient`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Ambient/)
-- - [:octocat: `AI2001 Category: Audio ;SC: Music S: Vocals`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Vocals/)
-
-</details> <!-- Audio, SC: Music = END !-->
-
-#### SC: Sound Effects
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Audio ;SC: Sound Effects`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Sound_Effects/)
-
-</details> <!-- Audio, SC: Sound Effects (SFX) = END !-->
-
-#### SC: Speeches
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Audio ;SC: Speeches`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Speeches/)
-
-</details> <!-- Audio, SC: Speeches = END !-->
-
-</details> <!-- Audio = END !-->
-
----
-
-### [C: Linguistics](#C-Linguistics)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
-
-#### SC: Afar
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Afar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afar/)
-
-#### SC: Afrikaans
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
-
-#### SC: Akkadian
-
-> **Note** _Commonly confused with Assyrian_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Akkadian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Akkadian/)
-
-#### SC: Amharic
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Amharic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Amharic/)
-
-#### SC: Ancient Egyptian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
-
-#### SC: Arabic
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
-
-#### SC: Armenian
-
-<!-- Yes, I do realize that the Armenian Genocide happened, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
-
-#### SC: Azerbaijan
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
-
-#### SC: Bambara
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Bambara`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bambara/)
-
-#### SC: Belarusian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Belarusian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Belarusian/)
-
-#### SC: Bengali
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Bengali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bengali/)
-
-#### SC: Berber
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
-
-#### SC: Bosnian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Bosnian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bosnian/)
-
-#### SC: Bulgarian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
-
-#### SC: Burmese
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Burmese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Burmese/)
-
-#### SC: Catalan
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Catalan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Catalan/)
-
-#### SC: Cebuano
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Cebuano`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cebuano/)
-
-#### SC: Chechen
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Chechen`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chechen/)
-
-#### SC: Chinese (Simplified)
-
-> **Note** _Not to be confused with Chinese (Traditional)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
-
-#### SC: Chinese (Traditional)
-
-> **Note** _Not to be confused with Chinese (Simplified)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
-
-#### SC: Cornish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Cornish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cornish/)
-
-#### SC: Corsican
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Corsican`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Corsican/)
-
-#### SC: Cuneiform
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
-
-#### SC: Czech
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Czech`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Czech/)
-
-#### SC: Danish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
-
-#### SC: Dutch
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Dutch`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dutch/)
-
-#### SC: English
-
-> **Note** _The default language for all AI2001 repositories._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: English`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-English/)
-
-#### SC: Esperanto
-
-> **Note** _Esperanto is an attempt at making a universal language._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Esperanto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Esperanto/)
-
-#### SC: Ethiopian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
-
-#### SC: Filipino
-
-> **Note** _Not to be confused with Tagalog._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Filipino`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Filipino/)
-
-#### SC: Finnish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Finnish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Finnish/)
-
-#### SC: French
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: French`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-French/)
-
-#### SC: Frisian
-
-> **Note** _Frisian has many notable dialects._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Frisian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian/)
-
-#### SC: Fula
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
-
-#### SC: German
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: German`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-German/)
-
-#### SC: Greek
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Greek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greek/)
-
-#### SC: Greenlandic
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
-
-#### SC: Hebrew
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Hebrew`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hebrew/)
-
-#### SC: Hindi
-
-> **Note** _Not to be confused with Sanskrit._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
-
-#### SC: Hindustani
-
-> **Note** _Not to be confused with Hindi or Urdu._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Hindustani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindustani/)
-
-#### SC: Hungarian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
-
-#### SC: Igbo
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
-
-#### SC: Indonesian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Indonesian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Indonesian/)
-
-#### SC: Irish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Irish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Irish/)
-
-#### SC: Italian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Italian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Italian/)
-
-#### SC: Japanese
-
-> **Note** _Not to be confused with Javanese._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
-
-#### SC: Javanese
-
-> **Note** _Not to be confused with Japanese._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
-
-#### SC: Kashmiri
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Kashmiri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kashmiri/)
-
-#### SC: Konkani
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Konkani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Konkani/)
-
-#### SC: Korean (North)
-
-> **Note** _Not to be confused with Korean (South)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (North)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-North/)
-
-#### SC: Korean (South)
-
-> **Note** _Not to be confused with Korean (North)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
-
-#### SC: Kurdish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Kurdish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish/)
-
-#### SC: Laos
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Laos`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Laos/)
-
-#### SC: Latin
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Latin`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latin/)
-
-#### SC: Latvian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Latvian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latvian/)
-
-#### SC: Lingala
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Lingala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lingala/)
-
-#### SC: Lithuanian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
-
-#### SC: Lushootseed
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Lushootseed`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lushootseed/)
-
-#### SC: Luxembourgish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
-
-#### SC: Maithili
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
-
-#### SC: Malayalam
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
-
-#### SC: Marathi
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
-
-#### SC: Meitei
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
-
-#### SC: Mongolian (Classic)
-
-> **Note** _Not to be confused with Mongolian (Cyrillic)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Classic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Classic/)
-
-#### SC: Mongolian (Cyrillic)
-
-> **Note** _Not to be confused with Mongolian (Classic)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
-
-#### SC: Nepali
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
-
-#### SC: Norwegian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Norwegian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Norwegian/)
-
-#### SC: Pashto
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Pashto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Pashto/)
-
-#### SC: Persian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Persian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Persian/)
-
-#### SC: Polish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Polish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Polish/)
-
-#### SC: Portuguese
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Portuguese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Portuguese/)
-
-#### SC: Punjabi
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Punjabi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Punjabi/)
-
-#### SC: Romanian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
-
-#### SC: Russian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Russian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Russian/)
-
-#### SC: Ruthenian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
-
-#### SC: Sámi
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Sámi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sami/)
-
-#### SC: Sanskrit
-
-> **Note** _Not to be confused with Hindi._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
-
-#### SC: Santali
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Santali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Santali/)
-
-#### SC: Scottish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Scottish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Scottish/)
-
-#### SC: Sindhi
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Sindhi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sindhi/)
-
-#### SC: Somali
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Somali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Somali/)
-
-#### SC: Spanish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Spanish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Spanish/)
-
-#### SC: Sundanese
-
-> **Note** _Not to be confused with Sudanese. The language of Sudan is Arabic (also English)_
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Sundanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sundanese/)
-
-#### SC: Swahili
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Swahili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swahili/)
-
-#### SC: Swedish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
-
-#### SC: Tagalog
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Tagalog`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tagalog/)
-
-#### SC: Tajik
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Tajik`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tajik/)
-
-#### SC: Tamil
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Tamil`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tamil/)
-
-#### SC: Tatar
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Tatar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tatar/)
-
-#### SC: Telugu
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
-
-#### SC: Thai
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
-
-#### SC: Tigrinya
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Tigrinya`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tigrinya/)
-
-#### SC: Turkish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
-
-#### SC: Ukrainian
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
-
-#### SC: Urdu
-
-> **Note** _Not to be confused with Arabic._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Urdu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Urdu/)
-
-#### SC: Uyghur
-
-<!-- Yes, I do realize that the Uyghur Genocide is ongoing, but it isn't worth mentioning publicly here, as it is unrelated. I am keeping this comment here to remind others not to add a description about it. This message is not political, it is factual. This comment may get moved to a separate file, once proper documentation is done. !-->
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Uyghur`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uyghur/)
-
-#### SC: Uzbek
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
-
-#### SC: Vietnamese
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Vietnamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Vietnamese/)
-
-#### SC: Welsh
-
-> **Note** _Not to be confused with English._
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
-
-#### SC: Walloon
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Walloon`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Walloon/)
-
-#### SC: Wolof
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Wolof`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Wolof/)
-
-#### SC: Xhosa
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Xhosa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Xhosa/)
-
-#### SC: Yiddish
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Yiddish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yiddish/)
-
-#### SC: Yoruba
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Yoruba`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yoruba/)
-
-#### SC: Zulu
-
-- [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
-
-</details> <!-- Linguistics = END !-->
-
----
-
-### [Meta](#Meta)
-
-#### Meta subcategory
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Meta`](https://github.com/seanpm2001/AI2001_Category-Meta/)
-
-##### MT (motion)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-Meta categories are for applying filters to datasets belonging to 2 or more categories
-
-- [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
-
-</details> <!-- Meta, SC: Motion = END !-->
-
-##### Tags
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-Meta tags are for applying filters to datasets of any size.
-
-- [:octocat: `AI2001 Meta: Tags: NSFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-NSFW/)
-- [:octocat: `AI2001 Meta: Tags: SFW`](https://github.com/seanpm2001/AI2001_Category-META_SC-Tags-SFW/)
-
-</details> <!-- Meta, SC: Tags = END !-->
-
-</details> <!-- Meta = END !-->
+<!-- --- !-->
 
 </details> <!-- End of datasets !-->
 
@@ -2060,21 +2090,21 @@ This project is not yet on Gitlab.
 
 # [File info](#File-info)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `148 (2023, Monday, October 9th at 04:58 pm PST)`
+**File version:** `149 (2023, Tuesday, October 10th at 04:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,324`
+**Line count (including blank lines and compiler line):** `3,471`
 
-**Word count:** `17,928`
+**Word count:** `18,926`
 
-**Character count (including spaces):** `131,378`
+**Character count (including spaces):** `138,090`
 
-**Character count (excluding spaces):** `115,336`
+**Character count (excluding spaces):** `121,386`
 
-**Size (in bytes):** `131,455`
+**Size (in bytes):** `138,215`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2094,11 +2124,16 @@ This project is not yet on Gitlab.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
-Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. This was done to clear up about 2000 lines. These older entries can be viewed in versions 105 and below.
+> **Note** _Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. This was done to clear up about 2000 lines. These older entries can be viewed in versions 105 and below._
+
+- [`View old versions [1-100]`](/OldVersions/README/English/1/)
+- [`View old versions [101-200]`](/OldVersions/README/English/2/101-200/)
 
 <details><summary><p lang="en"><b>Version 101 (2023, Saturday, July 1st at 11:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V101.md)
 
 > **Note** _Yesterday was skipped due to personal issues. Continuing for 1 consecutive day._
 
@@ -2122,6 +2157,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V102.md)
+
 > **Note** _Continuing for 2 consecutive days._
 
 > Changes:
@@ -2143,6 +2180,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 103 (2023, Monday, July 3rd at 10:29 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V103.md)
 
 > **Note** _Continuing for 3 consecutive days._
 
@@ -2166,6 +2205,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V104.md)
+
 > **Note** _Yesterday was skipped due to severe internal problems. Continuing for 1 consecutive day._
 
 > Changes:
@@ -2187,6 +2228,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 105 (2023, Thursday, July 6th at 10:33 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V105.md)
 
 > **Note** _Continuing for 2 consecutive days._
 
@@ -2210,6 +2253,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V106.md)
+
 > **Note** _Continuing for 3 consecutive days. Also some very very late Spring cleaning (Summer cleaning?)_
 
 > Changes:
@@ -2232,6 +2277,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 107 (2023, Thursday, July 13th at 05:59 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V107.md)
 
 > **Note** _Very late update, I had a 6 day pause due to difficulties transitioning my work from a Dell XPS 13 back to my System76 Pangolin. Today, I finally got caught back up on this project, and set a precedent that this work is still possible for myself. I feel bad for missing 5 days of consecutive work. Consecutive days: 1_
 
@@ -2265,6 +2312,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V108.md)
+
 > **Note** _This update is one day late, as I am still struggling, but there wasn't any day of data that had to be merged with another day, as no new AI2001 repositories were created today. Consecutive days: 1_
 
 > Changes:
@@ -2286,6 +2335,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 109 (2023, Monday, July 17th at 05:21 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V109.md)
 
 > **Note** _I took a 2 day break from updating this project in full, as I now take most projects off during weekends. Saturday was a catchup day, while nothing was done on Sunday, except in the other AI2001 core repository ([:octocat: `AI2001_Docs`](https://github.com/seanpm2001/AI2001_Docs/)). Consecutive days: 1 or 3_
 
@@ -2309,6 +2360,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V110.md)
+
 > **Note** _Continuing normally for a second day, although a recent break caused the consecutive day counter some confusion. Consecutive days: 2 or 4_
 
 > Changes:
@@ -2330,6 +2383,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 111 (2023, Wednesday, July 19th at 04:00 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V111.md)
 
 > **Note** _Continuing normally for a third day, although a recent break caused the consecutive day counter some confusion. Consecutive days: 3 or 5_
 
@@ -2353,6 +2408,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V112.md)
+
 > **Note** _Continuing normally for a fourth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets today, Consecutive days: 4 or 6_
 
 > Changes:
@@ -2374,6 +2431,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 113 (2023, Friday, July 21st at 06:15 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V113.md)
 
 > **Note** _Continuing normally for a fifth day, although a recent break caused the consecutive day counter some confusion. Switched from source code to linguistic datasets yesterday, Consecutive days: 5 or 7_
 
@@ -2397,6 +2456,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V114.md)
+
 > **Note** _Continuing normally for a sixth day, although a recent break caused the consecutive day counter some confusion. I will be going on vacation for at least the next 5 days, so this project won't be updated in this time. Consecutive days: 6 or 8_
 
 > Changes:
@@ -2418,6 +2479,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 115 (2023, Saturday, July 29th at 07:11 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V115.md)
 
 > **Note** _Coming back from a 1 week hiatus. Total consecutive days: 1_
 
@@ -2441,6 +2504,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V116.md)
+
 > **Note** _Coming back from a 1 week hiatus. Total consecutive days: 2_
 
 > Changes:
@@ -2462,6 +2527,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 117 (2023, Monday, July 31st at 04:35 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V117.md)
 
 > **Note** _Continuing for a 3rd consecutive day._
 
@@ -2485,6 +2552,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V118.md)
+
 > **Note** _Continuing for a 4th consecutive day._
 
 > Changes:
@@ -2507,6 +2576,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V119.md)
+
 > **Note** _Continuing for a 5th consecutive day._
 
 > Changes:
@@ -2528,6 +2599,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 120 (2023, Friday, August 4th at 08:02 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V120.md)
 
 > **Note** _I took yesterday off due to schedule issues, and needing a calm day. I did not take on 4 AI2001 repositories for this reason, it was already rescheduled like that in my calendar a couple weeks ago. Yesterday was a blank day in the schedule to begin with. Continuing for 1 consecutive day._
 
@@ -2555,6 +2628,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V121.md)
+
 > **Note** _Going back to only source code datasets for the meantime, and continuing for a second consecutive day._
 
 > Changes:
@@ -2576,6 +2651,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 122 (2023, Sunday, August 6th at 04:44 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V122.md)
 
 > **Note** _Continuing for a third consecutive day._
 
@@ -2599,6 +2676,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V123.md)
+
 > **Note** _Continuing for a fourth consecutive day._
 
 > Changes:
@@ -2620,6 +2699,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 124 (2023, Tuesday, August 8th at 08:35 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V124.md)
 
 > **Note** _Continuing for a fifth consecutive day._
 
@@ -2644,6 +2725,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 125 (2023, Saturday, August 12th at 06:25 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V125.md)
 
 > **Note** _I kept making new AI2001 repositories in the past 4 days, but I had some real struggles recently, and wasn't able to update the core AI2001 documentation until today (4 days later) I am going to try to stay caught up here again. Total consecutive days: 1_
 
@@ -2673,6 +2756,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V126.md)
+
 > **Note** _Continuing for a second consecutive day_
 
 > Changes:
@@ -2694,6 +2779,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 127 (2023, Monday, August 14th at 06:46 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V127.md)
 
 > **Note** _Continuing for a third consecutive day._
 
@@ -2717,6 +2804,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V128.md)
+
 > **Note** _Continuing for a fourth consecutive day._
 
 > Changes:
@@ -2739,6 +2828,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V129.md)
+
 > **Note** _Continuing for a fifth consecutive day._
 
 > Changes:
@@ -2760,6 +2851,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 130 (2023, Thursday, August 17th at 06:48 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V130.md)
 
 > **Note** _Continuing for a sixth consecutive day._
 
@@ -2785,6 +2878,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V131.md)
+
 > **Note** _I had a really hard night last night and had to skip this project for the day. Continuing for 1 consecutive day on a new streak._
 
 > Changes:
@@ -2806,6 +2901,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 </details> <!-- V131 !-->
 
 <details><summary><p lang="en"><b>Version 132 (2023, Sunday, August 20th at 10:01 pm PST)</b></p></summary>
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V132.md)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -2831,6 +2928,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V133.md)
+
 > **Note** _Continuing for a third consecutive day_
 
 > Changes:
@@ -2852,6 +2951,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 134 (2023, Wednesday, August 23rd at 07:08 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V134.md)
 
 > **Note** _I skipped work on this project yesterday, due to a lack of time and focus. I got the file back up to date today, but did not make any advances in the language family tree (which isn't in this file) as I needed time for other projects. Continuing for 1 consecutive day._
 
@@ -2877,7 +2978,9 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
- _I skipped work on this project for 3 full weeks, before coming back today. There was a recent productivity bubble burst, and it was really difficult to get every vassal under my control again. I added 1 vassal per day for several days, then on 2023, September 14th, I brought 7 vassals back into reach in one day, including this project. I hope to prevent this from happening again for so long (at least for the rest of the year) Continuing for 1 consecutive day._
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V135.md)
+
+> **Note** _I skipped work on this project for 3 full weeks, before coming back today. There was a recent productivity bubble burst, and it was really difficult to get every vassal under my control again. I added 1 vassal per day for several days, then on 2023, September 14th, I brought 7 vassals back into reach in one day, including this project. I hope to prevent this from happening again for so long (at least for the rest of the year) Continuing for 1 consecutive day._
 
 > Changes:
 
@@ -2945,6 +3048,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V136.md)
+
 > **Note** _Continuing for a second consecutive day._
 
 > Changes:
@@ -2966,6 +3071,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 137 (2023, Saturday, September 16th at 10:15 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V137.md)
 
 > **Note** _Continuing for a third consecutive day._
 
@@ -2989,6 +3096,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V138.md)
+
 > **Note** _Continuing for a fourth consecutive day._
 
 > Changes:
@@ -3011,6 +3120,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V139.md)
+
 > **Note** _Continuing for a fifth consecutive day._
 
 > Changes:
@@ -3032,6 +3143,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 140 (2023, Wednesday, September 20th at 11:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V140.md)
 
 > **Note** _I was so distracted last night that I decided it would be better to try and stop, instead of wasting time. I was fearful I wouldn't be able to get my schedule under control again today, but I managed to pull it off by the last hour. Continuing for 1 consecutive day._
 
@@ -3056,6 +3169,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 141 (2023, Tuesday, September 26th at 10:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V141.md)
 
 > **Note** _I have been going through a series of changes lately, and it took me until today to get this project back under my control. Continuing for 1 consecutive day._
 
@@ -3089,6 +3204,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V142.md)
+
 > **Note** _Continuing for 2 consecutive days._
 
 > Changes:
@@ -3110,6 +3227,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 143 (2023, Friday, September 29th at 09:59 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V143.md)
 
 > **Note** _I became way too distracted last night, and cut my work short, and it almost repeated exactly again tonight. I am coming back today. Continuing for 1 consecutive day._
 
@@ -3135,6 +3254,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V144.md)
+
 > **Note** _Continuing for a 2nd consecutive day._
 
 > Changes:
@@ -3156,6 +3277,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 145 (2023, Wednesday, October 4th at 11:31 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V145.md)
 
 > **Note** _I completely forgot to update the repository on 2023 October 1st, then it was too late. On the 2nd and 3rd, I didn't have the time. On the 4th, I am coming back to this project. Continuing for 1 consecutive day._
 
@@ -3185,27 +3308,7 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _Continuing for a 2nd consecutive day._
-
-> Changes:
-
-- [x] Updated the `Datasets` section
-- - [x] Updated the `C: Source Code` section
-- - - [x] Added the `AI2001 Category: Source Code: M4` subsection
-- - - [x] Added the `AI2001 Category: Source Code: M4Sugar` subsection
-- [x] Updated the `file info` section
-- - [x] Updated the version number
-- - [x] Updated the version date
-- - [x] Updated the line count
-- [x] Updated the `file history` section
-- - [x] Added an entry for version 146
-- [ ] No other changes in version 146
-
-</details> <!-- V146 !-->
-
-<details><summary><p lang="en"><b>Version 146 (2023, Thursday, October 5th at 11:30 pm PST)</b></p></summary>
-
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V146.md)
 
 > **Note** _Continuing for a 2nd consecutive day._
 
@@ -3228,6 +3331,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 <details><summary><p lang="en"><b>Version 147 (2023, Sunday, October 8th at 5:11 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V147.md)
 
 > **Note** _I was going to work on the project on 2023 October 6th, but I didn't have the time. I liked the chain I had where there were 2 days of updates, then one off day. I didn't have enough time yesterday, so the chain broke. I am coming back on it early today, to ensure it doesn't get held off to the very last minute again. Some unique new content was added to this page today. Continuing for 1 consecutive day._
 
@@ -3260,6 +3365,8 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V148.md)
+
 > **Note** _Continuing for a 2nd consecutive day. Hopefully I can also succeed in a 3rd consecutive day this time._
 
 > Changes:
@@ -3273,21 +3380,21 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - - [x] Converted the list into a table
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - - [x] Updated the `C: Documents` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - - [x] Updated the `C: Source Code` section
 - - - [x] Added notes for several languages about confusion with other languages.
 - - - [x] Added the `AI2001 Category: Source Code: MLIR` subsection
 - - - [x] Added the `AI2001 Category: Source Code: Modelica` subsection
 - - [x] Updated the `C: Images` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - - [x] Updated the `C: Videos` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - - [x] Updated the `C: Linguistics` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - - [x] Updated the `C: Meta` section
-- - -[x] Made all sections collapsable (converted all sections into dropdown sections)
+- - - [x] Made all sections collapsable (converted all sections into dropdown sections)
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -3301,6 +3408,46 @@ Entries 1 to 100 were removed on 2023, Friday, July 7th with the V106 entry. Thi
 - [ ] No other changes in version 148
 
 </details> <!-- V148 !-->
+
+
+<details><summary><p lang="en"><b>Version 149 (2023, Tuesday, October 10th at 04:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V149.md)
+
+> **Note** _Continuing for a 3rd consecutive day. I feel like I have this README at a point where I am currently completely happy with it. Now I just have to keep it updated. It will be polished up further in the future as well, but for now, it is perfect to me._
+
+> Changes:
+
+- [x] Some polishing in the `Similar projects` section
+- [x] Some polishing in the `Documentation` section
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- - [x] Updated syntax and added some Emojis
+- [x] Updated the `Datasets` section
+- - [x] Swapped around entries so that they are in A-Z order
+- - [x] Made all dataset sections collapsed by default (to prevent excessive scrolling)
+- - [x] Added a note about each category
+- - [x] Added a special note to the Source Code dataset category, to address confusion between Source Code (SC) datasets and Sub-Category (SC) datasets
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Modula-2` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Modula-3` subsection
+- - - [x] Fixed some dropdown issues (a second heading was visible)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Collapsed the section by default
+- [x] Updated the `file history` section
+- - [x] Added information in the file info header, and added links to browse other old versions, along with some polishing
+- - [x] Added an option to view the past 50 versions separately (V100 to V149)
+- - [x] Fixed some formatting bugs in the entry for version 148
+- - [x] Removed a duplicate entry (there was a carbon copy of the V146 entry_
+- - [x] Added an entry for version 149
+- [ ] No other changes in version 149
+
+</details> <!-- V149 !-->
 
 </details> <!-- End of file history section !-->
 

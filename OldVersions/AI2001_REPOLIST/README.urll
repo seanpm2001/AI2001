@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 435 total repository links (as of 2023, Sunday, October 8th at 04:39 pm PST), Version 147.
+//// 437 total repository links (as of 2023, Monday, October 9th at 05:00 pm PST), Version 148.
 
-//// GitHub (435)
+//// GitHub (437)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -440,11 +440,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mcFunction
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Meson
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MLIR
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modelica
 
 //// GitLab (0)
 
 //// File info
-//// File version: 147 (2023, Sunday, October 8th at 04:39 pm PST)
-//// Line count (including blank lines and compiler line): 451
+//// File version: 148 (2023, Monday, October 9th at 05:00 pm PST)
+//// Line count (including blank lines and compiler line): 453
 
 //// End of file (EOF)

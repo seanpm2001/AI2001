@@ -31,7 +31,7 @@ AI2001 is early in development, and is not ready yet (it is not yet functional)
 
 </details> <!-- Simular projects section = END !-->
 
----
+***
 
 ## [Documentation](#Documentation)
 
@@ -43,7 +43,7 @@ AI2001 is early in development, and is not ready yet (it is not yet functional)
 
 </details> <!-- Documentation section = END !-->
 
----
+***
 
 ## [Datasets](#Datasets)
 
@@ -61,7 +61,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Tuesday, October 10th at 4:40 pm PST)`
+**As of:** `2023, Wednesday, October 11th at 2:23 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -70,15 +70,15 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `286` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `288` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `428` _dataset repositories_ | **As of:** `2023.10.10@16:40PST` |
+| **Overall total:** | `428` _dataset repositories_ | **As of:** `2023.10.11@14:23PST` |
 |---|---|---|
 
 </details> <!-- Dataset counters = END !-->
 
----
+***
 
 ### [C: Audio](#C-Audio)
 
@@ -116,7 +116,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Audio = END !-->
 
----
+***
 
 ### [C: Documents](#C-Documents)
 
@@ -213,7 +213,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Images = END !-->
 
----
+***
 
 ### [C: Linguistics](#C-Linguistics)
 
@@ -222,6 +222,17 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/)
+
+**By letter (A-Z, English)**
+
+| [`A`](#Linguistics-A) | [`B`](#Linguistics-B) | [`C`](#Linguistics-C) | [`D`](#Linguistics-D) | [`E`](#Linguistics-E) | [`F`](#Linguistics-F) | [`G`](#Linguistics-G) | [`H`](#Linguistics-H) | [`I`](#Linguistics-I) | [`J`](#Linguistics-J) | [`K`](#Linguistics-K) | [`L`](#Linguistics-L) | [`M`](#Linguistics-M) | [`N`](#Linguistics-N) | [`O`](#Linguistics-O) | [`P`](#Linguistics-P) | [`Q`](#Linguistics-Q) | [`R`](#Linguistics-R) | [`S`](#Linguistics-S) | [`T`](#Linguistics-T) | [`U`](#Linguistics-U) | [`V`](#Linguistics-V) | [`W`](#Linguistics-W) | [`X`](#Linguistics-X) | [`Y`](#Linguistics-Y) | [`Z`](#Linguistics-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
+
+###### Linguistics A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
 
 #### SC: Afar
 
@@ -259,6 +270,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
 
+</details> <!-- Linguistics.SectionA = END !-->
+
+---
+
+###### Linguistics B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
 #### SC: Bambara
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Bambara`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bambara/)
@@ -286,6 +305,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Burmese
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Burmese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Burmese/)
+
+</details> <!-- Linguistics.SectionB = END !-->
+
+---
+
+###### Linguistics C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
 
 #### SC: Catalan
 
@@ -327,6 +354,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Czech`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Czech/)
 
+</details> <!-- Linguistics.SectionC = END !-->
+
+---
+
+###### Linguistics D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
 #### SC: Danish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
@@ -334,6 +369,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Dutch
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Dutch`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dutch/)
+
+</details> <!-- Linguistics.SectionD = END !-->
+
+---
+
+###### Linguistics E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
 
 #### SC: English
 
@@ -350,6 +393,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Ethiopian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
+
+</details> <!-- Linguistics.SectionE = END !-->
+
+---
+
+###### Linguistics F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
 
 #### SC: Filipino
 
@@ -375,6 +426,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
 
+</details> <!-- Linguistics.SectionF = END !-->
+
+---
+
+###### Linguistics G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
 #### SC: German
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: German`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-German/)
@@ -386,6 +445,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Greenlandic
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
+
+</details> <!-- Linguistics.SectionG = END !-->
+
+---
+
+###### Linguistics H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
 
 #### SC: Hebrew
 
@@ -407,6 +474,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
 
+</details> <!-- Linguistics.SectionH = END !-->
+
+---
+
+###### Linguistics I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
 #### SC: Igbo
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
@@ -423,6 +498,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Italian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Italian/)
 
+</details> <!-- Linguistics.SectionI = END !-->
+
+---
+
+###### Linguistics J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
 #### SC: Japanese
 
 > **Note** _Not to be confused with Javanese._
@@ -434,6 +517,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 > **Note** _Not to be confused with Japanese._
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Javanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Javanese/)
+
+</details> <!-- Linguistics.SectionJ = END !-->
+
+---
+
+###### Linguistics K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
 
 #### SC: Kashmiri
 
@@ -458,6 +549,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Kurdish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Kurdish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish/)
+
+</details> <!-- Linguistics.SectionK = END !-->
+
+---
+
+###### Linguistics L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
 
 #### SC: Laos
 
@@ -487,6 +586,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
 
+</details> <!-- Linguistics.SectionL = END !-->
+
+---
+
+###### Linguistics M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
 #### SC: Maithili
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
@@ -515,6 +622,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Mongolian (Cyrillic)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mongolian-Cyrillic/)
 
+</details> <!-- Linguistics.SectionM = END !-->
+
+---
+
+###### Linguistics N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
 #### SC: Nepali
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
@@ -522,6 +637,24 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Norwegian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Norwegian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Norwegian/)
+
+</details> <!-- Linguistics.SectionN = END !-->
+
+---
+
+###### Linguistics O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Linguistics.SectionO = END !-->
+
+---
+
+###### Linguistics P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
 
 #### SC: Pashto
 
@@ -543,6 +676,24 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Punjabi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Punjabi/)
 
+</details> <!-- Linguistics.SectionP = END !-->
+
+---
+
+###### Linguistics Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Linguistics.SectionQ = END !-->
+
+---
+
+###### Linguistics R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
 #### SC: Romanian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
@@ -554,6 +705,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 #### SC: Ruthenian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
+
+</details> <!-- Linguistics.SectionR = END !-->
+
+---
+
+###### Linguistics S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
 
 #### SC: Sámi
 
@@ -599,6 +758,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
 
+</details> <!-- Linguistics.SectionS = END !-->
+
+---
+
+###### Linguistics T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
 #### SC: Tagalog
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Tagalog`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tagalog/)
@@ -631,6 +798,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
 
+</details> <!-- Linguistics.SectionT = END !-->
+
+---
+
+###### Linguistics U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
 #### SC: Ukrainian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/)
@@ -651,9 +826,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Uzbek`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Uzbek/)
 
+</details> <!-- Linguistics.SectionU = END !-->
+
+###### Linguistics V
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
 #### SC: Vietnamese
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Vietnamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Vietnamese/)
+
+</details> <!-- Linguistics.SectionV = END !-->
+
+---
+
+###### Linguistics W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
 
 #### SC: Welsh
 
@@ -669,9 +860,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Wolof`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Wolof/)
 
+</details> <!-- Linguistics.SectionW = END !-->
+
+---
+
+###### Linguistics X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
 #### SC: Xhosa
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Xhosa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Xhosa/)
+
+</details> <!-- Linguistics.SectionX = END !-->
+
+---
+
+###### Linguistics Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
 
 #### SC: Yiddish
 
@@ -681,13 +888,25 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Yoruba`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yoruba/)
 
+</details> <!-- Linguistics.SectionY = END !-->
+
+---
+
+###### Linguistics Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
 #### SC: Zulu
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
 
-</details> <!-- Linguistics = END !-->
+</details> <!-- Linguistics.SectionZ = END !-->
 
 ---
+
+</details> <!-- Linguistics = END !-->
+
+***
 
 ### [C: Meta](#C-Meta)
 
@@ -737,6 +956,17 @@ Meta tags are for applying filters to datasets of any size.
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/)
+
+**By letter (A-Z, English)**
+
+| [`A`](#Source-Code-A) | [`B`](#Source-Code-B) | [`C`](#Source-Code-C) | [`D`](#Source-Code-D) | [`E`](#Source-Code-E) | [`F`](#Source-Code-F) | [`G`](#Source-Code-G) | [`H`](#Source-Code-H) | [`I`](#Source-Code-I) | [`J`](#Source-Code-J) | [`K`](#Source-Code-K) | [`L`](#Source-Code-L) | [`M`](#Source-Code-M) | [`N`](#Source-Code-N) | [`O`](#Source-Code-O) | [`P`](#Source-Code-P) | [`Q`](#Source-Code-Q) | [`R`](#Source-Code-R) | [`S`](#Source-Code-S) | [`T`](#Source-Code-T) | [`U`](#Source-Code-U) | [`V`](#Source-Code-V) | [`W`](#Source-Code-W) | [`X`](#Source-Code-X) | [`Y`](#Source-Code-Y) | [`Z`](#Source-Code-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
+
+###### Source Code A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
 
 #### SC: ABAP
 
@@ -862,6 +1092,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AWK`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AWK/)
 
+</details> <!-- SourceCode.SectionA = END !-->
+
+---
+
+###### Source Code B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
 #### SC: B
 
 - [:octocat: `AI2001 Category: Source Code ;SC: B`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B/)
@@ -953,6 +1191,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: BSDL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: BSDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BSDL/)
+
+</details> <!-- SourceCode.SectionB = END !-->
+
+---
+
+###### Source Code C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
 
 #### SC: C
 
@@ -1088,6 +1334,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Cython`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cython/)
 
+</details> <!-- SourceCode.SectionC = END !-->
+
+---
+
+###### Source Code D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
 #### SC: D
 
 - [:octocat: `AI2001 Category: Source Code ;SC: D`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-D/)
@@ -1131,6 +1385,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: Dylan
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Dylan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dylan/)
+
+</details> <!-- SourceCode.SectionD = END !-->
+
+---
+
+###### Source Code E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
 
 #### SC: E
 
@@ -1186,6 +1448,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ezhil`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ezhil/)
 
+</details> <!-- SourceCode.SectionE = END !-->
+
+---
+
+###### Source Code F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
 #### SC: F#
 
 - [:octocat: `AI2001 Category: Source Code ;SC: F#`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-F-Sharp/)
@@ -1209,6 +1479,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: Fortran95
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
+
+</details> <!-- SourceCode.SectionF = END !-->
+
+---
+
+###### Source Code G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
 
 #### SC: GAP
 
@@ -1308,6 +1586,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: GSC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GSC/)
 
+</details> <!-- SourceCode.SectionG = END !-->
+
+---
+
+###### Source Code H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
 #### SC: Hack
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Hack`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack/)
@@ -1370,6 +1656,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HyPhy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HyPhy/)
 
+</details> <!-- SourceCode.SectionH = END !-->
+
+---
+
+###### Source Code I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
 #### SC: IDL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: IDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IDL/)
@@ -1405,6 +1699,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: Isabelle
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Isabelle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle/)
+
+</details> <!-- SourceCode.SectionI = END !-->
+
+---
+
+###### Source Code J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
 
 #### SC: J
 
@@ -1456,6 +1758,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Jupyter Notebook`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JupyterNotebook/)
 
+</details> <!-- SourceCode.SectionJ = END !-->
+
+---
+
+###### Source Code K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
 #### SC: KiCad
 
 > **Note** _This dataset combines the `KiCad-Layout` and `KiCad-Schematic` datasets.
@@ -1477,6 +1787,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: kvlang
 
 - [:octocat: `AI2001 Category: Source Code ;SC: kvlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang/)
+
+</details> <!-- SourceCode.SectionK = END !-->
+
+---
+
+###### Source Code L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
 
 #### SC: LABView
 
@@ -1568,6 +1886,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lucid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lucid/)
 
+</details> <!-- SourceCode.SectionL = END !-->
+
+---
+
+###### Source Code M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
 #### SC: M
 
 - [:octocat: `AI2001 Category: Source Code ;SC: M`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M/)
@@ -1648,6 +1974,10 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Modula-3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-3/)
 
+#### SC: ModuleManagementSystem
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ModuleManagementSystem`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ModuleManagementSystem/)
+
 #### SC: Monkey
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Monkey`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Monkey/)
@@ -1656,6 +1986,10 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Monkey-C`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Monkey-C/)
 
+#### SC: MoonScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MoonScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonScript/)
+
 #### SC: Motoko
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Motoko`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Motoko/)
@@ -1663,6 +1997,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: Mathematica
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
+
+</details> <!-- SourceCode.SectionM = END !-->
+
+---
+
+###### Source Code N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
 
 #### SC: Nemerle
 
@@ -1679,6 +2021,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: NSIS
 
 - [:octocat: `AI2001 Category: Source Code ;SC: NSIS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NSIS/)
+
+</details> <!-- SourceCode.SectionN = END !-->
+
+---
+
+###### Source Code O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
 
 #### SC: Objective-C
 
@@ -1699,6 +2049,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: Octave
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Octave`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Octave/)
+
+</details> <!-- SourceCode.SectionO = END !-->
+
+---
+
+###### Source Code P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
 
 #### SC: Pascal
 
@@ -1724,6 +2082,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Python3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Python3/)
 
+</details> <!-- SourceCode.SectionP = END !-->
+
+---
+
+###### Source Code Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
 #### SC: q
 
 - [:octocat: `AI2001 Category: Source Code ;SC: q`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Q/)
@@ -1735,6 +2101,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: QML
 
 - [:octocat: `AI2001 Category: Source Code ;SC: QML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QML/)
+
+</details> <!-- SourceCode.SectionQ = END !-->
+
+---
+
+###### Source Code R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
 
 #### SC: R
 
@@ -1790,6 +2164,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Rust`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rust/)
 
+</details> <!-- SourceCode.SectionR = END !-->
+
+---
+
+###### Source Code S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
 #### SC: Sage
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Sage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage/)
@@ -1814,6 +2196,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Svelte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Svelte/)
 
+</details> <!-- SourceCode.SectionS = END !-->
+
+---
+
+###### Source Code T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
 #### SC: Tcl
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Tcl`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tcl/)
@@ -1830,6 +2220,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: TypeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeScript/)
 
+</details> <!-- SourceCode.SectionT = END !-->
+
+---
+
+###### Source Code U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
 #### SC: Uno
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Uno`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Uno/)
@@ -1841,6 +2239,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: URLL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: URLL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-URLL/)
+
+</details> <!-- SourceCode.SectionU = END !-->
+
+---
+
+###### Source Code V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
 
 #### SC: V
 
@@ -1862,6 +2268,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: VHDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL/)
 
+</details> <!-- SourceCode.SectionV = END !-->
+
+---
+
+###### Source Code W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
 #### SC: WebAssembly
 
 - [:octocat: `AI2001 Category: Source Code ;SC: WebAssembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly/)
@@ -1874,6 +2288,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Wren`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wren/)
 
+</details> <!-- SourceCode.SectionW = END !-->
+
+---
+
+###### Source Code X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
 #### SC: XML
 
 - [:octocat: `AI2001 Category: Source Code ;SC: XML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XML/)
@@ -1881,6 +2303,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: XTend
 
 - [:octocat: `AI2001 Category: Source Code ;SC: XTend`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XTend/)
+
+</details> <!-- SourceCode.SectionX = END !-->
+
+---
+
+###### Source Code Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
 
 #### SC: Yacc
 
@@ -1893,6 +2323,14 @@ Meta tags are for applying filters to datasets of any size.
 #### SC: YASnippet
 
 - [:octocat: `AI2001 Category: Source Code ;SC: YASnippet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YASnippet/)
+
+</details> <!-- SourceCode.SectionY = END !-->
+
+---
+
+###### Source Code Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
 
 #### SC: ZAP
 
@@ -1914,9 +2352,13 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ZIL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZIL/)
 
-</details> <!-- Source Code = END !-->
+</details> <!-- SourceCode.SectionZ = END !-->
 
 ---
+
+</details> <!-- Source Code = END !-->
+
+***
 
 ### [C: Videos](#C-Videos)
 
@@ -2094,17 +2536,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `149 (2023, Tuesday, October 10th at 04:40 pm PST)`
+**File version:** `150 (2023, Wednesday, October 11th at 02:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,471`
+**Line count (including blank lines and compiler line):** `4,044`
 
-**Word count:** `18,926`
+**Word count:** `20,631`
 
-**Character count (including spaces):** `138,090`
+**Character count (including spaces):** `151,170`
 
-**Character count (excluding spaces):** `121,386`
+**Character count (excluding spaces):** `132,761`
 
-**Size (in bytes):** `138,215`
+**Size (in bytes):** `151,295`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2128,6 +2570,8 @@ This project is not yet on Gitlab.
 
 - [`View old versions [1-100]`](/OldVersions/README/English/1/)
 - [`View old versions [101-200]`](/OldVersions/README/English/2/101-200/)
+
+---
 
 <details><summary><p lang="en"><b>Version 101 (2023, Saturday, July 1st at 11:45 pm PST)</b></p></summary>
 
@@ -2153,6 +2597,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V101 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 102 (2023, Sunday, July 2nd at 11:01 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2176,6 +2622,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 102
 
 </details> <!-- V102 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 103 (2023, Monday, July 3rd at 10:29 pm PST)</b></p></summary>
 
@@ -2201,6 +2649,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V103 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 104 (2023, Wednesday, July 5th at 10:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2224,6 +2674,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 104
 
 </details> <!-- V104 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 105 (2023, Thursday, July 6th at 10:33 pm PST)</b></p></summary>
 
@@ -2249,6 +2701,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V105 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 106 (2023, Friday, July 7th at xx:xx pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2273,6 +2727,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 106
 
 </details> <!-- V106 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 107 (2023, Thursday, July 13th at 05:59 pm PST)</b></p></summary>
 
@@ -2308,6 +2764,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V107 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 108 (2023, Saturday, July 15th at 01:32 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2331,6 +2789,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 108
 
 </details> <!-- V108 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 109 (2023, Monday, July 17th at 05:21 pm PST)</b></p></summary>
 
@@ -2356,6 +2816,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V109 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 110 (2023, Tuesday, July 18th at 03:24 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2379,6 +2841,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 110
 
 </details> <!-- V110 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 111 (2023, Wednesday, July 19th at 04:00 pm PST)</b></p></summary>
 
@@ -2404,6 +2868,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V111 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 112 (2023, Thursday, July 20th at 12:52 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2427,6 +2893,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 112
 
 </details> <!-- V112 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 113 (2023, Friday, July 21st at 06:15 pm PST)</b></p></summary>
 
@@ -2452,6 +2920,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V113 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 114 (2023, Saturday, July 22nd at 04:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2475,6 +2945,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 114
 
 </details> <!-- V114 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 115 (2023, Saturday, July 29th at 07:11 pm PST)</b></p></summary>
 
@@ -2500,6 +2972,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V115 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 116 (2023, Sunday, July 30th at 06:52 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2523,6 +2997,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 116
 
 </details> <!-- V116 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 117 (2023, Monday, July 31st at 04:35 pm PST)</b></p></summary>
 
@@ -2548,6 +3024,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V117 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 118 (2023, Tuesday, August 1st at 07:22 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2572,6 +3050,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V118 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 119 (2023, Wednesday, August 2nd at 07:37 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2595,6 +3075,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 119
 
 </details> <!-- V119 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 120 (2023, Friday, August 4th at 08:02 pm PST)</b></p></summary>
 
@@ -2624,6 +3106,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V120 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 121 (2023, Saturday, August 5th at 06:07 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2647,6 +3131,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 121
 
 </details> <!-- V121 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 122 (2023, Sunday, August 6th at 04:44 pm PST)</b></p></summary>
 
@@ -2672,6 +3158,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V122 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 123 (2023, Monday, August 7th at 08:03 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2695,6 +3183,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 123
 
 </details> <!-- V123 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 124 (2023, Tuesday, August 8th at 08:35 pm PST)</b></p></summary>
 
@@ -2721,6 +3211,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 124
 
 </details> <!-- V124 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 125 (2023, Saturday, August 12th at 06:25 pm PST)</b></p></summary>
 
@@ -2752,6 +3244,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V125 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 126 (2023, Sunday, August 13th at 10:54 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2775,6 +3269,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 126
 
 </details> <!-- V126 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 127 (2023, Monday, August 14th at 06:46 pm PST)</b></p></summary>
 
@@ -2800,6 +3296,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V127 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 128 (2023, Tuesday, August 15th at 07:53 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2824,6 +3322,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V128 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 129 (2023, Wednesday, August 16th at 05:53 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2847,6 +3347,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 129
 
 </details> <!-- V129 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 130 (2023, Thursday, August 17th at 06:48 pm PST)</b></p></summary>
 
@@ -2874,6 +3376,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V130 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 131 (2023, Saturday, August 19th at 09:01 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2900,6 +3404,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V131 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 132 (2023, Sunday, August 20th at 10:01 pm PST)</b></p></summary>
 
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V132.md)
@@ -2924,6 +3430,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V132 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 133 (2023, Monday, August 21st at 06:25 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -2947,6 +3455,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 133
 
 </details> <!-- V133 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 134 (2023, Wednesday, August 23rd at 07:08 pm PST)</b></p></summary>
 
@@ -2973,6 +3483,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 134
 
 </details> <!-- V134 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 135 (2023, Thursday, September 14th at 09:19 pm PST)</b></p></summary>
 
@@ -3044,6 +3556,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V135 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 136 (2023, Friday, September 15th at 09:23 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3067,6 +3581,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 136
 
 </details> <!-- V136 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 137 (2023, Saturday, September 16th at 10:15 pm PST)</b></p></summary>
 
@@ -3092,6 +3608,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V137 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 138 (2023, Sunday, September 17th at 09:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3116,6 +3634,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V138 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 139 (2023, Monday, September 18th at 07:25 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3139,6 +3659,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 139
 
 </details> <!-- V139 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 140 (2023, Wednesday, September 20th at 11:05 pm PST)</b></p></summary>
 
@@ -3165,6 +3687,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 140
 
 </details> <!-- V140 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 141 (2023, Tuesday, September 26th at 10:58 pm PST)</b></p></summary>
 
@@ -3200,6 +3724,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V141 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 142 (2023, Wednesday, September 27th at 09:15 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3223,6 +3749,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 142
 
 </details> <!-- V142 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 143 (2023, Friday, September 29th at 09:59 pm PST)</b></p></summary>
 
@@ -3250,6 +3778,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V143 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 144 (2023, Saturday, September 30th at 11:13 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3273,6 +3803,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 144
 
 </details> <!-- V144 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 145 (2023, Wednesday, October 4th at 11:31 pm PST)</b></p></summary>
 
@@ -3304,6 +3836,8 @@ This project is not yet on Gitlab.
 
 </details> <!-- V145 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 146 (2023, Thursday, October 5th at 11:30 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -3327,6 +3861,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 146
 
 </details> <!-- V146 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 147 (2023, Sunday, October 8th at 5:11 pm PST)</b></p></summary>
 
@@ -3360,6 +3896,8 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 147
 
 </details> <!-- V147 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 148 (2023, Monday, October 9th at 04:58 pm PST)</b></p></summary>
 
@@ -3409,6 +3947,7 @@ This project is not yet on Gitlab.
 
 </details> <!-- V148 !-->
 
+---
 
 <details><summary><p lang="en"><b>Version 149 (2023, Tuesday, October 10th at 04:40 pm PST)</b></p></summary>
 
@@ -3448,6 +3987,40 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 149
 
 </details> <!-- V149 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 150 (2023, Wednesday, October 11th at 02:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V150.md)
+
+> **Note** _Continuing for a 4th consecutive day. There was still room for improvement, so I continued to update the file outside of the required scope today._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: ModuleManagementSystem` subsection
+- - - [x] Added the `AI2001 Category: Source Code: MoonScript` subsection
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Collapsed the section by default
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 150
+- [ ] No other changes in version 150
+
+</details> <!-- V150 !-->
 
 </details> <!-- End of file history section !-->
 

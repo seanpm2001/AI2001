@@ -61,7 +61,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Wednesday, October 11th at 2:23 pm PST)`
+**As of:** `2023, Thursday, October 12th at 4:28 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -70,10 +70,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `288` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `290` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `428` _dataset repositories_ | **As of:** `2023.10.11@14:23PST` |
+| **Overall total:** | `430` _dataset repositories_ | **As of:** `2023.10.12@16:28PST` |
 |---|---|---|
 
 </details> <!-- Dataset counters = END !-->
@@ -84,9 +84,142 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 **🎵️ Audio datasets:**
 
+**By letter (A-Z, English)**
+
+| [`A`](#Audio-A) | [`B`](#Audio-B) | [`C`](#Audio-C) | [`D`](#Audio-D) | [`E`](#Audio-E) | [`F`](#Audio-F) | [`G`](#Audio-G) | [`H`](#Audio-H) | [`I`](#Audio-I) | [`J`](#Audio-J) | [`K`](#Audio-K) | [`L`](#Audio-L) | [`M`](#Audio-M) | [`N`](#Audio-N) | [`O`](#Audio-O) | [`P`](#Audio-P) | [`Q`](#Audio-Q) | [`R`](#Audio-R) | [`S`](#Audio-S) | [`T`](#Audio-T) | [`U`](#Audio-U) | [`V`](#Audio-V) | [`W`](#Audio-W) | [`X`](#Audio-X) | [`Y`](#Audio-Y) | [`Z`](#Audio-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
+
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
+
+---
+
+###### Audio A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionA = END !-->
+
+---
+
+###### Audio B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionB = END !-->
+
+---
+
+###### Audio C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionC = END !-->
+
+---
+
+###### Audio D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionD = END !-->
+
+---
+
+###### Audio E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionE = END !-->
+
+---
+
+###### Audio F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionF = END !-->
+
+---
+
+###### Audio G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionG = END !-->
+
+---
+
+###### Audio H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionH = END !-->
+
+---
+
+###### Audio I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionI = END !-->
+
+---
+
+###### Audio J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionJ = END !-->
+
+---
+
+###### Audio K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionK = END !-->
+
+---
+
+###### Audio L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionL = END !-->
+
+---
+
+###### Audio M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
 
 #### SC: Music
 
@@ -98,6 +231,66 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Audio, SC: Music = END !-->
 
+</details> <!-- Audio.SectionM = END !-->
+
+---
+
+###### Audio N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionN = END !-->
+
+---
+
+###### Audio O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionO = END !-->
+
+---
+
+###### Audio P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionP = END !-->
+
+---
+
+###### Audio Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionQ = END !-->
+
+---
+
+###### Audio R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionR = END !-->
+
+---
+
+###### Audio S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+---
+
 #### SC: Sound Effects
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
@@ -105,6 +298,8 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Audio ;SC: Sound Effects`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Sound_Effects/)
 
 </details> <!-- Audio, SC: Sound Effects (SFX) = END !-->
+
+---
 
 #### SC: Speeches
 
@@ -114,6 +309,82 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Audio, SC: Speeches = END !-->
 
+---
+
+</details> <!-- Audio.SectionS = END !-->
+
+---
+
+###### Audio T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionT = END !-->
+
+---
+
+###### Audio U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionU = END !-->
+
+---
+
+###### Audio V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionV = END !-->
+
+---
+
+###### Audio W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionW = END !-->
+
+---
+
+###### Audio X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionX = END !-->
+
+---
+
+###### Audio Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionY = END !-->
+
+---
+
+###### Audio Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Audio.SectionZ = END !-->
+
+---
+
 </details> <!-- Audio = END !-->
 
 ***
@@ -122,9 +393,22 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 **📃️ Document datasets**
 
+**By letter (A-Z, English)**
+
+| [`A`](#Documents-A) | [`B`](#Documents-B) | [`C`](#Documents-C) | [`D`](#Documents-D) | [`E`](#Documents-E) | [`F`](#Documents-F) | [`G`](#Documents-G) | [`H`](#Documents-H) | [`I`](#Documents-I) | [`J`](#Documents-J) | [`K`](#Documents-K) | [`L`](#Documents-L) | [`M`](#Documents-M) | [`N`](#Documents-N) | [`O`](#Documents-O) | [`P`](#Documents-P) | [`Q`](#Documents-Q) | [`R`](#Documents-R) | [`S`](#Documents-S) | [`T`](#Documents-T) | [`U`](#Documents-U) | [`V`](#Documents-V) | [`W`](#Documents-W) | [`X`](#Documents-X) | [`Y`](#Documents-Y) | [`Z`](#Documents-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
+
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/)
+
+---
+
+###### Documents A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
 
 #### SC: Articles
 
@@ -134,6 +418,14 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Documents, SC: Articles = END !-->
 
+</details> <!-- Documents.SectionA = END !-->
+
+---
+
+###### Documents B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
 #### SC: Books
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
@@ -141,6 +433,214 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 - [:octocat: `AI2001 Category: Documents ;SC: Books`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Books/)
 
 </details> <!-- Documents, SC: Books = END !-->
+
+</details> <!-- Documents.SectionB = END !-->
+
+---
+
+###### Documents C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionC = END !-->
+
+---
+
+###### Documents D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionD = END !-->
+
+---
+
+###### Documents E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionE = END !-->
+
+---
+
+###### Documents F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionF = END !-->
+
+---
+
+###### Documents G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionG = END !-->
+
+---
+
+###### Documents H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionH = END !-->
+
+---
+
+###### Documents I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionI = END !-->
+
+---
+
+###### Documents J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionJ = END !-->
+
+---
+
+###### Documents K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionK = END !-->
+
+---
+
+###### Documents L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionL = END !-->
+
+---
+
+###### Documents M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionM = END !-->
+
+---
+
+###### Documents N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionN = END !-->
+
+---
+
+###### Documents O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionO = END !-->
+
+---
+
+###### Documents P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionP = END !-->
+
+---
+
+###### Documents Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionQ = END !-->
+
+---
+
+###### Documents R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionR = END !-->
+
+---
+
+###### Documents S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionS = END !-->
+
+---
+
+###### Documents T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionT = END !-->
+
+---
+
+###### Documents U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionU = END !-->
+
+---
+
+###### Documents V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionV = END !-->
+
+---
+
+###### Documents W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
 
 #### SC: Wikis
 
@@ -158,6 +658,40 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Documents, SC: Wikis = END !-->
 
+</details> <!-- Documents.SectionW = END !-->
+
+---
+
+###### Documents X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionX = END !-->
+
+---
+
+###### Documents Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionY = END !-->
+
+---
+
+###### Documents Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Documents.SectionZ = END !-->
+
+---
+
 </details> <!-- Documents = END !-->
 
 ---
@@ -166,9 +700,196 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 **🖼️ Image datasets:**
 
+**By letter (A-Z, English)**
+
+| [`A`](#Images-A) | [`B`](#Images-B) | [`C`](#Images-C) | [`D`](#Images-D) | [`E`](#Images-E) | [`F`](#Images-F) | [`G`](#Images-G) | [`H`](#Images-H) | [`I`](#Images-I) | [`J`](#Images-J) | [`K`](#Images-K) | [`L`](#Images-L) | [`M`](#Images-M) | [`N`](#Images-N) | [`O`](#Images-O) | [`P`](#Images-P) | [`Q`](#Images-Q) | [`R`](#Images-R) | [`S`](#Images-S) | [`T`](#Images-T) | [`U`](#Images-U) | [`V`](#Images-V) | [`W`](#Images-W) | [`X`](#Images-X) | [`Y`](#Images-Y) | [`Z`](#Images-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/)
+
+---
+
+###### Images A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionA = END !-->
+
+---
+
+###### Images B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionB = END !-->
+
+---
+
+###### Images C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionC = END !-->
+
+---
+
+###### Images D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionD = END !-->
+
+---
+
+###### Images E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionE = END !-->
+
+---
+
+###### Images F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionF = END !-->
+
+---
+
+###### Images G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+---
+
+##### SC: Graphic Design
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Graphic Design`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design/)
+- - [:octocat: `S: Icons`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Icons/)
+- - [:octocat: `S: Wallpapers`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers/)
+- - [:octocat: `S: Logos`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Logos/)
+- - [:octocat: `S: Vexillology`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Vexillology/)
+
+</details> <!-- Images, SC: Graphic Design = END !-->
+
+---
+
+</details> <!-- Images.SectionG = END !-->
+
+---
+
+###### Images H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+---
+
+##### SC: Heraldry
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
+
+</details> <!-- Images, SC: Heraldry = END !-->
+
+---
+
+</details> <!-- Images.SectionH = END !-->
+
+---
+
+###### Images I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionI = END !-->
+
+---
+
+###### Images J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionJ = END !-->
+
+---
+
+###### Images K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionK = END !-->
+
+---
+
+###### Images L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionL = END !-->
+
+---
+
+###### Images M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionM = END !-->
+
+---
+
+###### Images N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionN = END !-->
+
+---
+
+###### Images O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionO = END !-->
+
+---
+
+###### Images P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+---
 
 ##### SC: Photography
 
@@ -183,6 +904,38 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details><!-- Images, SC: Photography = END !-->
 
+---
+
+</details> <!-- Images.SectionP = END !-->
+
+---
+
+###### Images Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionQ = END !-->
+
+---
+
+###### Images R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionR = END !-->
+
+---
+
+###### Images S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+---
+
 ##### SC: Screenshots
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
@@ -191,25 +944,81 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 </details> <!-- Images, SC: Screenshots = END !-->
 
-##### SC: Graphic Design
+---
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+</details> <!-- Images.SectionS = END !-->
 
-- [:octocat: `AI2001 Category: Images ;SC: Graphic Design`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design/)
-- - [:octocat: `S: Icons`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Icons/)
-- - [:octocat: `S: Wallpapers`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers/)
-- - [:octocat: `S: Logos`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Logos/)
-- - [:octocat: `S: Vexillology`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Graphic-Design-S-Vexillology/)
+---
 
-</details> <!-- Images, SC: Graphic Design = END !-->
+###### Images T
 
-##### SC: Heraldry
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+Currently empty
 
-- [:octocat: `AI2001 Category: Images ;SC: Heraldry`](https://github.com/seanpm2001/AI2001_Category-Images-SC-Heraldry/)
+</details> <!-- Images.SectionT = END !-->
 
-</details> <!-- Images, SC: Heraldry = END !-->
+---
+
+###### Images U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionU = END !-->
+
+---
+
+###### Images V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionV = END !-->
+
+---
+
+###### Images W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionW = END !-->
+
+---
+
+###### Images X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionX = END !-->
+
+---
+
+###### Images Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionY = END !-->
+
+---
+
+###### Images Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Images.SectionZ = END !-->
+
+---
 
 </details> <!-- Images = END !-->
 
@@ -912,13 +1721,148 @@ Currently empty
 
 **🔵️ Meta datasets:**
 
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+**By letter (A-Z, English)**
 
-#### Meta subcategory
+| [`A`](#Meta-A) | [`B`](#Meta-B) | [`C`](#Meta-C) | [`D`](#Meta-D) | [`E`](#Meta-E) | [`F`](#Meta-F) | [`G`](#Meta-G) | [`H`](#Meta-H) | [`I`](#Meta-I) | [`J`](#Meta-J) | [`K`](#Meta-K) | [`L`](#Meta-L) | [`M`](#Meta-M) | [`N`](#Meta-N) | [`O`](#Meta-O) | [`P`](#Meta-P) | [`Q`](#Meta-Q) | [`R`](#Meta-R) | [`S`](#Meta-S) | [`T`](#Meta-T) | [`U`](#Meta-U) | [`V`](#Meta-V) | [`W`](#Meta-W) | [`X`](#Meta-X) | [`Y`](#Meta-Y) | [`Z`](#Meta-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Meta`](https://github.com/seanpm2001/AI2001_Category-Meta/)
+
+---
+
+###### Meta A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionA = END !-->
+
+---
+
+###### Meta B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionB = END !-->
+
+---
+
+###### Meta C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionC = END !-->
+
+---
+
+###### Meta D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionD = END !-->
+
+---
+
+###### Meta E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionE = END !-->
+
+---
+
+###### Meta F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionF = END !-->
+
+---
+
+###### Meta G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionG = END !-->
+
+---
+
+###### Meta H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionH = END !-->
+
+---
+
+###### Meta I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionI = END !-->
+
+---
+
+###### Meta J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionJ = END !-->
+
+---
+
+###### Meta K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionK = END !-->
+
+---
+
+###### Meta L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionL = END !-->
+
+---
+
+###### Meta M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
+#### Meta subcategory
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+---
 
 ##### MT (motion)
 
@@ -928,7 +1872,83 @@ Meta categories are for applying filters to datasets belonging to 2 or more cate
 
 - [:octocat: `AI2001 Meta: SC: MT (motion) Timelapse`](https://github.com/seanpm2001/AI2001_Category-META_SC-MT-Time_Lapse/)
 
-</details> <!-- Meta, SC: Motion = END !-->
+</details> <!-- Meta.MT-Motion = END !-->
+
+---
+
+</details> <!-- Meta.MetaSubcategory = END !-->
+
+---
+
+</details> <!-- Meta.SectionM = END !-->
+
+---
+
+###### Meta N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionN = END !-->
+
+---
+
+###### Meta O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionO = END !-->
+
+---
+
+###### Meta P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionP = END !-->
+
+---
+
+###### Meta Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionQ = END !-->
+
+---
+
+###### Meta R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionR = END !-->
+
+---
+
+###### Meta S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionS = END !-->
+
+---
+
+###### Meta T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
+---
 
 ##### Tags
 
@@ -941,7 +1961,73 @@ Meta tags are for applying filters to datasets of any size.
 
 </details> <!-- Meta, SC: Tags = END !-->
 
-</details> <!-- Meta Subcategory = END !-->
+---
+
+</details> <!-- Meta.SectionT = END !-->
+
+---
+
+###### Meta U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionU = END !-->
+
+---
+
+###### Meta V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionV = END !-->
+
+---
+
+###### Meta W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionW = END !-->
+
+---
+
+###### Meta X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionX = END !-->
+
+---
+
+###### Meta Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionY = END !-->
+
+---
+
+###### Meta Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Meta.SectionZ = END !-->
+
+---
+
+<!-- </details> !--> <!-- Meta Subcategory = END !-->
 
 </details> <!-- Meta = END !-->
 
@@ -1998,6 +3084,14 @@ Meta tags are for applying filters to datasets of any size.
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
 
+#### SC: MTML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MTML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MTML/)
+
+#### SC: Mustache
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Mustache`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mustache/)
+
 </details> <!-- SourceCode.SectionM = END !-->
 
 ---
@@ -2364,33 +3458,22 @@ Meta tags are for applying filters to datasets of any size.
 
 **🎥️ Video datasets:** 
 
+**By letter (A-Z, English)**
+
+| [`A`](#Videos-A) | [`B`](#Videos-B) | [`C`](#Videos-C) | [`D`](#Videos-D) | [`E`](#Videos-E) | [`F`](#Videos-F) | [`G`](#Videos-G) | [`H`](#Videos-H) | [`I`](#Videos-I) | [`J`](#Videos-J) | [`K`](#Videos-K) | [`L`](#Videos-L) | [`M`](#Videos-M) | [`N`](#Videos-N) | [`O`](#Videos-O) | [`P`](#Videos-P) | [`Q`](#Videos-Q) | [`R`](#Videos-R) | [`S`](#Videos-S) | [`T`](#Videos-T) | [`U`](#Videos-U) | [`V`](#Videos-V) | [`W`](#Videos-W) | [`X`](#Videos-X) | [`Y`](#Videos-Y) | [`Z`](#Videos-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/)
 
-#### SC: Photography
+---
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+###### Videos A
 
-- [:octocat: `AI2001 Category: Videos ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Photography/)
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
 
-</details> <!-- Videos, SC: Photography = END !-->
-
-#### SC: Gameplay
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Videos ;SC: Gameplay`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Gameplay/)
-
-</details> <!-- Videos, SC: Gameplay = END !-->
-
-#### SC: Nature
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
-
-- [:octocat: `AI2001 Category: Videos ;SC: Nature`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Nature/)
-
-</details> <!-- Videos, SC: Nature = END !-->
+---
 
 #### SC: Animation
 
@@ -2401,6 +3484,288 @@ Meta tags are for applying filters to datasets of any size.
 
 </details> <!-- Videos, SC: Animation = END !-->
 
+---
+
+</details> <!-- Videos.SectionA = END !-->
+
+---
+
+###### Videos B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionB = END !-->
+
+---
+
+###### Videos C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionC = END !-->
+
+---
+
+###### Videos D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionD = END !-->
+
+---
+
+###### Videos E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionE = END !-->
+
+---
+
+###### Videos F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionF = END !-->
+
+---
+
+###### Videos G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+---
+
+#### SC: Gameplay
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Videos ;SC: Gameplay`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Gameplay/)
+
+</details> <!-- Videos, SC: Gameplay = END !-->
+
+---
+
+</details> <!-- Videos.SectionG = END !-->
+
+---
+
+###### Videos H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionH = END !-->
+
+---
+
+###### Videos I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionI = END !-->
+
+---
+
+###### Videos J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionJ = END !-->
+
+---
+
+###### Videos K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionK = END !-->
+
+---
+
+###### Videos L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionL = END !-->
+
+---
+
+###### Videos M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionM = END !-->
+
+---
+
+###### Videos N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+---
+
+#### SC: Nature
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Videos ;SC: Nature`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Nature/)
+
+</details> <!-- Videos, SC: Nature = END !-->
+
+---
+
+</details> <!-- Videos.SectionN = END !-->
+
+---
+
+###### Videos O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionO = END !-->
+
+---
+
+###### Videos P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+---
+
+#### SC: Photography
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Videos ;SC: Photography`](https://github.com/seanpm2001/AI2001_Category-Videos-SC-Photography/)
+
+</details> <!-- Videos, SC: Photography = END !-->
+
+---
+
+###### Videos Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionQ = END !-->
+
+---
+
+###### Videos R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionR = END !-->
+
+---
+
+###### Videos S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionS = END !-->
+
+---
+
+###### Videos T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionT = END !-->
+
+---
+
+###### Videos U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionU = END !-->
+
+---
+
+###### Videos V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionV = END !-->
+
+---
+
+###### Videos W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionW = END !-->
+
+---
+
+###### Videos X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionX = END !-->
+
+---
+
+###### Videos Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionY = END !-->
+
+---
+
+###### Videos Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Videos.SectionZ = END !-->
+
+---
+
 </details> <!-- Videos = END !-->
 
 <!-- --- !-->
@@ -2409,9 +3774,45 @@ Meta tags are for applying filters to datasets of any size.
 
 ***
 
+## Community
+
+<details><summary><p><b>[Click/tap here to expand/collapse the community]</b></p></summary>
+
+See: [:octocat: `Awesome AI2001`](https://github.com/seanpm2001/Awesome-AI2001/)
+
+---
+
+### Supporters
+
+<details><summary><p><b>[Click/tap here to expand/collapse the supporters section]</b></p></summary>
+
+- [:octocat: `NevronAI`](https://github.com/NevronAI/)
+- - Showed interest in this project on 2023, August 24th
+
+</details> <!-- Community.supporters = END !-->
+
+---
+
+### Projects using AI2001
+
+<details><summary><p><b>[Click/tap here to expand/collapse the projects using AI2001 section]</b></p></summary>
+
+- @seanpm2001
+- - [:octocat: `HyperSlice`](https://github.com/seanpm2001/HyperSlice/)
+- - [:octocat: `Phoneticut`](https://github.com/seanpm2001/Phoneticut/)
+- - [:octocat: `SNU 2D Translation`](https://github.com/seanpm2001/SNU_2D_Translation/)
+
+</details> <!-- Community.ProjectsUsingAI2001 = END !-->
+
+---
+
+</details> <!-- Community = END !-->
+
+***
+
 ## Home repository
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 ### Logs
 
@@ -2536,17 +3937,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `150 (2023, Wednesday, October 11th at 02:23 pm PST)`
+**File version:** `151 (2023, Thursday, October 12th at 04:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,044`
+**Line count (including blank lines and compiler line):** `5,491`
 
-**Word count:** `20,631`
+**Word count:** `24,834`
 
-**Character count (including spaces):** `151,170`
+**Character count (including spaces):** `182,296`
 
-**Character count (excluding spaces):** `132,761`
+**Character count (excluding spaces):** `159,712`
 
-**Size (in bytes):** `151,295`
+**Size (in bytes):** `182,421`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4021,6 +5422,52 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 150
 
 </details> <!-- V150 !-->
+---
+
+<details><summary><p lang="en"><b>Version 151 (2023, Thursday, October 12th at 04:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V151.md)
+
+> **Note** _Continuing for a 5th consecutive day. There was still room for improvement, so I continued to update the file outside of the required scope again today._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Audio` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Documents` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Images` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Meta` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Videos` section
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: MTML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Mustache` subsection
+- - [x] Added the `Community` section
+- - - [x] Added the `Supporters` subsection
+- - - [x] Added the `Projects using AI2001` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Collapsed the section by default
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 151
+- [ ] No other changes in version 151
+
+</details> <!-- V151 !-->
 
 </details> <!-- End of file history section !-->
 

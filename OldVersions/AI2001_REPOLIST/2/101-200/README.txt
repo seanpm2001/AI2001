@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 443 total repository links (as of 2023, Thursday, October 12th at 04:32 pm PST), Version 151.
+//// 445 total repository links (as of 2023, Friday, October 13th at 04:58 pm PST), Version 152.
 
-//// GitHub (443)
+//// GitHub (445)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -448,11 +448,13 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ModuleManagementSys
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MTML
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mustache
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NASL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-nesC
 
 //// GitLab (0)
 
 //// File info
-//// File version: 151 (2023, Thursday, October 12th at 04:32 pm PST)
-//// Line count (including blank lines and compiler line): 459
+//// File version: 152 (2023, Friday, October 13th at 04:58 pm PST)
+//// Line count (including blank lines and compiler line): 461
 
 //// End of file (EOF)

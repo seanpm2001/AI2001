@@ -61,22 +61,23 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Thursday, October 12th at 4:28 pm PST)`
+**As of:** `2023, Friday, October 13th at 04:54 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
 | **[🎵️ Audio](#C-Audio) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
+| **[🗺️ Cartography](#C-Cartography) datasets:** | `0` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `105` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `290` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `292` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `430` _dataset repositories_ | **As of:** `2023.10.12@16:28PST` |
+| **Overall total:** | `432` _dataset repositories_ | **As of:** `2023.10.13@16:54PST` |
 |---|---|---|
 
-</details> <!-- Dataset counters = END !-->
+</details> <!-- Dataset.counters = END !-->
 
 ***
 
@@ -386,6 +387,287 @@ Currently empty
 ---
 
 </details> <!-- Audio = END !-->
+
+***
+
+### [C: Cartography](#C-Cartography)
+
+**🗺️ Cartography datasets:**
+
+**By letter (A-Z, English)**
+
+| [`A`](#Cartography-A) | [`B`](#Cartography-B) | [`C`](#Cartography-C) | [`D`](#Cartography-D) | [`E`](#Cartography-E) | [`F`](#Cartography-F) | [`G`](#Cartography-G) | [`H`](#Cartography-H) | [`I`](#Cartography-I) | [`J`](#Cartography-J) | [`K`](#Cartography-K) | [`L`](#Cartography-L) | [`M`](#Cartography-M) | [`N`](#Cartography-N) | [`O`](#Cartography-O) | [`P`](#Cartography-P) | [`Q`](#Cartography-Q) | [`R`](#Cartography-R) | [`S`](#Cartography-S) | [`T`](#Cartography-T) | [`U`](#Cartography-U) | [`V`](#Cartography-V) | [`W`](#Cartography-W) | [`X`](#Cartography-X) | [`Y`](#Cartography-Y) | [`Z`](#Cartography-Z) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography`](https://github.com/seanpm2001/AI2001_Category-Cartography/)
+
+---
+
+###### Cartography A
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with A]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionA = END !-->
+
+---
+
+###### Cartography B
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with B]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionB = END !-->
+
+---
+
+###### Cartography C
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with C]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionC = END !-->
+
+---
+
+###### Cartography D
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with D]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionD = END !-->
+
+---
+
+###### Cartography E
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionE = END !-->
+
+---
+
+###### Cartography F
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with F]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionF = END !-->
+
+---
+
+###### Cartography G
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with G]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionG = END !-->
+
+---
+
+###### Cartography H
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionH = END !-->
+
+---
+
+###### Cartography I
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with I]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionI = END !-->
+
+---
+
+###### Cartography J
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with J]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionJ = END !-->
+
+---
+
+###### Cartography K
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionK = END !-->
+
+---
+
+###### Cartography L
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with L]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionL = END !-->
+
+---
+
+###### Cartography M
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionM = END !-->
+
+---
+
+###### Cartography N
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionN = END !-->
+
+---
+
+###### Cartography O
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionO = END !-->
+
+---
+
+###### Cartography P
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionP = END !-->
+
+---
+
+###### Cartography Q
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Q]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionQ = END !-->
+
+---
+
+###### Cartography R
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with R]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionR = END !-->
+
+---
+
+###### Cartography S
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with S]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionS = END !-->
+
+---
+
+###### Cartography T
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with T]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionT = END !-->
+
+---
+
+###### Cartography U
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with U]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionU = END !-->
+
+---
+
+###### Cartography V
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with V]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionV = END !-->
+
+---
+
+###### Cartography W
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with W]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionW = END !-->
+
+---
+
+###### Cartography X
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with X]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionX = END !-->
+
+---
+
+###### Cartography Y
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Y]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionY = END !-->
+
+---
+
+###### Cartography Z
+
+<details open><summary><p><b>[Click/tap here to expand/collapse entries starting with Z]</b></p></summary>
+
+Currently empty
+
+</details> <!-- Cartography.SectionZ = END !-->
+
+---
+
+</details> <!-- Cartography = END !-->
 
 ***
 
@@ -3100,9 +3382,17 @@ Currently empty
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with N]</b></p></summary>
 
+#### SC: NASL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: NASL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NASL/)
+
 #### SC: Nemerle
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Nemerle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nemerle/)
+
+#### SC: nesC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: nesC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-nesC/)
 
 #### SC: NetREXX
 
@@ -3802,11 +4092,362 @@ See: [:octocat: `Awesome AI2001`](https://github.com/seanpm2001/Awesome-AI2001/)
 - - [:octocat: `Phoneticut`](https://github.com/seanpm2001/Phoneticut/)
 - - [:octocat: `SNU 2D Translation`](https://github.com/seanpm2001/SNU_2D_Translation/)
 
+#### Projects AI2001 is part of
+
+<details><summary><p><b>[Click/tap here to expand/collapse the projects AI2001 is part of section]</b></p></summary>
+
+- @seanpm2001
+- - [:octocat: `Seanpm2001-AI`](https://github.com/seanp2001/Seanpm2001-AI/) (link coming soon)
+- - [:octocat: `Seanpm2001-Artificial-Intelligence`](https://github.com/seanp2001/Seanpm2001-Artificial-Intelligence/) (link coming soon)
+
+</details> <!-- Community.ProjectsAI2001IsPartOf = END !-->
+
 </details> <!-- Community.ProjectsUsingAI2001 = END !-->
 
 ---
 
 </details> <!-- Community = END !-->
+
+***
+
+## Technical
+
+<details><summary><p><b>[Click/tap here to expand/collapse the technical section]</b></p></summary>
+
+---
+
+### AI Fields
+
+<details><summary><p><b>[Click/tap here to expand/collapse the AI Fields section]</b></p></summary>
+
+---
+
+#### Artificial Neural Networks
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Artificial Neural Networks section]</b></p></summary>
+
+AI2001 is planned to include support for Artificial Neural Networks (ANN)
+
+- Convolutional Neural Network (CNN) (proposed)
+- Other/Coming soon
+
+</details> <!-- Technical.AIFields.AAN = END !-->
+
+---
+
+### Paradigms
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Paradigms section]</b></p></summary>
+
+Paradigms supported by AI2001 include:
+
+- Federated Learning (FL)
+- Other/Undecided
+
+</details> <!-- Technical.AIFields.Paradigms = END !-->
+
+---
+
+### Model types
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Paradigms section]</b></p></summary>
+
+Supported model types include:
+
+- Large Language Models (LLM)
+- Other/Coming soon
+
+</details> <!-- Technical.AIFields.ModelTypes = END !-->
+
+---
+
+### Problems to solve
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Problems to Solve section]</b></p></summary>
+
+Some behaviors will be contained, and will be an extra option in the settings of the core. Hallucinations will be disabled by default.
+
+- Hallucinations (emulation and fix)
+- Misinformation (emulation and fix)
+- Deepfakes and related public trust in media (fix)
+- Humans need not apply (reversal)
+- Slaughterbots (reversal)
+- Other/Coming soon
+
+</details> <!-- Technical.AIFields.Problems2Solve = END !-->
+
+---
+
+</details> <!-- Technical.AIFields = END !-->
+
+---
+
+### Specialties
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Specialties section]</b></p></summary>
+
+Specialties that AI2001 strive for:
+
+- GNU Philosophy
+- Free software
+- Open Source Software
+- Software longevity
+- Ecofriendly
+- UnSaaSS
+- Copyleft
+
+</details> <!-- Technical.Specialties = END !-->
+
+---
+
+### Languages
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Languages section]</b></p></summary>
+
+---
+
+#### Main languages
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Main languages section]</b></p></summary>
+
+There are 7 primary languages AI2001 is written in, which include:
+
+- C (C11, C17, or C23)
+- Cython (v3.0 and up)
+- Julia (v1.8.2 and up)
+- Prolog (Edition 1, 2000)
+- Python (v3.7 and up)
+- R (v4.1 and up)
+- RMarkdown (v2.12 and up)
+
+</details> <!-- Technical.Languages.MainLanguages = END !-->
+
+---
+
+#### Other languages
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Other languages section]</b></p></summary>
+
+There are hundreds of other languages AI2001 is written in, but they are solely in use for programming language datasets.
+
+- Vast, due to language datasets
+
+</details> <!-- Technical.Languages.OtherLanguages = END !-->
+
+---
+
+</details> <!-- Technical.Languages = END !-->
+
+---
+
+### Sandbox
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Sandbox section]</b></p></summary>
+
+---
+
+#### Machine learning and data mining sandbox
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Machine learning and data mining Sandbox section]</b></p></summary>
+
+- Modified from [Wikipedia:Template:Machine Learning (2023, September 16th revision)](https://en.wikipedia.org/w/index.php?title=Template:Machine_learning&oldid=1175666386&useskin=monobook)
+
+**Paradigms**
+
+- [ ] Supervised learning
+- [ ] Unsupervised learning
+- [ ] Online learning
+- [ ] Batch learning
+- [ ] Meta-learning
+- [ ] Semi-supervised learning
+- [ ] Self-supervised learning
+- [ ] Reinforcement learning
+- [ ] Rule-based learning
+- [ ] Quantum machine learning
+
+**Problems**
+
+- [ ] Classification
+- [ ] Generative model
+- [ ] Regression
+- [ ] Clustering
+- [ ] dimension reduction
+- [ ] density estimation
+- [ ] Anomaly detection
+- [ ] Data Cleaning
+- [ ] AutoML
+- [ ] Association rules
+- [ ] Semantic analysis
+- [ ] Structured prediction
+- [ ] Feature engineering
+- [ ] Feature learning
+- [ ] Learning to rank
+- [ ] Grammar induction
+- [ ] Ontology learning
+- [ ] Multimodal learning
+
+**Supervised learning**
+
+- - [ ] Classification
+- - [ ] Regression
+
+- [ ] Apprenticeship learning
+- [ ] Decision trees
+- [ ] Ensembles
+- - [ ] Bagging
+- - [ ] Boosting
+- - [ ] Random forest
+- [ ] k-NN
+- [ ] Linear regression
+- [ ] Naive Bayes
+- [x] Artificial neural networks
+- [ ] Logistic regression
+- [ ] Perceptron
+- [ ] Relevance vector machine (RVM)
+- [ ] Support vector machine (SVM)
+
+**Clustering**
+
+- [ ] BIRCH
+- [ ] CURE
+- [ ] Hierarchical
+- [ ] k-means
+- [ ] Fuzzy
+- [ ] Expectation–maximization (EM)
+- [ ] DBSCAN
+- [ ] OPTICS
+- [ ] Mean shift
+
+**Dimensionality reduction**
+
+- [ ] Factor analysis
+- [ ] CCA
+- [ ] ICA 
+- [ ] LDA
+- [ ] NMF
+- [ ] PCA
+- [ ] PGD
+- [ ] t-SNE
+- [ ] SDL
+
+**Structured prediction**
+
+- [ ] Graphical models
+- - [ ] Bayes net
+- - [ ] Conditional random field
+- - [ ] Hidden Markov
+
+**Anomaly detection**
+
+- [ ] RANSAC
+- [ ] k-NN
+- [ ] Local outlier factor
+- [ ] Isolation forest
+
+**Artificial Neural Networks**
+
+- [ ] Autoencoder
+- [ ] Cognitive computing
+- [ ] Deep learning
+- [ ] DeepDream
+- [ ] Feedforward neural network Recurrent neural network
+- - [ ] LSTM
+- - [ ] GRU
+- - [ ] ESN
+- - [ ] reservoir computing  
+- [ ] Restricted Boltzmann machine
+- [ ] GAN
+- [ ] Diffusion model
+- [ ] SOM
+- [ ] Convolutional neural network
+- - [ ] U-Net
+- [ ] Transformer
+- - [ ] Vision
+- [ ] Spiking neural network
+- [ ] Memtransistor
+- [ ] Electrochemical RAM (ECRAM)
+
+**Reinforcement learning**
+
+- [ ] Q-learning
+- [ ] SARSA
+- [ ] Temporal difference (TD)
+- [ ] Multi-agent
+- - [ ] Self-play
+
+**Learning with humans**
+
+- [ ] Active learning
+- [ ] Crowdsourcing
+- [ ] Human-in-the-loop
+
+**Model diagnostics**
+
+- [ ] Learning curve
+
+**Mathematical foundations**
+
+- [ ] Kernel machines
+- [ ] Bias–variance tradeoff
+- [ ] Computational learning theory
+- [ ] Empirical risk minimization
+- [ ] Occam learning
+- [ ] PAC learning
+- [ ] Statistical learning
+- [ ] VC theory
+
+**Machine learning venues**
+
+- [ ] ECML
+- [ ] PKDD
+- [ ] NeurIPS
+- [ ] ICML
+- [ ] ICLR
+- [ ] IJCAI
+- [ ] ML
+- [ ] JMLR
+
+</details> <!-- Technical.Sandbox.MachineLearningAndDataMiningSandbox = END !-->
+
+---
+
+#### Languages designed for AI tasks sandbox
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Languages designed for AI tasks Sandbox section]</b></p></summary>
+
+- [x] R
+- [x] Prolog
+- [x] Python
+- [x] Julia
+- [x] Cython
+- [x] RMarkdown
+- [x] C
+- [ ] Mojo
+- [ ] MLIR
+- [ ] CUDA
+- [ ] Other/unlisted
+
+</details> <!-- Technical.Sandbox.LanguagesDesignedForAITasks = END !-->
+
+---
+
+</details> <!-- Technical.Sandbox = END !-->
+
+---
+
+### License
+
+<details><summary><p><b>[Click/tap here to expand/collapse the License section]</b></p></summary>
+
+AI2001 is licensed under the GNU General Public License (version 3)
+
+- [`GNU General Public License v3](/LICENSE.txt)
+
+</details> <!-- Technical.License = END !-->
+
+---
+
+</details> <!-- Technical = END !-->
 
 ***
 
@@ -3937,17 +4578,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `151 (2023, Thursday, October 12th at 04:28 pm PST)`
+**File version:** `152 (2023, Friday, October 13th at 04:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,491`
+**Line count (including blank lines and compiler line):** `6,195`
 
-**Word count:** `24,834`
+**Word count:** `26,879`
 
-**Character count (including spaces):** `182,296`
+**Character count (including spaces):** `198,846`
 
-**Character count (excluding spaces):** `159,712`
+**Character count (excluding spaces):** `173,810`
 
-**Size (in bytes):** `182,421`
+**Size (in bytes):** `198,985`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3971,6 +4612,8 @@ This project is not yet on Gitlab.
 
 - [`View old versions [1-100]`](/OldVersions/README/English/1/)
 - [`View old versions [101-200]`](/OldVersions/README/English/2/101-200/)
+
+<!-- - [`View old versions [201-300]`](/OldVersions/README/English/2/201-300/) !-->
 
 ---
 
@@ -5422,6 +6065,7 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 150
 
 </details> <!-- V150 !-->
+
 ---
 
 <details><summary><p lang="en"><b>Version 151 (2023, Thursday, October 12th at 04:28 pm PST)</b></p></summary>
@@ -5469,6 +6113,55 @@ This project is not yet on Gitlab.
 
 </details> <!-- V151 !-->
 
+---
+
+<details><summary><p lang="en"><b>Version 152 (2023, Friday, October 13th at 04:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V152.md)
+
+> **Note** _Continuing for a 6th consecutive day. There was still lots of room for improvement, so I continued to update the file outside of the required scope yet again today._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Added the `C: Cartography` section
+- - - **Note** This section isn't completely new, it just doesn't have any entries yet.
+- - - [x] Categorized by letter and made 26 dropdowns
+- - - [x] Added a table of contents microsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: NASL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: nesC` subsection
+- - [x] Added the `Technical` section
+- - - [x] Added the `AI Fields` subsection
+- - - - [x] Added the `Artificial Neural Networks` sub-subsection
+- - - [x] Added the `Paradigms` subsection
+- - - [x] Added the `Model Types` subsection
+- - - [x] Added the `Problems to solve` subsection
+- - - [x] Added the `Specialties` subsection
+- - - [x] Added the `Languages` subsection
+- - - - [x] Added the `Main languages` sub-subsection
+- - - - [x] Added the `Other languages` sub-subsection
+- - - [x] Added the `Sandbox` subsection
+- - - [x] Added the `Machine Learning And Data Mining Sandbox` sub-subsection
+- - - [x] Added the `Languages designed for AI tasks Sandbox` subsection
+- - - [x] Added the `License` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Collapsed the section by default
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 152
+- [ ] No other changes in version 152
+
+</details> <!-- V152 !-->
+
+---
+
 </details> <!-- End of file history section !-->
 
 ***
@@ -5488,3 +6181,14 @@ You have reached the bottom of this page.
 </details> <!-- End of article !-->
 
 ***
+
+<!-- TODO: Extra notes
+
+AI2001: 2023.10.11
+Ancient Macedonian language
+AI2001: 2023.10.12
+Meta: Logic Datasets
+AI2001: 2023.10.13
+Cartography datasets
+
+!-->

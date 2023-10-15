@@ -3398,6 +3398,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: NetREXX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NetREXX/)
 
+#### SC: Nextflow
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Nextflow`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nextflow/)
+
+#### SC: NewLisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: NewLisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NewLisp/)
+
 #### SC: Nim
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Nim`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nim/)
@@ -4578,17 +4586,17 @@ This project is not yet on Gitlab.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `152 (2023, Friday, October 13th at 04:54 pm PST)`
+**File version:** `153 (2023, Saturday, October 14th at 09:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,195`
+**Line count (including blank lines and compiler line):** `6,232`
 
-**Word count:** `26,879`
+**Word count:** `27,087`
 
-**Character count (including spaces):** `198,846`
+**Character count (including spaces):** `200,280`
 
-**Character count (excluding spaces):** `173,810`
+**Character count (excluding spaces):** `175,031`
 
-**Size (in bytes):** `198,985`
+**Size (in bytes):** `200,419`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -6159,6 +6167,35 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 152
 
 </details> <!-- V152 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 153 (2023, Saturday, October 14th at 09:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V153.md)
+
+> **Note** _Continuing for a 7th consecutive day. I didn't have the time to update the file outside of the required scope today, and I additionally didn't have anything that I wanted to add._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Nextflow` subsection
+- - - [x] Added the `AI2001 Category: Source Code: NewLisp` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Collapsed the section by default
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 153
+- [ ] No other changes in version 153
+
+</details> <!-- V153 !-->
 
 ---
 

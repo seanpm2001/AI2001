@@ -7,7 +7,7 @@
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the lead/title section]</b></p></summary>
 
-<img src="/MediaSphere1.png" width="148" height="148" align="left" style="margin-right: 30px">
+<img src="/MediaSphere1.png" width="148" height="148" title="AI2001 logo (MediaSphere)" align="left" style="margin-right: 30px">
 
 `🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🏠️ The source repository for the open source AI2001 Artificial Intelligence project.`
 
@@ -61,7 +61,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Wednesday, October 18th at 07:20 pm PST)`
+**As of:** `2023, Thursday, October 19th at 04:51 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -71,10 +71,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `107` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `302` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `304` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `444` _dataset repositories_ | **As of:** `2023.10.18@19:20PST` |
+| **Overall total:** | `446` _dataset repositories_ | **As of:** `2023.10.19@16:51PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -2868,6 +2868,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fluent`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fluent/)
 
+#### SC: FLUX
+
+- [:octocat: `AI2001 Category: Source Code ;SC: FLUX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FLUX/)
+
+#### SC: Forth
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Forth`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Forth/)
+
 #### SC: Fortran95
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
@@ -4310,67 +4318,311 @@ _A place for gathering notes to eventually be moved to documentation._
 
 <details><summary><p><b>[Click/tap here to expand/collapse the Sandbox section]</b></p></summary>
 
----
-
-### Key AI terms beginner sandbox
-
-<details><summary><p><b>[Click/tap here to expand/collapse the Key AI terms beginner Sandbox section]</b></p></summary>
-
-#### Development
-
-<details><summary><p><b>[Click/tap here to expand/collapse the development terms section]</b></p></summary>
-
-- Blackbox
-- Deep
-- Deepfake
-- Dataset
-- Gym
-- Training
-- Tensor
-- Transformer
-- Model
-- Graph
-
-</details> <!-- Sandbox.KeyAITermsBeginnerSandbox.Development = END !-->
-
-#### Psychology
-
-<details><summary><p><b>[Click/tap here to expand/collapse the psychology terms section]</b></p></summary>
-
-- Neural
-- Pareidolia
-- Euphoria
-- Uncanny
-- Uncanny valley
-- Recognition
-
-</details> <!-- Sandbox.KeyAITermsBeginnerSandbox.Psychology = END !-->
-
-</details> <!-- Sandbox.KeyAITermsBeginnerSandbox = END !-->
+Several dozen `IGNORE.md` files were created within [:octocat: `seanpm2001/AI2001_Docs/Docs`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/) on 2023, Wednesday, October 18th. They are placeholders for new documentation. More will be created over time.
 
 ---
 
-### Special tasks sandbox
+### Algorithms
 
-<details><summary><p><b>[Click/tap here to expand/collapse the Special tasks Sandbox section]</b></p></summary>
+No data yet.
 
-- IMPLEMENT
-- [ ] Stable Diffusion (latent diffusion model)
-- [ ] DeepDream
-- [ ] GPT1
-- [ ] GPT2
-- [ ] GPT3
-- [ ] GPT4
-- [ ] DALL-E
-- [ ] HuggingFace
-- [ ] TensorFlow (alt)
-- [ ] PyTorch (alt)
+---
 
-</details> <!-- Sandbox.SpecialTasksSandbox = END !-->
+### Anamolies
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Anamolies/)
+
+#### Detection
+
+No data yet.
+
+---
+
+### Artificial Neural Networks
+
+No data yet.
+
+---
+
+### Benefits
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Benefits/)
+
+#### Creativity
+
+No data yet.
+
+#### Ending Copyright
+
+No data yet.
+
+#### Entertainment
+
+No data yet.
+
+#### Medical Research
+
+No data yet.
+
+#### Productivity
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Benefits/Productivity/)
+
+##### Programming
+
+No data yet.
+
+#### Upscaling
+
+No data yet.
+
+---
+
+### CNN
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/CNN/)
+
+#### Convolutional Neural Network
+
+No data yet.
+
+---
+
+### Chatbots
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Chatbots/)
+
+#### ELIZA
+
+No data yet.
+
+##### ELIZA effect
+
+No data yet.
+
+#### ChatGPT
+
+No data yet.
+
+#### Microsoft
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Chatbots/Microsoft/)
+
+##### Tay
+
+No data yet.
+
+#### Google
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Chatbots/Google/)
+
+##### Bard
+
+No data yet.
+
+---
+
+### Clustering
+
+No data yet.
+
+---
+
+### Culture
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Culture/)
+
+#### Popular
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Culture/Popular/)
+
+##### 2001: A Space Odyssey
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Culture/Popular/2001-A-Space-Odyssey/)
+
+###### HAL-9000
+
+No data yet.
+
+##### Portal (Video Game Series)
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Culture/Popular/Portal-Video-Game-Series/)
+
+###### Atlas
+
+No data yet.
+
+###### GLaDOS
+
+No data yet.
+
+###### Peabody
+
+No data yet.
+
+###### Wheatley
+
+No data yet.
+
+---
+
+### Dangers
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Dangers/)
+
+#### Deepfakes
+
+No data yet.
+
+#### Existential Risks
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Dangers/Existential-Risks/)
+
+##### Artificial General Intelligence
+
+No data yet.
+
+#### Jobsoletion
+
+No data yet.
+
+#### Lethal Autonomous Weapons
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Dangers/Lethal-Autonomous-Weapons/)
+
+##### Slaughterbots
+
+No data yet.
+
+##### Terminator
+
+No data yet.
+
+###### Skynet
+
+No data yet.
+
+---
+
+### History
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/History/)
+
+#### Artificial-intelligence
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/History/Artificial-intelligence/)
+
+##### Early-History
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/History/Artificial-intelligence/Early-History/)
+
+###### AI-Winter
+
+No data yet.
+
+---
+
+### Jobsoletion
+
+TODO: Link to [:octocat: `seanpm2001/Jobsolete`](https://github.com/seanpm2001/Jobsolete/)
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Jobsoletiom/)
+
+#### Voice acting
+
+No data yet.
+
+---
+
+### Languages
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Languages/)
+
+#### Computing languages
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Languages/Computing-languages/)
+
+##### C
+
+No data yet.
+
+##### CUDA
+
+No data yet.
+
+##### Cython
+
+No data yet.
+
+##### Julia
+
+No data yet.
+
+##### Languages designed for AI tasks sandbox
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Languages/Computing-languages/Languages-designed-for-AI/)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Languages designed for AI tasks Sandbox section]</b></p></summary>
+
+- [x] **A checked box indicates that the language is an official language of the AI2001 toolchain.**
+
+- [x] R
+- [x] Prolog
+- [x] Python
+- [x] Julia
+- [x] Cython
+- [x] RMarkdown
+- [x] C
+- [ ] Mojo
+- [ ] MLIR
+- [ ] CUDA
+- [ ] Other/unlisted
+
+</details> <!-- Sandbox.LanguagesDesignedForAITasks = END !-->
+
+##### MLIR
+
+No data yet.
+
+##### Mojo
+
+No data yet.
+
+##### Prolog
+
+No data yet.
+
+##### Python
+
+No data yet.
+
+##### R
+
+No data yet.
+
+##### RMarkdown
+
+No data yet.
+
+#### Human Languages
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Languages/Human-Languages/)
+
+##### English
+
+No data yet.
+
+---
+
+### Learning with humans
+
+No data yet.
 
 ---
 
 ### Machine learning and data mining sandbox
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Machine-Learning-and-Data-Mining/)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the Machine learning and data mining Sandbox section]</b></p></summary>
 
@@ -4535,25 +4787,239 @@ _A place for gathering notes to eventually be moved to documentation._
 
 ---
 
-### Languages designed for AI tasks sandbox
+### Mathematical foundations
 
-<details><summary><p><b>[Click/tap here to expand/collapse the Languages designed for AI tasks Sandbox section]</b></p></summary>
+No data yet.
 
-- [x] **A checked box indicates that the language is an official language of the AI2001 toolchain.**
+---
 
-- [x] R
-- [x] Prolog
-- [x] Python
-- [x] Julia
-- [x] Cython
-- [x] RMarkdown
-- [x] C
-- [ ] Mojo
-- [ ] MLIR
-- [ ] CUDA
-- [ ] Other/unlisted
+### Mathematical Learning Venues
 
-</details> <!-- Sandbox.LanguagesDesignedForAITasks = END !-->
+No data yet.
+
+---
+
+### MediaSphere
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/MediaSphere/)
+
+---
+
+### Model Diagnostics
+
+No data yet.
+
+---
+
+### OtherAI
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/)
+
+#### Facebook
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/Facebook/)
+
+##### PyTorch
+
+No data yet.
+
+#### Google
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/Google/)
+
+##### TensorFlow
+
+No data yet.
+
+#### HuggingFace
+
+No data yet.
+
+#### OpenAI
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/OpenAI/)
+
+##### ClosedAI
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/OpenAI/ClosedAI/)
+
+---
+
+### Paradigms
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Paradigms/)
+
+#### Batch-Learning
+
+No data yet.
+
+#### Meta-Learning
+
+No data yet.
+
+#### Online-Learning
+
+No data yet.
+
+#### Quantum-Machine-Learning
+
+No data yet.
+
+#### Reinforcement-Learning
+
+No data yet.
+
+#### Rule-Based-Learning
+
+No data yet.
+
+#### Self-Supervised-Learning
+
+No data yet.
+
+#### Semi-Supervised-Learning
+
+No data yet.
+
+#### Supervised-Learning
+
+No data yet.
+
+#### Unsupervised-Learning
+
+No data yet.
+
+---
+
+### Partners
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Partners/)
+
+#### NevronAI
+
+No data yet.
+
+---
+
+### Problems
+
+#### Deepfakes
+
+Redirect page needed
+
+#### Hallucinations
+
+No data yet.
+
+#### Lethal Autonomous Weapons
+
+Redirect page needed
+
+#### Misinformation
+
+No data yet.
+
+#### Plagiarism
+
+No data yet.
+
+#### Privacy
+
+No data yet.
+
+---
+
+### Programming
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Programming/)
+
+#### Language usage
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/blob/AI2001_Docs_Main-dev/Docs/Programming/Language-Usage/)
+
+#### Style guide
+
+Coming soon
+
+#### Other
+
+Coming soon
+
+---
+
+### Special tasks sandbox
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Special-Tasks/)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Special tasks Sandbox section]</b></p></summary>
+
+- IMPLEMENT
+- [ ] Stable Diffusion (latent diffusion model)
+- [ ] DeepDream
+- [ ] GPT1
+- [ ] GPT2
+- [ ] GPT3
+- [ ] GPT4
+- [ ] DALL-E
+- [ ] HuggingFace
+- [ ] TensorFlow (alt)
+- [ ] PyTorch (alt)
+
+</details> <!-- Sandbox.SpecialTasksSandbox = END !-->
+
+---
+
+### Terms
+
+#### Key AI Terms
+
+##### Key AI terms beginner sandbox
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Key AI terms beginner Sandbox section]</b></p></summary>
+
+- [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Terms/Key-AI-Terms/Beginner)
+
+###### Development
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Terms/Key-AI-Terms/Beginner/Development/)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the development terms section]</b></p></summary>
+
+- Blackbox
+- Deep
+- Deepfake
+- Dataset
+- Gym
+- Training
+- Tensor
+- Transformer
+- Model
+- Graph
+
+</details> <!-- Sandbox.KeyAITermsBeginnerSandbox.Development = END !-->
+
+###### Psychology
+
+- [:octocat: `Read about it here`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Terms/Key-AI-Terms/Beginner/Psychology/)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the psychology terms section]</b></p></summary>
+
+- Neural
+- Pareidolia
+- Euphoria
+- Uncanny
+- Uncanny valley
+- Recognition
+
+</details> <!-- Sandbox.KeyAITermsBeginnerSandbox.Psychology = END !-->
+
+</details> <!-- Sandbox.KeyAITermsBeginnerSandbox = END !-->
+
+---
+
+### Transformers
+
+No data yet.
 
 ---
 
@@ -4687,12 +5153,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `157 (2023, Wednesday, October 18th at 07:20 pm PST)`
-- **Line count (including blank lines and compiler line):** `6,464`
-- **Word count:** `28,186`
-- **Character count (including spaces):** `208,408`
-- **Character count (excluding spaces):** `181,955`
-- **Size (in bytes):** `208,547`
+- **File version:** `158 (2023, Thursday, October 19th at 04:51 pm PST)`
+- **Line count (including blank lines and compiler line):** `7,065`
+- **Word count:** `30,224`
+- **Character count (including spaces):** `223,503`
+- **Character count (excluding spaces):** `195,000`
+- **Size (in bytes):** `223,642`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6428,6 +6894,141 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 157
 
 </details> <!-- V157 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 158 (2023, Thursday, October 19th at 04:51 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V158.md)
+
+> **Note** _Continuing for a 12th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: FLUX` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Forth` subsection
+- [x] Updated the `Sandbox` section
+- - [x] Added a lead section
+- - [x] Added the `Algorithms` subsection
+- - [x] Added the `Anamolies` subsection
+- - - [x] Added the `Detection` sub-subsection
+- - [x] Added the `Artificial Neural Networks` subsection
+- - [x] Added the `Benefits` subsection
+- - - [x] Added the `Creativity` sub-subsection
+- - - [x] Added the `Ending Copyright` sub-subsection
+- - - [x] Added the `Entertainment` sub-subsection
+- - - [x] Added the `Medical Research` sub-subsection
+- - - [x] Added the `Productivity` sub-subsection
+- - - - [x] Added the `Programming` sub-sub-subsection
+- - - [x] Added the `Upscaling` sub-subsection
+- - [x] Added the `CNN` subsection
+- - - [x] Added the `Convolutional Neural Network` sub-subsection
+- - [x] Added the `Chatbots` subsection
+- - - [x] Added the `ELIZA` sub-subsection
+- - - - [x] Added the `ELIZA Effect` sub-sub-subsection
+- - - [x] Added the `ChatGPT` sub-subsection
+- - - [x] Added the `Microsoft` sub-subsection
+- - - - [x] Added the `Tay` sub-sub-subsection
+- - - [x] Added the `Google` sub-subsection
+- - - - [x] Added the `Bard` sub-sub-subsection
+- - [x] Added the `Clustering` subsection
+- - [x] Added the `Culture` subsection
+- - - [x] Added the `Popular` sub-subsection
+- - - - [x] Added the `2001: A Space Odyssey` sub-sub-subsection
+- - - - - [x] Added the `HAL 9000` sub-sub-sub-subsection
+- - - - [x] Added the `Portal (Video Game Series)` sub-sub-subsection
+- - - - - [x] Added the `Atlas` sub-sub-sub-subsection
+- - - - - [x] Added the `GLaDOS` sub-sub-sub-subsection
+- - - - - [x] Added the `Peabody` sub-sub-sub-subsection
+- - - - - [x] Added the `Wheatley` sub-sub-sub-subsection
+- - [x] Added the `Dangers` subsection
+- - - [x] Added the `Deepfakes` sub-subsection
+- - - [x] Added the `Existential Risks` sub-subsection
+- - - [x] Added the `Artificial General Intelligence` sub-subsection
+- - - [x] Added the `Jobsoletion` sub-subsection
+- - - [x] Added the `Lethal Autonomous Weapons` sub-subsection
+- - - - [x] Added the `Slaughterbots` sub-sub-subsection
+- - - - [x] Added the `Terminator` sub-sub-subsection
+- - - - - [x] Added the `Skynet` sub-sub-sub-subsection
+- - [x] Added the `History` subsection
+- - - [x] Added the `Artificial-intelligence` sub-subsection
+- - - - [x] Added the `Early-History` sub-sub-subsection
+- - - - - [x] Added the `AI-Winter` sub-sub-sub-subsection
+- - [x] Added the `Jobsoletion` subsection
+- - - [x] Added the `Voice acting` sub-subsection
+- - [x] Added the `Languages` subsection
+- - - [x] Added the `Computing languages` sub-subsection
+- - - - [x] Added the `C` sub-sub-subsection
+- - - - [x] Added the `CUDA` sub-sub-subsection
+- - - - [x] Added the `Cython` sub-sub-subsection
+- - - - [x] Added the `Julia` sub-sub-subsection
+- - - - [x] Moved the `Languages designed for AI tasks sandbox` subsection here
+- - - - [x] Added the `MLIR` sub-sub-subsection
+- - - - [x] Added the `Prolog` sub-sub-subsection
+- - - - [x] Added the `Python` sub-sub-subsection
+- - - - [x] Added the `R` sub-sub-subsection
+- - - - [x] Added the `RMarkdown` sub-sub-subsection
+- - - [x] Added the `Human Languages` sub-subsection
+- - - - [x] Added the `English` sub-sub-subsection
+- - [x] Added the `Learning with humans` subsection
+- - [x] Moved the `Machine learning and data mining sandbox` subsection here
+- - [x] Added the `Mathematical Foundations` subsection
+- - [x] Added the `Mathematical Learning Venues` subsection
+- - [x] Added the `MediaSphere` subsection
+- - [x] Added the `Model diagnostics` subsection
+- - [x] Added the `OtherAI` subsection
+- - - [x] Added the `Facebook` sub-subsection
+- - - - [x] Added the `PyTorch` sub-sub-subsection
+- - - [x] Added the `Google` sub-subsection
+- - - - [x] Added the `TensorFlow` sub-sub-subsection
+- - - [x] Added the `HuggingFace` sub-subsection
+- - - [x] Added the `OpenAI` sub-subsection
+- - - - [x] Added the `ClosedAI` sub-sub-subsection
+- - [x] Added the `Paradigms` subsection
+- - - [x] Added the `Batch-Learning` sub-subsection
+- - - [x] Added the `Meta-Learning` sub-subsection
+- - - [x] Added the `Online-Learning` sub-subsection
+- - - [x] Added the `Quantum-Machine-Learning` sub-subsection
+- - - [x] Added the `Reinforcement-Learning` sub-subsection
+- - - [x] Added the `Rule-Based-Learning` sub-subsection
+- - - [x] Added the `Self-Supervised-Learning` sub-subsection
+- - - [x] Added the `Semi-Supervised-Learning` sub-subsection
+- - - [x] Added the `Supervised-Learning` sub-subsection
+- - - [x] Added the `Unsupervised-Learning` sub-subsection
+- - [x] Added the `Partners` subsection
+- - - [x] Added the `NevronAI` sub-subsection
+- - [x] Added the `Problems` subsection
+- - - [x] Added the `Deepfakes` sub-subsection
+- - - [x] Added the `Hallucinations` sub-subsection
+- - - [x] Added the `Lethal Autonomous Weapons` sub-subsection
+- - - [x] Added the `Misinformation` sub-subsection
+- - - [x] Added the `Plagiarism` sub-subsection
+- - - [x] Added the `Privacy` sub-subsection
+- - [x] Added the `Programming` subsection
+- - - [x] Added the `Language usage` sub-subsection
+- - - [x] Added the `Style guide` sub-subsection
+- - - [x] Added the `Other` sub-subsection
+- - [x] Moved the `Special tasks sandbox` subsection here
+- - [x] Added the `Terms` subsection
+- - - [x] Moved and separated the `Key AI terms` sub-subsection here
+- - - - - [x] Moved and separated the `Beginner` sub-subsection here
+- - - - - - [x] Moved the `Developer` sub-subsection here
+- - - - - - [x] Moved the `Psychology` sub-subsection here
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 158
+- [ ] No other changes in version 158
+
+</details> <!-- V158 !-->
 
 ---
 

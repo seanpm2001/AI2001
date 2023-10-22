@@ -61,7 +61,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Friday, October 20th at 07:20 pm PST)`
+**As of:** `2023, Saturday, October 21st at 08:20 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -71,10 +71,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `109` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `306` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `308` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `450` _dataset repositories_ | **As of:** `2023.10.20@19:20PST` |
+| **Overall total:** | `452` _dataset repositories_ | **As of:** `2023.10.21@20:20PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -2884,6 +2884,12 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Forth`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Forth/)
 
+#### SC: Fortran
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Fortran`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran/)
+
+</details> <!-- SourceCode.SectionF = END !-->
+
 #### SC: Fortran95
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
@@ -2895,6 +2901,12 @@ Currently empty
 #### SC: FreeMarker
 
 - [:octocat: `AI2001 Category: Source Code ;SC: FreeMarker`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FreeMarker/)
+
+</details> <!-- SourceCode.SectionF = END !-->
+
+#### SC: FStar
+
+- [:octocat: `AI2001 Category: Source Code ;SC: F*`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FStar/)
 
 </details> <!-- SourceCode.SectionF = END !-->
 
@@ -4338,6 +4350,10 @@ Several dozen `IGNORE.md` files were created within [:octocat: `seanpm2001/AI200
 
 ---
 
+### 3rd parties
+
+No data yet.
+
 ### Algorithms
 
 No data yet.
@@ -4485,6 +4501,10 @@ No data yet.
 ### Dangers
 
 - [:octocat: `Index page coming soon`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Dangers/)
+
+#### Bias
+
+No data yet.
 
 #### Deepfakes
 
@@ -5173,12 +5193,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `159 (2023, Friday, October 20th at 07:20 pm PST)`
-- **Line count (including blank lines and compiler line):** `7,124`
-- **Word count:** `30,502`
-- **Character count (including spaces):** `225,602`
-- **Character count (excluding spaces):** `196,800`
-- **Size (in bytes):** `225,741`
+- **File version:** `160 (2023, Saturday, October 21st at 08:20 pm PST)`
+- **Line count (including blank lines and compiler line):** `7,179`
+- **Word count:** `30,731`
+- **Character count (including spaces):** `227,263`
+- **Character count (excluding spaces):** `198,202`
+- **Size (in bytes):** `227,402`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7056,7 +7076,7 @@ This project is not yet on Gitlab.
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> [View this version separately](/OldVersions/README/English/2/101-200/README_V157.md)
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V159.md)
 
 > **Note** _Continuing for a 13th consecutive day._
 
@@ -7088,6 +7108,41 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 159
 
 </details> <!-- V159 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 160 (2023, Saturday, October 21st at 08:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V160.md)
+
+> **Note** _Continuing for a 14th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: FStar` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Fortran` subsection
+- [x] Updated the `Sandbox` section
+- - [x] Added the `3rd party` subsection
+- - [x] Updated the `Dangers` subsection
+- - - [x] Added the `Bias` sub-subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- - [x] Converted into list format
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 159
+- - [x] Added an entry for version 160
+- [ ] No other changes in version 160
+
+</details> <!-- V160 !-->
 
 ---
 

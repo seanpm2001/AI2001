@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 465 total repository links (as of 2023, Saturday, October 21st at 08:14 pm PST), Version 160.
+//// 469 total repository links (as of 2023, Sunday, October 22nd at 08:09 pm PST), Version 161.
 
-//// GitHub (465)
+//// GitHub (469)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -470,11 +470,15 @@ https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Serbian
 https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Croatian
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FStar
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaServerPages
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Handlebars
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Document
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Score
 
 //// GitLab (0)
 
 //// File info
-//// File version: 160 (2023, Saturday, October 21st at 08:14 pm PST)
-//// Line count (including blank lines and compiler line): 481
+//// File version: 161 (2023, Sunday, October 22nd at 08:09 pm PST)
+//// Line count (including blank lines and compiler line): 485
 
 //// End of file (EOF)

@@ -1,6 +1,10 @@
 /.github/
 /.gitlab/
+/API/
+/Community/
+/Datasets/
 /Docs/
+/Graphics/
 /Groups/
 /Logs/
 /OldVersions/

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 471 total repository links (as of 2023, Monday, October 23rd at 11:46 pm PST), Version 162.
+//// 473 total repository links (as of 2023, Tuesday, October 24th at 04:06 pm PST), Version 163.
 
-//// GitHub (471)
+//// GitHub (473)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -476,11 +476,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Document
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Score
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oberon
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ooc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenCL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenEdge-ABL
 
 //// GitLab (0)
+//// None yet
 
 //// File info
-//// File version: 162 (2023, Monday, October 23rd at 11:46 pm PST)
-//// Line count (including blank lines and compiler line): 487
+//// File version: 163 (2023, Tuesday, October 24th at 04:06 pm PST)
+//// Line count (including blank lines and compiler line): 490
 
 //// End of file (EOF)

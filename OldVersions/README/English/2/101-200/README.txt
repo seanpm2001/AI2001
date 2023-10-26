@@ -75,7 +75,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Tuesday, October 24th at 03:54 pm PST)`
+**As of:** `2023, Thursday, October 26th at 03:40 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -83,12 +83,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🗺️ Cartography](#C-Cartography) datasets:** | `0` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
-| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `109` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
+| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `111` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `314` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `318` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `460` _dataset repositories_ | **As of:** `2023.10.24@15:54PST` |
+| **Overall total:** | `466` _dataset repositories_ | **As of:** `2023.10.26@15:40PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -1399,6 +1399,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
 
+#### SC: Bodo
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Bodo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bodo/)
+
 #### SC: Bosnian
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Bosnian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bosnian/)
@@ -1474,6 +1478,10 @@ Currently empty
 #### SC: Danish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Danish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Danish/)
+
+#### SC: Dogri
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Dogri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dogri/)
 
 #### SC: Dutch
 
@@ -3568,6 +3576,22 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: OpenEdge ABL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenEdge-ABL/)
 
+#### SC: Open Policy Agent
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Open Policy Agent`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenPolicyAgent/)
+
+#### SC: OpenQASM
+
+- [:octocat: `AI2001 Category: Source Code ;SC: OpenQASM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenQASM/)
+
+#### SC: OpenSCAD
+
+- [:octocat: `AI2001 Category: Source Code ;SC: OpenSCAD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenSCAD/)
+
+#### SC: Org
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Org`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org/)
+
 ---
 
 ###### Source Code P
@@ -5241,12 +5265,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `163 (2023, Tuesday, October 24th at 03:54 pm PST)`
-- **Line count (including blank lines and compiler line):** `7,321`
-- **Word count:** `31,633`
-- **Character count (including spaces):** `233,727`
-- **Character count (excluding spaces):** `203,873`
-- **Size (in bytes):** `233,866`
+- **File version:** `164 (2023, Thursday, October 26th at 03:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `7,381`
+- **Word count:** `31,969`
+- **Character count (including spaces):** `236,183`
+- **Character count (excluding spaces):** `205,990`
+- **Size (in bytes):** `236,322`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7258,7 +7282,7 @@ This project is not yet on Gitlab.
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> [View this version separately](/OldVersions/README/English/2/101-200/README_V162.md)
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V163.md)
 
 > **Note** _Continuing for a 17th consecutive day._
 
@@ -7285,6 +7309,42 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 163
 
 </details> <!-- V163 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 164 (2023, Thursday, October 26th at 03:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V164.md)
+
+> **Note** _The 17 day streak was bromen yesterday, due to time issues involving procrastination. A basic update was done today, and a new streak has started. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Linguistics dataset` counter
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics: Bodo` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Dogri` subsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Open Policy Agent` subsection
+- - - [x] Added the `AI2001 Category: Source Code: OpenQASM` subsection
+- - - [x] Added the `AI2001 Category: Source Code: OpenSCAD` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Org` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Fixed an error in the entry for version 163
+- - [x] Added an entry for version 164
+- [ ] No other changes in version 164
+
+</details> <!-- V164 !-->
 
 ---
 

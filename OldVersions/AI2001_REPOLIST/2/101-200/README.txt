@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 473 total repository links (as of 2023, Tuesday, October 24th at 04:06 pm PST), Version 163.
+//// 479 total repository links (as of 2023, Thursday, October 26th at 03:50 pm PST), Version 164.
 
-//// GitHub (473)
+//// GitHub (479)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -478,12 +478,18 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oberon
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ooc
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenCL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenEdge-ABL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenPolicyAgent
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenQASM
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bodo
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dogri
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenSCAD
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 163 (2023, Tuesday, October 24th at 04:06 pm PST)
-//// Line count (including blank lines and compiler line): 490
+//// File version: 164 (2023, Thursday, October 26th at 03:50 pm PST)
+//// Line count (including blank lines and compiler line): 496
 
 //// End of file (EOF)

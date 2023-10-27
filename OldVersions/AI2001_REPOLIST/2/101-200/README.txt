@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 479 total repository links (as of 2023, Thursday, October 26th at 03:50 pm PST), Version 164.
+//// 481 total repository links (as of 2023, Friday, October 27th at 04:16 pm PST), Version 165.
 
-//// GitHub (479)
+//// GitHub (481)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -484,12 +484,14 @@ https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bodo
 https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dogri
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenSCAD
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Orwell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oxygene
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 164 (2023, Thursday, October 26th at 03:50 pm PST)
-//// Line count (including blank lines and compiler line): 496
+//// File version: 165 (2023, Friday, October 27th at 04:16 pm PST)
+//// Line count (including blank lines and compiler line): 498
 
 //// End of file (EOF)

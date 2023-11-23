@@ -105,7 +105,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Friday, October 27th at 04:09 pm PST)`
+**As of:** `2023, Wednesday, November 22nd at 07:11 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -113,12 +113,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🗺️ Cartography](#C-Cartography) datasets:** | `0` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
-| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `111` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
+| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `320` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `371` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `468` _dataset repositories_ | **As of:** `2023.10.28@16:09PST` |
+| **Overall total:** | `523` _dataset repositories_ | **As of:** `2023.11.22@19:11PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -1401,6 +1401,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Arabic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Arabic/)
 
+#### SC: Assamese
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Assamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Assamese/)
+
 #### SC: Azerbaijan
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
@@ -1601,6 +1605,10 @@ Currently empty
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with H]</b></p></summary>
 
+#### SC: Hausa
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Hausa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hausa/)
+
 #### SC: Hebrew
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Hebrew`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hebrew/)
@@ -1672,6 +1680,10 @@ Currently empty
 ###### Linguistics K
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with K]</b></p></summary>
+
+#### SC: Kannada
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Kannada`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kannada/)
 
 #### SC: Kashmiri
 
@@ -1793,7 +1805,9 @@ Currently empty
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with O]</b></p></summary>
 
-Currently empty
+#### SC: Odia
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Odia`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Odia/)
 
 </details> <!-- Linguistics.SectionO = END !-->
 
@@ -3638,17 +3652,103 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pascal/)
 
+#### SC: Pawn
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Pawn`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pawn/)
+
 #### SC: Perl
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Perl`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Perl/)
+
+#### SC: Perl6
+
+> **Note** _Not to be confused with Raku._
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Perl6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Perl6/)
 
 #### SC: PHP
 
 - [:octocat: `AI2001 Category: Source Code ;SC: PHP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PHP/)
 
+#### SC: PicoLisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PicoLisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PicoLisp/)
+
+#### SC: PigLatin
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PigLatin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PigLatin/)
+
+#### SC: PlantUML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PlantUML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlantUML/)
+
+#### SC: PlPGSQL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PlPGSQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlPGSQL/)
+
 #### SC: Pod
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Pod`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pod/)
+
+#### SC: Pod6
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Pod6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pod6/)
+
+#### SC: Pony
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Pony`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pony/)
+
+#### SC: PowerShell
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PowerShell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PowerShell/)
+
+#### SC: PostScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PostScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PostScript/)
+
+#### SC: POV-RAY SDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: POV-RAY SDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POV-RAY-SDL/)
+
+#### SC: Processing
+
+> **Note** _Not to be confused with Processing.js_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Processing`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing/)
+
+#### SC: Processing.js
+
+> **Note** _Not to be confused with Processing_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Processing.js`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing.js/)
+
+#### SC: ProGuard
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ProGuard`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ProGuard/)
+
+#### SC: Protocol Buffer
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Protocol Buffer`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Protocol-Buffer/)
+
+#### SC: Prolog
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Prolog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Prolog/)
+
+#### SC: Pug
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Pug`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pug/)
+
+#### SC: Puppet
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Puppet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Puppet/)
+
+#### SC: PureData
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PureData`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureData/)
+
+#### SC: PureScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PureScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureScript/)
 
 #### SC: Python2
 
@@ -3674,9 +3774,21 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Q#`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Q-Sharp/)
 
+#### SC: QMake
+
+- [:octocat: `AI2001 Category: Source Code ;SC: QMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QMake/)
+
 #### SC: QML
 
 - [:octocat: `AI2001 Category: Source Code ;SC: QML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QML/)
+
+#### SC: QT Script
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Qt Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Qt-Script/)
+
+#### SC: QueryByExample
+
+- [:octocat: `AI2001 Category: Source Code ;SC: QueryByExample`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QueryByExample/)
 
 </details> <!-- SourceCode.SectionQ = END !-->
 
@@ -3702,19 +3814,39 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Raku`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raku/)
 
+#### SC: RAML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RAML/)
+
 #### SC: Rascal
 
 > **Note** _Not to be confused with Pascal or RouterOS Script_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Rascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal/)
 
+#### SC: RDoc
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RDoc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RDoc/)
+
 #### SC: Reason
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Reason`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Reason/)
 
+#### SC: ReasonML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ReasonML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonML/)
+
+#### SC: REBOL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: REBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REBOL/)
+
 #### SC: Red
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Red`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Red/)
+
+#### SC: RenderScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RenderScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RenderScript/)
 
 #### SC: Ren'Py
 
@@ -3728,13 +3860,45 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: reStructuredText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReStructuredText/)
 
-#### SC: RMarkdown
+#### SC: REXX
 
-- [:octocat: `AI2001 Category: Source Code ;SC: RMarkdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RMarkdown/)
+- [:octocat: `AI2001 Category: Source Code ;SC: REXX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REXX/)
+
+#### SC: RichTextFormat
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RichTextFormat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RichTextFormat/)
+
+#### SC: RobotFramework
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RobotFramework`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RobotFramework/)
+
+#### SC: Roff
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Roff`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roff/)
 
 #### SC: RouterOS Script
 
 - [:octocat: `AI2001 Category: Source Code ;SC: RouterOS Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RouterOS-Script/)
+
+#### SC: RPC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RPC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPC/)
+
+#### SC: RPGLE
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RPGLE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPGLE/)
+
+#### SC: RMarkdown
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RMarkdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RMarkdown/)
+
+#### SC: Ruby
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Ruby`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ruby/)
+
+#### SC: RUNOFF
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RUNOFF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RUNOFF/)
 
 #### SC: Rust
 
@@ -3752,6 +3916,22 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Sage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage/)
 
+#### SC: SaltStack
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SaltStack`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaltStack/)
+
+#### SC: SAS
+
+> **Note** _Not to be confused with SASS, or SCSS_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SAS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SAS/)
+
+#### SC: SASS
+
+> **Note** _Not to be confused with SAS, or SCSS_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SASS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SASS/)
+
 #### SC: Scala
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Scala`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scala/)
@@ -3760,13 +3940,63 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Scheme`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme/)
 
+#### SC: SciLab
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SciLab`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SciLab/)
+
+#### SC: SCSS
+
+> **Note** _Not to be confused with SAS, or SASS_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SCSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SCSS/)
+
+#### SC: sed
+
+- [:octocat: `AI2001 Category: Source Code ;SC: sed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sed/)
+
 #### SC: Shell
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Shell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shell/)
 
-#### SC: Slim
+#### SC: Singularity
 
-- [:octocat: `AI2001 Category: Source Code ;SC: Slim`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slim/)
+- [:octocat: `AI2001 Category: Source Code ;SC: Singularity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Singularity/)
+
+#### SC: Slash
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Slash`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slash/)
+
+#### SC: Smali
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Smali`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smali/)
+
+#### SC: Smalltalk
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Smalltalk`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smalltalk/)
+
+#### SC: Smarty
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Smarty`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smarty/)
+
+#### SC: SMT
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SMT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SMT/)
+
+#### SC: Solidity
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Solidity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Solidity/)
+
+#### SC: SQF
+
+> **Note** _Not to be confused with SQL_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SQF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQF/)
+
+#### SC: SQL
+
+> **Note** _Not to be confused with TSQL_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SQF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQF/)
 
 #### SC: Svelte
 
@@ -5060,6 +5290,10 @@ No data yet.
 #### Deepfakes
 
 Redirect page needed
+
+I fear deepfakes are the most dangerous part of Artificial Inteligence. We are on a path towards coding ourselves into oblivion <!-- I prefer not to use the word coding, but instead programming, but I feel it fits here !--> we can't keep moving the goalpost forever. Eventually, we will reach a point where it is as easy to record a video with a cameras as it is to fake the video. This has become one of my top 4 fears.
+
+We need to setup more trusted sources. This is one of the few ways forward.
 
 #### Hallucinations
 
@@ -7423,6 +7657,90 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 165
 
 </details> <!-- V165 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 166 (2023, Wednesday, November 22nd at 07:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V166.md)
+
+> **Note** _I took an extremely long (nearly a full month) break from this project, as I took time to try and regain control of other projects. Continuing for 1 consective day_
+
+> Changes:
+
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics: Hausa` subsection
+- - - [x] Added the `AI2001 Category: Linguistics:Kannada` subsection
+- - - [x] Added the `AI2001 Category: Linguistics:Assamese` subsection
+- - - [x] Added the `AI2001 Category: Linguistics:Odia` subsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: PlantUML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PlPGSQL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Pod6` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Pony` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PostScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: POV-Ray-SDL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PowerShell` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Processing` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ProGuard` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Processing.js` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Prolog` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Protocol-Buffer` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Pug` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Puppet` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PureData` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PureScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Pawn` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Perl6` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PicoLisp` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PigLatin` subsection
+- - - [x] Added the `AI2001 Category: Source Code: QMake` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Qt-Script` subsection
+- - - [x] Added the `AI2001 Category: Source Code: QueryByExample` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RAML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RDoc` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ReasonML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: REBOL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RenderScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: REXX` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RichTextFormat` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RobotFramework` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Roff` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RPC` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RPGLE` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Ruby` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RUNOFF` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SaltStack` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SAS` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SASS` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SciLab` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SCSS` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Sed` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Singularity` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Slash` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Smali` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Smalltalk` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Smarty` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SMT` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Solidity` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SQF` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SQL` subsection
+- - - [x] Fixed some formatting bugs regarding duplicate and misplaced `</details>` tags
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 166
+- [ ] No other changes in version 166
+
+</details> <!-- V166 !-->
 
 ---
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 481 total repository links (as of 2023, Friday, October 27th at 04:16 pm PST), Version 165.
+//// 536 total repository links (as of 2023, Wednesday, November 22nd at 06:38 pm PST), Version 166.
 
-//// GitHub (481)
+//// GitHub (536)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -486,12 +486,67 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenSCAD
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Orwell
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oxygene
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlantUML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlPGSQL
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hausa
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kannada
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pod6
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pony
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Assamese
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Odia
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PostScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POV-Ray-SDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PowerShell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ProGuard
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing.js
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Prolog
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Protocol-Buffer
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pug
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Puppet
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureData
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pawn
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Perl6
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QMake
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Qt-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PicoLisp
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PigLatin
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QueryByExample
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RAML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RDoc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REBOL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RenderScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REXX
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RichTextFormat
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RobotFramework
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roff
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPGLE
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ruby
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RUNOFF
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaltStack
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SAS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SASS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SciLab
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SCSS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sed
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Singularity
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slash
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smali
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smalltalk
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smarty
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SMT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Solidity
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQF
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQL
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 165 (2023, Friday, October 27th at 04:16 pm PST)
-//// Line count (including blank lines and compiler line): 498
+//// File version: 166 (2023, Wednesday, November 22nd at 06:38 pm PST)
+//// Line count (including blank lines and compiler line): 553
 
 //// End of file (EOF)

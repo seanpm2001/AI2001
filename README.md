@@ -89,6 +89,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Protocol-Buffer-sc-dataset](https://github.com/topics/Protocol-Buffer-sc-dataset) | [#Pug-sc-dataset](https://github.com/topics/Pug-sc-dataset) | [#Puppet-sc-dataset](https://github.com/topics/Puppet-sc-dataset) | [#PureData-sc-dataset](https://github.com/topics/PureData-sc-dataset) | [#PureScript-sc-dataset](https://github.com/topics/PureScript-sc-dataset) | [#Pawn-sc-dataset](https://github.com/topics/Pawn-sc-dataset) | [#Perl6-sc-dataset](https://github.com/topics/Perl6-sc-dataset) | [#PicoLisp-sc-dataset](https://github.com/topics/PicoLisp-sc-dataset) | [#PigLatin-sc-dataset](https://github.com/topics/PigLatin-sc-dataset) | [#Qt-Script-sc-dataset](https://github.com/topics/Qt-Script-sc-dataset) | [#QueryByExample-sc-dataset](https://github.com/topics/QueryByExample-sc-dataset) |
 | [#RAML-sc-dataset](https://github.com/topics/RAML-sc-dataset) | [#RDoc-sc-dataset](https://github.com/topics/RDoc-sc-dataset) | [#ReasonML-sc-dataset](https://github.com/topics/ReasonML-sc-dataset) | [#REBOL-sc-dataset](https://github.com/topics/REBOL-sc-dataset) | [#RenderScript-sc-dataset](https://github.com/topics/RenderScript-sc-dataset) | [#RPC-sc-dataset](https://github.com/topics/RPC-sc-dataset) | [#RPGLE-sc-dataset](https://github.com/topics/RPGLE-sc-dataset) | [#Ruby-sc-dataset](https://github.com/topics/Ruby-sc-dataset) | [#RUNOFF-sc-dataset](https://github.com/topics/RUNOFF-sc-dataset) | [#SaltStack-sc-dataset](https://github.com/topics/SaltStack-sc-dataset) | [#SAS-sc-dataset](https://github.com/topics/SAS-sc-dataset) | [#SASS-sc-dataset](https://github.com/topics/SASS-sc-dataset) | [#SciLab-sc-dataset](https://github.com/topics/SciLab-sc-dataset) |
 | [#SCSS-sc-dataset](https://github.com/topics/SCSS-sc-dataset) | [#Sed-sc-dataset](https://github.com/topics/Sed-sc-dataset) | [#Singularity-sc-dataset](https://github.com/topics/Singularity-sc-dataset) | [#Slash-sc-dataset](https://github.com/topics/Slash-sc-dataset) | [#Smali-sc-dataset](https://github.com/topics/Smali-sc-dataset) | [#Smalltalk-sc-dataset](https://github.com/topics/Smalltalk-sc-dataset) | [#Smarty-sc-dataset](https://github.com/topics/Smarty-sc-dataset) | [#SMT-sc-dataset](https://github.com/topics/SMT-sc-dataset) | [#Solidity-sc-dataset](https://github.com/topics/Solidity-sc-dataset) | [#SQF-sc-dataset](https://github.com/topics/SQF-sc-dataset) | [#SQL-sc-dataset](https://github.com/topics/SQL-sc-dataset) | [#SQLPL-sc-dataset](https://github.com/topics/SQLPL-sc-dataset) | [#Squirrel-sc-dataset](https://github.com/topics/Squirrel-sc-dataset) |
+| [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) |
 
 </details> <!-- AI2001 Source Code tags section = END !-->
 
@@ -4047,6 +4048,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Squirrel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Squirrel/)
 
+#### SC: Stan
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Stan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Stan/)
+
+#### SC: StandardML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: StandardML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-StandardML/)
+
 #### SC: Svelte
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Svelte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Svelte/)
@@ -4539,6 +4548,11 @@ Currently empty
 
 <img src="/Graphics/Common/Community/PNG/CommunityIcon1.png" width="200" height="200" alt="Community icon failed to load" title="Unity Makes Strength, Community builds power" align="left" style="margin-right: 30px">
 
+| This section is currently affected by a Markdown formatting bug |
+|-----------------------------------------------------------------|
+
+- [#2](https://github.com/seanpm2001/AI2001/issues/2)
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the community section]</b></p></summary>
 
 See: [:octocat: `Awesome AI2001`](https://github.com/seanpm2001/Awesome-AI2001/)
@@ -4588,6 +4602,11 @@ This section is a work in progress.
 ## [Technical](#Technical)
 
 <img src="/Graphics/Common/Technical/PNG/TechnicalIcon1.png" width="200" height="200" alt="Technical icon failed to load" title="Technical logo" align="left" style="margin-right: 30px">
+
+| This section is currently affected by a Markdown formatting bug |
+|-----------------------------------------------------------------|
+
+- [#2](https://github.com/seanpm2001/AI2001/issues/2)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the technical section]</b></p></summary>
 
@@ -4738,6 +4757,12 @@ AI2001 is licensed under the GNU General Public License (version 3)
 <img src="/Graphics/Common/Sandbox/PNG/Sandbox512px.png" width="200" height="200" alt="Sandbox icon failed to load" title="The sandbox is a place to gather notes to be moved to https://github.com/seanpm2001/AI2001_Docs/" align="left" style="margin-right: 30px">
 
 _A place for gathering notes to eventually be moved to documentation._
+
+| This section is currently affected by a Markdown formatting bug |
+|-----------------------------------------------------------------|
+
+- [#2](https://github.com/seanpm2001/AI2001/issues/2)
+- I have a feeling the bug is in this section
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Sandbox section]</b></p></summary>
 
@@ -5592,12 +5617,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `167 (2023, Thursday, November 23rd at 07:28 pm PST)`
-- **Line count (including blank lines and compiler line):** `7,865`
-- **Word count:** `40,703`
-- **Character count (including spaces):** `299,296`
-- **Character count (excluding spaces):** `265,427`
-- **Size (in bytes):** `299,435`
+- **File version:** `168 (2023, Friday, November 24th at 06:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `7,927`
+- **Word count:** `41,080`
+- **Character count (including spaces):** `302,032`
+- **Character count (excluding spaces):** `267,784`
+- **Size (in bytes):** `302,171`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7829,6 +7854,43 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 167
 
 </details> <!-- V167 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 168 (2023, Friday, November 24th at 06:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V168.md)
+
+> **Note** _Attempeed to fix a bug, but making no progress (instead, I decided to address the bug with a message in the 3 affected sections) and making a daily update. Continuing for a third consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Stan` subsection
+- - - [x] Added the `AI2001 Category: Source Code: StandardML` subsection
+- [x] Updated the `Community` section
+- - [x] Addressed an ongoing formatting bug (I feel issues should be raised for every issue, even the smallest ones)
+- [x] Updated the `Technical` section
+- - [x] Addressed an ongoing formatting bug (I feel issues should be raised for every issue, even the smallest ones)
+- [x] Updated the `Sandbox` section
+- - [x] Addressed an ongoing formatting bug (I feel issues should be raised for every issue, even the smallest ones)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 168
+- [ ] No other changes in version 168
+
+</details> <!-- V168 !-->
 
 ---
 

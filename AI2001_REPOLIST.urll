@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 540 total repository links (as of 2023, Friday, November 24th at 06:12 pm PST), Version 168.
+//// 542 total repository links (as of 2023, Saturday, November 25th at 07:12 pm PST), Version 169.
 
-//// GitHub (540)
+//// GitHub (542)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -545,12 +545,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQLPL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Squirrel
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Stan
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-StandardML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-STAR
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Starlark
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 168 (2023, Friday, November 24th at 06:12 pm PST)
-//// Line count (including blank lines and compiler line): 557
+//// File version: 169 (2023, Saturday, November 25th at 07:12 pm PST)
+//// Line count (including blank lines and compiler line): 559
 
 //// End of file (EOF)

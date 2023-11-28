@@ -95,7 +95,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Protocol-Buffer-sc-dataset](https://github.com/topics/Protocol-Buffer-sc-dataset) | [#Pug-sc-dataset](https://github.com/topics/Pug-sc-dataset) | [#Puppet-sc-dataset](https://github.com/topics/Puppet-sc-dataset) | [#PureData-sc-dataset](https://github.com/topics/PureData-sc-dataset) | [#PureScript-sc-dataset](https://github.com/topics/PureScript-sc-dataset) | [#Pawn-sc-dataset](https://github.com/topics/Pawn-sc-dataset) | [#Perl6-sc-dataset](https://github.com/topics/Perl6-sc-dataset) | [#PicoLisp-sc-dataset](https://github.com/topics/PicoLisp-sc-dataset) | [#PigLatin-sc-dataset](https://github.com/topics/PigLatin-sc-dataset) | [#Qt-Script-sc-dataset](https://github.com/topics/Qt-Script-sc-dataset) | [#QueryByExample-sc-dataset](https://github.com/topics/QueryByExample-sc-dataset) |
 | [#RAML-sc-dataset](https://github.com/topics/RAML-sc-dataset) | [#RDoc-sc-dataset](https://github.com/topics/RDoc-sc-dataset) | [#ReasonML-sc-dataset](https://github.com/topics/ReasonML-sc-dataset) | [#REBOL-sc-dataset](https://github.com/topics/REBOL-sc-dataset) | [#RenderScript-sc-dataset](https://github.com/topics/RenderScript-sc-dataset) | [#RPC-sc-dataset](https://github.com/topics/RPC-sc-dataset) | [#RPGLE-sc-dataset](https://github.com/topics/RPGLE-sc-dataset) | [#Ruby-sc-dataset](https://github.com/topics/Ruby-sc-dataset) | [#RUNOFF-sc-dataset](https://github.com/topics/RUNOFF-sc-dataset) | [#SaltStack-sc-dataset](https://github.com/topics/SaltStack-sc-dataset) | [#SAS-sc-dataset](https://github.com/topics/SAS-sc-dataset) | [#SASS-sc-dataset](https://github.com/topics/SASS-sc-dataset) | [#SciLab-sc-dataset](https://github.com/topics/SciLab-sc-dataset) |
 | [#SCSS-sc-dataset](https://github.com/topics/SCSS-sc-dataset) | [#Sed-sc-dataset](https://github.com/topics/Sed-sc-dataset) | [#Singularity-sc-dataset](https://github.com/topics/Singularity-sc-dataset) | [#Slash-sc-dataset](https://github.com/topics/Slash-sc-dataset) | [#Smali-sc-dataset](https://github.com/topics/Smali-sc-dataset) | [#Smalltalk-sc-dataset](https://github.com/topics/Smalltalk-sc-dataset) | [#Smarty-sc-dataset](https://github.com/topics/Smarty-sc-dataset) | [#SMT-sc-dataset](https://github.com/topics/SMT-sc-dataset) | [#Solidity-sc-dataset](https://github.com/topics/Solidity-sc-dataset) | [#SQF-sc-dataset](https://github.com/topics/SQF-sc-dataset) | [#SQL-sc-dataset](https://github.com/topics/SQL-sc-dataset) | [#SQLPL-sc-dataset](https://github.com/topics/SQLPL-sc-dataset) | [#Squirrel-sc-dataset](https://github.com/topics/Squirrel-sc-dataset) |
-| [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) |
+| [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) |
 
 <!-- Keep each line below 1000 characters each to prevent lag and rendering issues !-->
 
@@ -4080,6 +4080,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: StringTemplate`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-StringTemplate/)
 
+#### SC: Stylus
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Stylus`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Stylus/)
+
+#### SC: SugarSS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SugarSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SugarSS/)
+
 #### SC: Svelte
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Svelte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Svelte/)
@@ -5641,12 +5649,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `170 (2023, Sunday, November 26th at 09:15 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,013`
-- **Word count:** `41,552`
-- **Character count (including spaces):** `305,321`
-- **Character count (excluding spaces):** `270,605`
-- **Size (in bytes):** `305,460`
+- **File version:** `171 (2023, Monday, November 27th at 08:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,052`
+- **Word count:** `41,786`
+- **Character count (including spaces):** `306,921`
+- **Character count (excluding spaces):** `271,978`
+- **Size (in bytes):** `307,060`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7977,6 +7985,37 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 170
 
 </details> <!-- V170 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 171 (2023, Monday, November 27th at 08:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V171.md)
+
+> **Note** _Just a normal daily update, with no attempts to fix the formatting bug, as I didn't have the time again today. Continuing for a sixth consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Stylus` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SugarSS` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 171
+- [ ] No other changes in version 171
+
+</details> <!-- V171 !-->
 
 ---
 

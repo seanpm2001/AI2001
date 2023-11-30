@@ -95,7 +95,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Protocol-Buffer-sc-dataset](https://github.com/topics/Protocol-Buffer-sc-dataset) | [#Pug-sc-dataset](https://github.com/topics/Pug-sc-dataset) | [#Puppet-sc-dataset](https://github.com/topics/Puppet-sc-dataset) | [#PureData-sc-dataset](https://github.com/topics/PureData-sc-dataset) | [#PureScript-sc-dataset](https://github.com/topics/PureScript-sc-dataset) | [#Pawn-sc-dataset](https://github.com/topics/Pawn-sc-dataset) | [#Perl6-sc-dataset](https://github.com/topics/Perl6-sc-dataset) | [#PicoLisp-sc-dataset](https://github.com/topics/PicoLisp-sc-dataset) | [#PigLatin-sc-dataset](https://github.com/topics/PigLatin-sc-dataset) | [#Qt-Script-sc-dataset](https://github.com/topics/Qt-Script-sc-dataset) | [#QueryByExample-sc-dataset](https://github.com/topics/QueryByExample-sc-dataset) |
 | [#RAML-sc-dataset](https://github.com/topics/RAML-sc-dataset) | [#RDoc-sc-dataset](https://github.com/topics/RDoc-sc-dataset) | [#ReasonML-sc-dataset](https://github.com/topics/ReasonML-sc-dataset) | [#REBOL-sc-dataset](https://github.com/topics/REBOL-sc-dataset) | [#RenderScript-sc-dataset](https://github.com/topics/RenderScript-sc-dataset) | [#RPC-sc-dataset](https://github.com/topics/RPC-sc-dataset) | [#RPGLE-sc-dataset](https://github.com/topics/RPGLE-sc-dataset) | [#Ruby-sc-dataset](https://github.com/topics/Ruby-sc-dataset) | [#RUNOFF-sc-dataset](https://github.com/topics/RUNOFF-sc-dataset) | [#SaltStack-sc-dataset](https://github.com/topics/SaltStack-sc-dataset) | [#SAS-sc-dataset](https://github.com/topics/SAS-sc-dataset) | [#SASS-sc-dataset](https://github.com/topics/SASS-sc-dataset) | [#SciLab-sc-dataset](https://github.com/topics/SciLab-sc-dataset) |
 | [#SCSS-sc-dataset](https://github.com/topics/SCSS-sc-dataset) | [#Sed-sc-dataset](https://github.com/topics/Sed-sc-dataset) | [#Singularity-sc-dataset](https://github.com/topics/Singularity-sc-dataset) | [#Slash-sc-dataset](https://github.com/topics/Slash-sc-dataset) | [#Smali-sc-dataset](https://github.com/topics/Smali-sc-dataset) | [#Smalltalk-sc-dataset](https://github.com/topics/Smalltalk-sc-dataset) | [#Smarty-sc-dataset](https://github.com/topics/Smarty-sc-dataset) | [#SMT-sc-dataset](https://github.com/topics/SMT-sc-dataset) | [#Solidity-sc-dataset](https://github.com/topics/Solidity-sc-dataset) | [#SQF-sc-dataset](https://github.com/topics/SQF-sc-dataset) | [#SQL-sc-dataset](https://github.com/topics/SQL-sc-dataset) | [#SQLPL-sc-dataset](https://github.com/topics/SQLPL-sc-dataset) | [#Squirrel-sc-dataset](https://github.com/topics/Squirrel-sc-dataset) |
-| [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) | [#SuperCollider-sc-dataset](https://github.com/topics/SuperCollider-sc-dataset) | [#SVG-sc-dataset](https://github.com/topics/SVG-sc-dataset) |
+| [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) | [#SuperCollider-sc-dataset](https://github.com/topics/SuperCollider-sc-dataset) | [#SVG-sc-dataset](https://github.com/topics/SVG-sc-dataset) | [#Sweave-sc-dataset](https://github.com/topics/Sweave-sc-dataset) | [#Swift-sc-dataset](https://github.com/topics/Swift-sc-dataset) |
 
 <!-- Keep each line below 1000 characters each to prevent lag and rendering issues !-->
 
@@ -155,7 +155,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Tuesday, November 28th at 07:15 pm PST)`
+**As of:** `2023, Wednesday, November 29th at 05:10 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -165,10 +165,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `383` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `385` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `535` _dataset repositories_ | **As of:** `2023.11.28@19:15PST` |
+| **Overall total:** | `537` _dataset repositories_ | **As of:** `2023.11.29@17:10PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -4100,6 +4100,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: SVG`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SVG/)
 
+#### SC: Sweave
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Sweave`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sweave/)
+
+#### SC: Swift
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Swift`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Swift/)
+
 </details> <!-- SourceCode.SectionS = END !-->
 
 ---
@@ -5657,12 +5665,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `172 (2023, Tuesday, November 28th at 07:15 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,091`
-- **Word count:** `42,020`
-- **Character count (including spaces):** `308,542`
-- **Character count (excluding spaces):** `273,372`
-- **Size (in bytes):** `308,681`
+- **File version:** `173 (2023, Wednesday, November 29th at 05:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,130`
+- **Word count:** `42,258`
+- **Character count (including spaces):** `310,156`
+- **Character count (excluding spaces):** `274,755`
+- **Size (in bytes):** `310,295`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8055,6 +8063,37 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 172
 
 </details> <!-- V172 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 173 (2023, Wednesday, November 29th at 05:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V172.md)
+
+> **Note** _Just a normal daily update, with no attempts to fix the formatting bug, as I didn't have the time again today, or feel like it. Continuing for an eighth consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Sweave` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Swift` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 173
+- [ ] No other changes in version 173
+
+</details> <!-- V173 !-->
 
 ---
 

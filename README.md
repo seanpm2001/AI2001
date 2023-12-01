@@ -97,7 +97,9 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#SCSS-sc-dataset](https://github.com/topics/SCSS-sc-dataset) | [#Sed-sc-dataset](https://github.com/topics/Sed-sc-dataset) | [#Singularity-sc-dataset](https://github.com/topics/Singularity-sc-dataset) | [#Slash-sc-dataset](https://github.com/topics/Slash-sc-dataset) | [#Smali-sc-dataset](https://github.com/topics/Smali-sc-dataset) | [#Smalltalk-sc-dataset](https://github.com/topics/Smalltalk-sc-dataset) | [#Smarty-sc-dataset](https://github.com/topics/Smarty-sc-dataset) | [#SMT-sc-dataset](https://github.com/topics/SMT-sc-dataset) | [#Solidity-sc-dataset](https://github.com/topics/Solidity-sc-dataset) | [#SQF-sc-dataset](https://github.com/topics/SQF-sc-dataset) | [#SQL-sc-dataset](https://github.com/topics/SQL-sc-dataset) | [#SQLPL-sc-dataset](https://github.com/topics/SQLPL-sc-dataset) | [#Squirrel-sc-dataset](https://github.com/topics/Squirrel-sc-dataset) |
 | [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) | [#SuperCollider-sc-dataset](https://github.com/topics/SuperCollider-sc-dataset) | [#SVG-sc-dataset](https://github.com/topics/SVG-sc-dataset) | [#Sweave-sc-dataset](https://github.com/topics/Sweave-sc-dataset) | [#Swift-sc-dataset](https://github.com/topics/Swift-sc-dataset) |
 
-<!-- Keep each line below 1000 characters each to prevent lag and rendering issues !-->
+[#SWIG-sc-dataset](https://github.com/topics/SWIG-sc-dataset) | [#SystemVerilog-sc-dataset](https://github.com/topics/SystemVerilog-sc-dataset) |
+
+<!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
 </details> <!-- AI2001 Source Code tags section = END !-->
 
@@ -155,7 +157,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Wednesday, November 29th at 05:10 pm PST)`
+**As of:** `2023, Thursday, November 30th at 07:27 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -165,10 +167,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `385` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `387` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `537` _dataset repositories_ | **As of:** `2023.11.29@17:10PST` |
+| **Overall total:** | `539` _dataset repositories_ | **As of:** `2023.11.30@19:27PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -4108,6 +4110,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Swift`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Swift/)
 
+#### SC: SWIG
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SWIG`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SWIG/)
+
+#### SC: SystemVerilog
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SystemVerilog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SystemVerilog/)
+
 </details> <!-- SourceCode.SectionS = END !-->
 
 ---
@@ -5665,12 +5675,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `173 (2023, Wednesday, November 29th at 05:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,130`
-- **Word count:** `42,258`
-- **Character count (including spaces):** `310,156`
-- **Character count (excluding spaces):** `274,755`
-- **Size (in bytes):** `310,295`
+- **File version:** `173 (2023, Thursday, November 30th at 07:27 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,171`
+- **Word count:** `42,505`
+- **Character count (including spaces):** `311,857`
+- **Character count (excluding spaces):** `276,215`
+- **Size (in bytes):** `311,996`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8094,6 +8104,37 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 173
 
 </details> <!-- V173 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 174 (2023, Thursday, November 30th at 07:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V172.md)
+
+> **Note** _Just a normal daily update, with no attempts to fix the formatting bug, as I didn't have the time again today, or feel like it. Continuing for a ninth consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: SWIG` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SystemVerilog` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 174
+- [ ] No other changes in version 174
+
+</details> <!-- V174 !-->
 
 ---
 

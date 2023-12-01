@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 550 total repository links (as of 2023, Wednesday, November 29th at 05:12 pm PST), Version 173.
+//// 552 total repository links (as of 2023, Thursday, November 30th at 07:30 pm PST), Version 174.
 
-//// GitHub (550)
+//// GitHub (552)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -555,12 +555,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SuperCollider
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SVG
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sweave
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Swift
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SWIG
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SystemVerilog
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 173 (2023, Wednesday, November 29th at 05:12 pm PST)
-//// Line count (including blank lines and compiler line): 567
+//// File version: 174 (2023, Thursday, November 30th at 07:30 pm PST)
+//// Line count (including blank lines and compiler line): 569
 
 //// End of file (EOF)

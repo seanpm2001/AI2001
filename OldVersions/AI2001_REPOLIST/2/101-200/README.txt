@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 552 total repository links (as of 2023, Thursday, November 30th at 07:30 pm PST), Version 174.
+//// 578 total repository links (as of 2023, Wednesday, December 13th at 06:02 pm PST), Version 175.
 
-//// GitHub (552)
+//// GitHub (578)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -557,12 +557,38 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sweave
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Swift
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SWIG
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SystemVerilog
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Terra
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Textile
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Thrift
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TLA
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Twig
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TXL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Unity3DAsset
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-UNIX-Assembly
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBA
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VCL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verilog
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verilog-AMS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verona
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Snippet
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vue
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vue.js
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WaveFront-Material
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WaveFront-Object
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebIDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebVTT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WikiText
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XBase
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XProc
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 174 (2023, Thursday, November 30th at 07:30 pm PST)
-//// Line count (including blank lines and compiler line): 569
+//// File version: 175 (2023, Wednesday, December 13th at 06:02 pm PST)
+//// Line count (including blank lines and compiler line): 595
 
 //// End of file (EOF)

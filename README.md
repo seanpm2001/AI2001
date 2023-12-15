@@ -98,7 +98,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) | [#SuperCollider-sc-dataset](https://github.com/topics/SuperCollider-sc-dataset) | [#SVG-sc-dataset](https://github.com/topics/SVG-sc-dataset) | [#Sweave-sc-dataset](https://github.com/topics/Sweave-sc-dataset) | [#Swift-sc-dataset](https://github.com/topics/Swift-sc-dataset) |
 | [#SWIG-sc-dataset](https://github.com/topics/SWIG-sc-dataset) | [#SystemVerilog-sc-dataset](https://github.com/topics/SystemVerilog-sc-dataset) | [#Terra-sc-dataset](https://github.com/topics/Terra-sc-dataset) | [#Textile-sc-dataset](https://github.com/topics/Textile-sc-dataset) | [#Thrift-sc-dataset](https://github.com/topics/Thrift-sc-dataset) | [#TLA-sc-dataset](https://github.com/topics/TLA-sc-dataset) | [#TSQL-sc-dataset](https://github.com/topics/TSQL-sc-dataset) | [#Twig-sc-dataset](https://github.com/topics/Twig-sc-dataset) | [#TXL-sc-dataset](https://github.com/topics/TXL-sc-dataset) | [#Unity3DAsset-sc-dataset](https://github.com/topics/Unity3dAsset-sc-dataset) | [#UNIX-Assembly-sc-dataset](https://github.com/topics/UNIX-Assembly-sc-dataset) | [#VBA-sc-dataset](https://github.com/topics/VBA-sc-dataset) | [#VCL-sc-dataset](https://github.com/topics/VCL-sc-dataset) | 
 | [#Verilog-sc-dataset](https://github.com/topics/Verilog-sc-dataset) | [#Verilog-AMS-sc-dataset](https://github.com/topics/Verilog-AMS-sc-dataset) | [#Verona-sc-dataset](https://github.com/topics/Verona-sc-dataset) | [#Vim-Script-sc-dataset](https://github.com/topics/Vim-Script-sc-dataset) | [#Vim-Snippet-sc-dataset](https://github.com/topics/Vim-Snippet-sc-dataset) | [#Vue-sc-dataset](https://github.com/topics/Vue-sc-dataset) | [#VueJS-sc-dataset](https://github.com/topics/VueJS-sc-dataset) | [#WaveFront-Material-sc-dataset](https://github.com/topics/WaveFront-Material-sc-dataset) | [#WaveFront-Object-sc-dataset](https://github.com/topics/WaveFront-Object-sc-dataset) | [#WDL-sc-dataset](https://github.com/topics/WDL-sc-dataset) | [#WebIDL-sc-dataset](https://github.com/topics/WebIDL-sc-dataset) | [#WebVTT-sc-dataset](https://github.com/topics/WebVTT-sc-dataset) | 
-| [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | 
+| [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | [#XQuery-sc-dataset](https://github.com/topics/XQuery-sc-dataset) | [#XS-sc-dataset](https://github.com/topics/XS-sc-dataset) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -4327,6 +4327,14 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: XProc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XProc/)
 
+#### SC: XQuery
+
+- [:octocat: `AI2001 Category: Source Code ;SC: XQuery`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XQuery/)
+
+#### SC: XS
+
+- [:octocat: `AI2001 Category: Source Code ;SC: XS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XS/)
+
 #### SC: XTend
 
 - [:octocat: `AI2001 Category: Source Code ;SC: XTend`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XTend/)
@@ -4716,7 +4724,7 @@ Currently empty
 
 - [#2](https://github.com/seanpm2001/AI2001/issues/2)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse the community section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse the community section]</b></p></summary>
 
 See: [:octocat: `Awesome AI2001`](https://github.com/seanpm2001/Awesome-AI2001/)
 
@@ -4759,6 +4767,14 @@ This section is a work in progress.
 ---
 
 </details> <!-- Community = END !-->
+
+***
+
+A
+
+***
+
+B
 
 ***
 
@@ -5780,12 +5796,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `175 (2023, Wednesday, December 13th at 06:00 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,331`
-- **Word count:** `43,683`
-- **Character count (including spaces):** `320,378`
-- **Character count (excluding spaces):** `283,852`
-- **Size (in bytes):** `320,517`
+- **File version:** `176 (2023, Thursday, December 14th at 11:32 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,378`
+- **Word count:** `43,934`
+- **Character count (including spaces):** `322,026`
+- **Character count (excluding spaces):** `285,521`
+- **Size (in bytes):** `322,165`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8295,6 +8311,37 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 175
 
 </details> <!-- V175 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 176 (2023, Thursday, December 14th at 11:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V176.md)
+
+> **Note** _Just a normal daily update, with some attempts to fix the formatting bug, but still no progress. I feel part of it was on GitHubs end, as it isn't as bad as it was 2 weeks ago. Continuing for a second consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: XQuery` subsection
+- - - [x] Added the `AI2001 Category: Source Code: XS` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 176
+- [ ] No other changes in version 176
+
+</details> <!-- V176 !-->
 
 ---
 

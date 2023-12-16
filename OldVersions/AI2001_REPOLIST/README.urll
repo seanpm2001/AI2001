@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 580 total repository links (as of 2023, Thursday, December 14th at 11:35 pm PST), Version 176.
+//// 582 total repository links (as of 2023, Friday, December 15th at 10:46 pm PST), Version 177.
 
-//// GitHub (580)
+//// GitHub (582)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -585,12 +585,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XBase
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XProc
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XQuery
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XSLT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YARA
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 176 (2023, Thursday, December 14th at 11:35 pm PST)
-//// Line count (including blank lines and compiler line): 597
+//// File version: 177 (2023, Friday, December 15th at 10:46 pm PST)
+//// Line count (including blank lines and compiler line): 599
 
 //// End of file (EOF)

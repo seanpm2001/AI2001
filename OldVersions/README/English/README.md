@@ -98,7 +98,8 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Stan-sc-dataset](https://github.com/topics/Stan-sc-dataset) | [#StandardML-sc-dataset](https://github.com/topics/StandardML-sc-dataset) | [#STAR-sc-dataset](https://github.com/topics/STAR-sc-dataset) | [#Starlark-sc-dataset](https://github.com/topics/Starlark-sc-dataset) | [#Stata-sc-dataset](https://github.com/topics/Stata-sc-dataset) | [#StringTemplate-sc-dataset](https://github.com/topics/StringTemplate-sc-dataset) | [#Stylus-sc-dataset](https://github.com/topics/Stylus-sc-dataset) | [#SugarSS-sc-dataset](https://github.com/topics/SugarSS-sc-dataset) | [#SuperCollider-sc-dataset](https://github.com/topics/SuperCollider-sc-dataset) | [#SVG-sc-dataset](https://github.com/topics/SVG-sc-dataset) | [#Sweave-sc-dataset](https://github.com/topics/Sweave-sc-dataset) | [#Swift-sc-dataset](https://github.com/topics/Swift-sc-dataset) |
 | [#SWIG-sc-dataset](https://github.com/topics/SWIG-sc-dataset) | [#SystemVerilog-sc-dataset](https://github.com/topics/SystemVerilog-sc-dataset) | [#Terra-sc-dataset](https://github.com/topics/Terra-sc-dataset) | [#Textile-sc-dataset](https://github.com/topics/Textile-sc-dataset) | [#Thrift-sc-dataset](https://github.com/topics/Thrift-sc-dataset) | [#TLA-sc-dataset](https://github.com/topics/TLA-sc-dataset) | [#TSQL-sc-dataset](https://github.com/topics/TSQL-sc-dataset) | [#Twig-sc-dataset](https://github.com/topics/Twig-sc-dataset) | [#TXL-sc-dataset](https://github.com/topics/TXL-sc-dataset) | [#Unity3DAsset-sc-dataset](https://github.com/topics/Unity3dAsset-sc-dataset) | [#UNIX-Assembly-sc-dataset](https://github.com/topics/UNIX-Assembly-sc-dataset) | [#VBA-sc-dataset](https://github.com/topics/VBA-sc-dataset) | [#VCL-sc-dataset](https://github.com/topics/VCL-sc-dataset) | 
 | [#Verilog-sc-dataset](https://github.com/topics/Verilog-sc-dataset) | [#Verilog-AMS-sc-dataset](https://github.com/topics/Verilog-AMS-sc-dataset) | [#Verona-sc-dataset](https://github.com/topics/Verona-sc-dataset) | [#Vim-Script-sc-dataset](https://github.com/topics/Vim-Script-sc-dataset) | [#Vim-Snippet-sc-dataset](https://github.com/topics/Vim-Snippet-sc-dataset) | [#Vue-sc-dataset](https://github.com/topics/Vue-sc-dataset) | [#VueJS-sc-dataset](https://github.com/topics/VueJS-sc-dataset) | [#WaveFront-Material-sc-dataset](https://github.com/topics/WaveFront-Material-sc-dataset) | [#WaveFront-Object-sc-dataset](https://github.com/topics/WaveFront-Object-sc-dataset) | [#WDL-sc-dataset](https://github.com/topics/WDL-sc-dataset) | [#WebIDL-sc-dataset](https://github.com/topics/WebIDL-sc-dataset) | [#WebVTT-sc-dataset](https://github.com/topics/WebVTT-sc-dataset) | 
-| [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | [#XQuery-sc-dataset](https://github.com/topics/XQuery-sc-dataset) | [#XS-sc-dataset](https://github.com/topics/XS-sc-dataset) | [#XSLT-sc-dataset](https://github.com/topics/XSLT-sc-dataset) | [#YARA-sc-dataset](https://github.com/topics/YARA-sc-dataset) | [#Tampio-sc-dataset](https://github.com/topics/Tampio-sc-dataset) | [#FuzzyMarkupLanguage-sc-dataset](https://github.com/topics/FuzzyMarkupLanguage-sc-dataset) | [#Cairo-sc-dataset](https://github.com/topics/Cairo-sc-dataset) | [#Plankalk-u-l-sc-dataset](https://github.com/topics/Plankalk-ul-sc-dataset) |
+| [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | [#XQuery-sc-dataset](https://github.com/topics/XQuery-sc-dataset) | [#XS-sc-dataset](https://github.com/topics/XS-sc-dataset) | [#XSLT-sc-dataset](https://github.com/topics/XSLT-sc-dataset) | [#YARA-sc-dataset](https://github.com/topics/YARA-sc-dataset) | [#Tampio-sc-dataset](https://github.com/topics/Tampio-sc-dataset) | [#FuzzyMarkupLanguage-sc-dataset](https://github.com/topics/FuzzyMarkupLanguage-sc-dataset) | [#Cairo-sc-dataset](https://github.com/topics/Cairo-sc-dataset) | [#Plankalk-u-l-sc-dataset](https://github.com/topics/Plankalk-ul-sc-dataset) | [#Whitespace-sc-dataset](https://github.com/topics/Whitespace-sc-dataset) |
+| [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -158,7 +159,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Sunday, December 17th at 11:23 pm PST)`
+**As of:** `2023, Monday, December 18th at 11:37 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -168,10 +169,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `421` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `423` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `573` _dataset repositories_ | **As of:** `2023.12.17@23:23PST` |
+| **Overall total:** | `575` _dataset repositories_ | **As of:** `2023.12.18@23:37PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -4312,9 +4313,17 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: WebVTT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebVTT/)
 
+#### SC: Whitespace
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Whitespace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Whitespace/)
+
 #### SC: WikiText
 
 - [:octocat: `AI2001 Category: Source Code ;SC: WikiText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WikiText/)
+
+#### SC: Wisp
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Wisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wisp/)
 
 #### SC: Windows Registry Entry
 
@@ -5821,12 +5830,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `179 (2023, Sunday, December 17th at 11:23 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,496`
-- **Word count:** `44,637`
-- **Character count (including spaces):** `326,859`
-- **Character count (excluding spaces):** `289,404`
-- **Size (in bytes):** `327,001`
+- **File version:** `180 (2023, Monday, December 18th at 11:37 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,536`
+- **Word count:** `44,862`
+- **Character count (including spaces):** `328,428`
+- **Character count (excluding spaces):** `290,753`
+- **Size (in bytes):** `328,570`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8460,6 +8469,37 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 179
 
 </details> <!-- V179 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 180 (2023, Monday, December 18th at 11:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V180.md)
+
+> **Note** _Just a normal daily update, with no attempts to fix the formatting bug. Continuing for a sixth consective day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Whitespace` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Wisp` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 180
+- [ ] No other changes in version 180
+
+</details> <!-- V180 !-->
 
 ---
 

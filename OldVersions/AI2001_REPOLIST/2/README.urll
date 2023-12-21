@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 588 total repository links (as of 2023, Monday, December 18th at 11:39 pm PST), Version 180.
+//// 592 total repository links (as of 2023, Wednesday, December 20th at 11:02 pm PST), Version 181.
 
-//// GitHub (588)
+//// GitHub (592)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -593,12 +593,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cairo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Plankalk-u-l
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Whitespace
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wisp
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XBasePlusPlus
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SmPL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GolfScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BennuGD
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 180 (2023, Monday, December 18th at 11:39 pm PST)
-//// Line count (including blank lines and compiler line): 605
+//// File version: 181 (2023, Wednesday, December 20th at 11:02 pm PST)
+//// Line count (including blank lines and compiler line): 609
 
 //// End of file (EOF)

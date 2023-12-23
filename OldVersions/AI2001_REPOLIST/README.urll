@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 594 total repository links (as of 2023, Thursday, December 21st at 04:23 pm PST), Version 182.
+//// 596 total repository links (as of 2023, Friday, December 22nd at 05:26 pm PST), Version 183.
 
-//// GitHub (594)
+//// GitHub (596)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -599,12 +599,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GolfScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BennuGD
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mojo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Triton
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MQL4
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MQL5
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 182 (2023, Thursday, December 21st at 04:23 pm PST)
-//// Line count (including blank lines and compiler line): 611
+//// File version: 183 (2023, Friday, December 22nd at 05:26 pm PST)
+//// Line count (including blank lines and compiler line): 613
 
 //// End of file (EOF)

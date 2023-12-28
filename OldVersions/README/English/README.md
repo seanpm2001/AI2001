@@ -99,7 +99,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#SWIG-sc-dataset](https://github.com/topics/SWIG-sc-dataset) | [#SystemVerilog-sc-dataset](https://github.com/topics/SystemVerilog-sc-dataset) | [#Terra-sc-dataset](https://github.com/topics/Terra-sc-dataset) | [#Textile-sc-dataset](https://github.com/topics/Textile-sc-dataset) | [#Thrift-sc-dataset](https://github.com/topics/Thrift-sc-dataset) | [#TLA-sc-dataset](https://github.com/topics/TLA-sc-dataset) | [#TSQL-sc-dataset](https://github.com/topics/TSQL-sc-dataset) | [#Twig-sc-dataset](https://github.com/topics/Twig-sc-dataset) | [#TXL-sc-dataset](https://github.com/topics/TXL-sc-dataset) | [#Unity3DAsset-sc-dataset](https://github.com/topics/Unity3dAsset-sc-dataset) | [#UNIX-Assembly-sc-dataset](https://github.com/topics/UNIX-Assembly-sc-dataset) | [#VBA-sc-dataset](https://github.com/topics/VBA-sc-dataset) | [#VCL-sc-dataset](https://github.com/topics/VCL-sc-dataset) | 
 | [#Verilog-sc-dataset](https://github.com/topics/Verilog-sc-dataset) | [#Verilog-AMS-sc-dataset](https://github.com/topics/Verilog-AMS-sc-dataset) | [#Verona-sc-dataset](https://github.com/topics/Verona-sc-dataset) | [#Vim-Script-sc-dataset](https://github.com/topics/Vim-Script-sc-dataset) | [#Vim-Snippet-sc-dataset](https://github.com/topics/Vim-Snippet-sc-dataset) | [#Vue-sc-dataset](https://github.com/topics/Vue-sc-dataset) | [#VueJS-sc-dataset](https://github.com/topics/VueJS-sc-dataset) | [#WaveFront-Material-sc-dataset](https://github.com/topics/WaveFront-Material-sc-dataset) | [#WaveFront-Object-sc-dataset](https://github.com/topics/WaveFront-Object-sc-dataset) | [#WDL-sc-dataset](https://github.com/topics/WDL-sc-dataset) | [#WebIDL-sc-dataset](https://github.com/topics/WebIDL-sc-dataset) | [#WebVTT-sc-dataset](https://github.com/topics/WebVTT-sc-dataset) | 
 | [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | [#XQuery-sc-dataset](https://github.com/topics/XQuery-sc-dataset) | [#XS-sc-dataset](https://github.com/topics/XS-sc-dataset) | [#XSLT-sc-dataset](https://github.com/topics/XSLT-sc-dataset) | [#YARA-sc-dataset](https://github.com/topics/YARA-sc-dataset) | [#Tampio-sc-dataset](https://github.com/topics/Tampio-sc-dataset) | [#FuzzyMarkupLanguage-sc-dataset](https://github.com/topics/FuzzyMarkupLanguage-sc-dataset) | [#Cairo-sc-dataset](https://github.com/topics/Cairo-sc-dataset) | [#Plankalk-u-l-sc-dataset](https://github.com/topics/Plankalk-ul-sc-dataset) | [#Whitespace-sc-dataset](https://github.com/topics/Whitespace-sc-dataset) |
-| [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) | [#XBasePlusPlus-sc-dataset](https://github.com/topics/XBasePlusPlus-sc-dataset) |[#SmPL-sc-dataset](https://github.com/topics/SmPL-sc-dataset) | [#GolfScript-sc-dataset](https://github.com/topics/GolfScript-sc-dataset) | [#BennuGD-sc-dataset](https://github.com/topics/BennuGD-sc-dataset) | [#Triton-sc-dataset](https://github.com/topics/Triton-sc-dataset) | [#Mojo-sc-dataset](https://github.com/topics/Mojo-sc-dataset) | [#MQL4-sc-dataset](https://github.com/topics/MQL4-sc-dataset) | [#MQL5-sc-dataset](https://github.com/topics/MQL5-sc-dataset) | [#CWEB-sc-dataset](https://github.com/topics/CWEB-sc-dataset) | [#WEB-sc-dataset](https://github.com/topics/WEB-sc-dataset) | [#Turing-sc-dataset](https://github.com/topics/Turing-sc-dataset) | [#Noop-sc-dataset](https://github.com/topics/Noop-sc-dataset) |
+| [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) | [#XBasePlusPlus-sc-dataset](https://github.com/topics/XBasePlusPlus-sc-dataset) |[#SmPL-sc-dataset](https://github.com/topics/SmPL-sc-dataset) | [#GolfScript-sc-dataset](https://github.com/topics/GolfScript-sc-dataset) | [#BennuGD-sc-dataset](https://github.com/topics/BennuGD-sc-dataset) | [#Triton-sc-dataset](https://github.com/topics/Triton-sc-dataset) | [#Mojo-sc-dataset](https://github.com/topics/Mojo-sc-dataset) | [#MQL4-sc-dataset](https://github.com/topics/MQL4-sc-dataset) | [#MQL5-sc-dataset](https://github.com/topics/MQL5-sc-dataset) | [#CWEB-sc-dataset](https://github.com/topics/CWEB-sc-dataset) | [#WEB-sc-dataset](https://github.com/topics/WEB-sc-dataset) | [#Turing-sc-dataset](https://github.com/topics/Turing-sc-dataset) | [#Noop-sc-dataset](https://github.com/topics/Noop-sc-dataset) | [#CPL-sc-dataset](https://github.com/topics/CPL-sc-dataset) | [#Lobster-sc-dataset](https://github.com/topics/Lobster-sc-dataset) | [#FLOW-MATIC-sc-dataset](https://github.com/topics/FLOW-MATIC-sc-dataset) | [#ARITH-MATIC-sc-dataset](https://github.com/topics/ARITH-MATIC-sc-dataset) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -159,7 +159,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2023, Sunday, December 24th at 06:41 pm PST)`
+**As of:** `2023, Wednesday, December 27th at 06:40 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -169,10 +169,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `435` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `439` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `587` _dataset repositories_ | **As of:** `2023.12.23@19:20PST` |
+| **Overall total:** | `591` _dataset repositories_ | **As of:** `2023.12.27@18:40PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -2552,6 +2552,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AppleScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AppleScript/)
 
+#### SC: ARITH-MATIC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ARITH-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ARITH-MATIC/)
+
 #### SC: ASP
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ASP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP/)
@@ -2806,6 +2810,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Coq`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Coq/)
 
+#### SC: CPL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: CPL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CPL/)
+
 #### SC: Creole
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Creole`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Creole/)
@@ -3011,6 +3019,10 @@ Currently empty
 #### SC: FlooP
 
 - [:octocat: `AI2001 Category: Source Code ;SC: FlooP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FlooP/)
+
+#### SC: FLOW-MATIC
+
+- [:octocat: `AI2001 Category: Source Code ;SC: FLOW-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FLOW-MATIC/)
 
 #### SC: Fluent
 
@@ -3439,11 +3451,13 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: LLVM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LLVM/)
 
+#### SC: Lobster
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lobster`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lobster/)
+
 #### SC: Logcat
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Logcat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Logcat/)
-
-- [:octocat: `AI2001 Category: Source Code ;SC: LLVM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LLVM/)
 
 #### SC: LOLCODE
 
@@ -5878,12 +5892,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `185 (2023, Sunday, December 24th at 06:41 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,741`
-- **Word count:** `46,079`
-- **Character count (including spaces):** `336,836`
-- **Character count (excluding spaces):** `297,997`
-- **Size (in bytes):** `336,978`
+- **File version:** `186 (2023, Wednesday, December 27th at 06:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `8,789`
+- **Word count:** `46,391`
+- **Character count (including spaces):** `338,963`
+- **Character count (excluding spaces):** `299,842`
+- **Size (in bytes):** `339,105`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8705,6 +8719,40 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 185
 
 </details> <!-- V185 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 186 (2023, Wednesday, December 27th at 06:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V186.md)
+
+> **Note** _Just a normal daily update today after a day of no activity (no new datasets to add) and a day skipped. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for yesterdays 2 datasets
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: ARITH-MATIC` subsection
+- - - [x] Added the `AI2001 Category: Source Code: CPL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: FLOW-MATIC` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Lobster` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 186
+- [ ] No other changes in version 186
+
+</details> <!-- V186 !-->
 
 ---
 

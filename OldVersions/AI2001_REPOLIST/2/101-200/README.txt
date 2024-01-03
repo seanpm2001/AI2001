@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 608 total repository links (as of 2023, Friday, December 29th at 06:52 pm PST), Version 187.
+//// 617 total repository links (as of 2024, Tuesday, January 2nd at 08:04 pm PST), Version 188.
 
-//// GitHub (608)
+//// GitHub (617)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -613,12 +613,21 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Information-Process
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASM.JS
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POP-1
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Planner
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POP-2
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDX
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SCRIPT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Generalized-Markup-Language-GML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EasyScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-APL
+https://github.com/seanpm2001/AI2001_Category-Cartography
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CDS
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 187 (2023, Friday, December 28th at 06:52 pm PST)
-//// Line count (including blank lines and compiler line): 625
+//// File version: 188 (2024, Tuesday, January 2nd at 08:04 pm PST)
+//// Line count (including blank lines and compiler line): 634
 
 //// End of file (EOF)

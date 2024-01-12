@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 617 total repository links (as of 2024, Tuesday, January 2nd at 08:04 pm PST), Version 188.
+//// 633 total repository links (as of 2024, Thursday, January 11th at 09:33 pm PST), Version 189.
 
-//// GitHub (617)
+//// GitHub (633)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -622,12 +622,28 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-APL
 https://github.com/seanpm2001/AI2001_Category-Cartography
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CDS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SpeedCode
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDoublePrime
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SKILL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJSS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Arc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AdBlock-Filter-List
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mermaid
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Syriac
+https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mandinka
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hestia
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Visual-Basic-6
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EmberScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DenizenScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Marko
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASN.1
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 188 (2024, Tuesday, January 2nd at 08:04 pm PST)
-//// Line count (including blank lines and compiler line): 634
+//// File version: 189 (2024, Thursday, January 11th at 09:33 pm PST)
+//// Line count (including blank lines and compiler line): 650
 
 //// End of file (EOF)

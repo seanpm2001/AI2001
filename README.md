@@ -58,6 +58,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Swahili-sc-dataset](https://github.com/topics/Swahili-sc-dataset) | [#Sundanese-sc-dataset](https://github.com/topics/Sundanese-sc-dataset) | [#Esperanto-sc-dataset](https://github.com/topics/Esperanto-sc-dataset) | [#Walloon-sc-dataset](https://github.com/topics/Walloon-sc-dataset) | [#Luxembourgish-sc-dataset](https://github.com/topics/Luxembourgish-sc-dataset) | [#Armenian-sc-dataset](https://github.com/topics/Armenian-sc-dataset) | [#Frisian-sc-dataset](https://github.com/topics/Frisian-sc-dataset) | [#Bengali-sc-dataset](https://github.com/topics/Bengali-sc-dataset) | [#Indonesian-sc-dataset](https://github.com/topics/Indonesian-sc-dataset) | [#Marathi-sc-dataset](https://github.com/topics/Marathi-sc-dataset) | [#Tamil-sc-dataset](https://github.com/topics/Tamil-sc-dataset) | [#Vietnamese-sc-dataset](https://github.com/topics/Vietnamese-sc-dataset) |
 | [#Tagalog-sc-dataset](https://github.com/topics/Tagalog-sc-dataset) | [#Somali-sc-dataset](https://github.com/topics/Somali-sc-dataset) | [#Czech-sc-dataset](https://github.com/topics/Czech-sc-dataset) | [#Sami-sc-dataset](https://github.com/topics/Sami-sc-dataset) | [#Lushootseed-sc-dataset](https://github.com/topics/Lushootseed-sc-dataset) | [#Amharic-sc-dataset](https://github.com/topics/Amharic-sc-dataset) | [#Burmese-sc-dataset](https://github.com/topics/Burmese-sc-dataset) | [#Lingala-sc-dataset](https://github.com/topics/Lingala-sc-dataset) | [#Nepali-sc-dataset](https://github.com/topics/Nepali-sc-dataset) | [#Kashmiri-sc-dataset](https://github.com/topics/Kashmiri-sc-dataset) | [#Konkani-sc-dataset](https://github.com/topics/Konkani-sc-dataset) | [#Maithili-sc-dataset](https://github.com/topics/Maithili-sc-dataset) | [#Malayalam-sc-dataset](https://github.com/topics/Malayalam-sc-dataset) |
 | [#Hindustani-sc-dataset](https://github.com/topics/Hindustani-sc-dataset) | [#Meitei-sc-dataset](https://github.com/topics/Meitei-sc-dataset) | [#Santali-sc-dataset](https://github.com/topics/Santali-sc-dataset) | [#Fula-sc-dataset](https://github.com/topics/Fula-sc-dataset) | [#Wolof-sc-dataset](https://github.com/topics/Wolof-sc-dataset) | [#Bambara-sc-dataset](https://github.com/topics/Bambara-sc-dataset) | [#Cebuano-sc-dataset](https://github.com/topics/Cebuano-sc-dataset) | [#Tigrinya-sc-dataset](https://github.com/topics/Tigrinya-sc-dataset) | [#Slovenian-sc-dataset](https://github.com/topics/Slovenian-sc-dataset) | [#Sinhala-sc-dataset](https://github.com/topics/Sinhala-sc-dataset) | [#Bodo-sc-dataset](https://github.com/topics/Bodo-sc-dataset) | [#Dogri-sc-dataset](https://github.com/topics/Dogri-sc-dataset) | [#Serbian-sc-dataset](https://github.com/topics/Serbian-sc-dataset) | [#Croatian-sc-dataset](https://github.com/topics/Croatian-sc-dataset) |
+| [#Syriac-sc-dataset](https://github.com/topics/Syriac-SC-Dataset) | [#Mandinka-sc-dataset](https://github.com/topics/Mandinka-SC-Dataset) |
 
 </details> <!-- AI2001 Linguistics tags section = END !-->
 
@@ -101,7 +102,8 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#WikiText-sc-dataset](https://github.com/topics/WikiText-sc-dataset) | [#XBase-sc-dataset](https://github.com/topics/XBase-sc-dataset) | [#XProc-sc-dataset](https://github.com/topics/XProc-sc-dataset) | [#XQuery-sc-dataset](https://github.com/topics/XQuery-sc-dataset) | [#XS-sc-dataset](https://github.com/topics/XS-sc-dataset) | [#XSLT-sc-dataset](https://github.com/topics/XSLT-sc-dataset) | [#YARA-sc-dataset](https://github.com/topics/YARA-sc-dataset) | [#Tampio-sc-dataset](https://github.com/topics/Tampio-sc-dataset) | [#FuzzyMarkupLanguage-sc-dataset](https://github.com/topics/FuzzyMarkupLanguage-sc-dataset) | [#Cairo-sc-dataset](https://github.com/topics/Cairo-sc-dataset) | [#Plankalk-u-l-sc-dataset](https://github.com/topics/Plankalk-ul-sc-dataset) | [#Whitespace-sc-dataset](https://github.com/topics/Whitespace-sc-dataset) |
 | [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) | [#XBasePlusPlus-sc-dataset](https://github.com/topics/XBasePlusPlus-sc-dataset) |[#SmPL-sc-dataset](https://github.com/topics/SmPL-sc-dataset) | [#GolfScript-sc-dataset](https://github.com/topics/GolfScript-sc-dataset) | [#BennuGD-sc-dataset](https://github.com/topics/BennuGD-sc-dataset) | [#Triton-sc-dataset](https://github.com/topics/Triton-sc-dataset) | [#Mojo-sc-dataset](https://github.com/topics/Mojo-sc-dataset) | [#MQL4-sc-dataset](https://github.com/topics/MQL4-sc-dataset) | [#MQL5-sc-dataset](https://github.com/topics/MQL5-sc-dataset) | [#CWEB-sc-dataset](https://github.com/topics/CWEB-sc-dataset) | [#WEB-sc-dataset](https://github.com/topics/WEB-sc-dataset) | [#Turing-sc-dataset](https://github.com/topics/Turing-sc-dataset) | [#Noop-sc-dataset](https://github.com/topics/Noop-sc-dataset) |
 | [#CPL-sc-dataset](https://github.com/topics/CPL-sc-dataset) | [#Lobster-sc-dataset](https://github.com/topics/Lobster-sc-dataset) | [#FLOW-MATIC-sc-dataset](https://github.com/topics/FLOW-MATIC-sc-dataset) | [#ARITH-MATIC-sc-dataset](https://github.com/topics/ARITH-MATIC-sc-dataset) | [#InformationProcessingLanguage-SC-Dataset](https://github.com/topics/InformationProcessingLanguage-sc-dataset) | [#asm-js-sc-dataset](https://github.com/topics/asm-js-sc-dataset) | [#POP-1-sc-dataset](https://github.com/topics/POP-1-sc-dataset) | [#POP-2-sc-dataset](https://github.com/topics/POP-2-sc-dataset) | [#MDX-sc-dataset](https://github.com/topics/MDX-sc-dataset) | [#SCRIPT-sc-dataset](https://github.com/topics/SCRIPT-sc-dataset) | [#GeneralizedMarkupLamguage-sc-dataset](https://github.com/topics/GeneralizedMarkupLamguage-sc) |
-| [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) |
+| [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
+| [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -161,7 +163,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Tuesday, January 2nd at 08:02 pm PST)`
+**As of:** `2024, Thursday, January 11th at 09:31 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -169,12 +171,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🗺️ Cartography](#C-Cartography) datasets:** | `0` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
-| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `115` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
+| **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `451` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `465` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `603` _dataset repositories_ | **As of:** `2024.01.02@20:02PST` |
+| **Overall total:** | `619` _dataset repositories_ | **As of:** `2024.01.11@21:31PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -1817,6 +1819,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
 
+#### SC: Mandinka
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Mandinka`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Mandinka/)
+
 #### SC: Marathi
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Marathi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Marathi/)
@@ -1986,6 +1992,10 @@ Currently empty
 #### SC: Swedish
 
 - [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
+
+#### SC: Syriac
+
+- [:octocat: `AI2001 Category: Linguistics ;SC: Syriac`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Syriac/)
 
 </details> <!-- Linguistics.SectionS = END !-->
 
@@ -2490,6 +2500,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ada`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ada/)
 
+#### SC: AdBlock Filter List
+
+- [:octocat: `AI2001 Category: Source Code ;SC: AdBlock Filter List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AdBlock-Filter-List/)
+
 #### SC: AIDL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AIDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AIDL/)
@@ -2558,6 +2572,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: AppleScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AppleScript/)
 
+#### SC: Arc
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Arc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Arc/)
+
 #### SC: ARITH-MATIC
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ARITH-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ARITH-MATIC/)
@@ -2565,6 +2583,10 @@ Currently empty
 #### SC: asm.js
 
 - [:octocat: `AI2001 Category: Source Code ;SC: asm.js`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASM.JS/)
+
+#### SC: ASN.1
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ASN.1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASN.1/)
 
 #### SC: ASP
 
@@ -2908,6 +2930,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: DataWeave`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DataWeave/)
 
+#### SC: DenizenScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DenizenScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DenizenScript/)
+
 #### SC: Desktop
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Desktop`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Desktop/)
@@ -2982,6 +3008,12 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: EJS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJS/)
 
+#### SC: EJSS
+
+> **Note** _Not to be confused with EJS_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: EJSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJSS/)
+
 #### SC: Elixir
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Elixir`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elixir/)
@@ -2993,6 +3025,10 @@ Currently empty
 #### SC: Emacs Lisp
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
+
+#### SC: EmberScript
+
+- [:octocat: `AI2001 Category: Source Code ;SC: EmberScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EmberScript/)
 
 #### SC: Epigram
 
@@ -3238,6 +3274,10 @@ Currently empty
 #### SC: HCL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: HCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HCL/)
+
+#### SC: Hestia
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Hestia`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hestia/)
 
 #### SC: HiveQL
 
@@ -3553,6 +3593,12 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Markdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Markdown/)
 
+#### SC: Marko
+
+> **Note** _Not to be confused with Mako_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Marko`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Marko/)
+
 #### SC: Mathematica
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
@@ -3573,6 +3619,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: mcFunction`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mcFunction/)
 
+#### SC: MDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDL/)
+
 #### SC: MDX
 
 - [:octocat: `AI2001 Category: Source Code ;SC: MDX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDX/)
@@ -3580,6 +3630,10 @@ Currently empty
 #### SC: Mercury
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Mercury`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury/)
+
+#### SC: Mermaid
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Mermaid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mermaid/)
 
 #### SC: Meson
 
@@ -3784,6 +3838,10 @@ Currently empty
 ###### Source Code P
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with P]</b></p></summary>
+
+#### SC: P′′ (Double Prime)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PDoublePrime`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDoublePrime/)
 
 #### SC: Pascal
 
@@ -4119,6 +4177,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Singularity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Singularity/)
 
+#### SC: SKILL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SKILL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SKILL/)
+
 #### SC: Slash
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Slash`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slash/)
@@ -4168,6 +4230,10 @@ Currently empty
 #### SC: Squirrel
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Squirrel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Squirrel/)
+
+#### SC: SpeedCode
+
+- [:octocat: `AI2001 Category: Source Code ;SC: SpeedCode`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SpeedCode/)
 
 #### SC: Stan
 
@@ -4339,13 +4405,19 @@ Currently empty
 
 #### SC: VBA
 
+> **Note** _Not to be confused with VBScript, VB.NET or Visual Basic 6.0_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: VBA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBA/)
 
 #### SC: VB.NET
 
+> **Note** _Not to be confused with VBScript, VBA or Visual Basic 6.0_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: VB.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VB.NET/)
 
 #### SC: VBScript
+
+> **Note** _Not to be confused with VB.NET, VBA or Visual Basic 6.0_
 
 - [:octocat: `AI2001 Category: Source Code ;SC: VBScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBScript/)
 
@@ -4376,6 +4448,12 @@ Currently empty
 #### SC: Vim Snippet
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Vim Snippet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Snippet/)
+
+#### SC: Visual Basic 6.0
+
+> **Note** _Not to be confused with VB.NET, VBA or VBScript_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Visual Basic 6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Visual-Basic-6/)
 
 #### SC: Vue
 
@@ -8880,6 +8958,56 @@ This project is not yet on Gitlab.
 
 </details> <!-- V188 !-->
 
+
+---
+
+<details><summary><p lang="en"><b>Version 180 (2024, Thursday, January 11th at 09:31 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V189.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+
+> **Note** _A catchup update after a recent struggle caused by more internal problems. Brought this repository back up to date after 9 days. Second update of 2024. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for yesterdays 2 datasets
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: SpeedCode` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PDoublePrime` subsection
+- - - [x] Added the `AI2001 Category: Source Code: SKILL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: EJSS` subsection
+- - - [x] Added the `AI2001 Category: Source Code: MDL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Arc` subsection
+- - - [x] Added the `AI2001 Category: Source Code: AdBlock-Filter-List` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Mermaid` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Hestia` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Visual-Basic-6` subsection
+- - - [x] Added the `AI2001 Category: Source Code: EmberScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: DenizenScript` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Marko` subsection
+- - - [x] Added the `AI2001 Category: Source Code: ASN.1` subsection
+- - [x] Updated the `C: Linguistics` section
+- - - [x] Added the `AI2001 Category: Linguistics: Mandinka` subsection
+- - - [x] Added the `AI2001 Category: Linguistics: Syriac` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 189
+- [ ] No other changes in version 189
+
+</details> <!-- V189 !-->
+
 ---
 
 </details> <!-- End of file history section !-->
@@ -8911,4 +9039,9 @@ Meta: Logic Datasets
 AI2001: 2023.10.13
 Cartography datasets
 
+!-->
+
+<!-- Misc
+2024.01.09 (first documented 2024.01.10, drafted 2024.01.11)
+Recently, I have made a change to my daily workflow: I am no longer adding workflows to every single AI2001 repository until the process can be automated effectively.
 !-->

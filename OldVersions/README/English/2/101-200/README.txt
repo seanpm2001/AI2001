@@ -35,6 +35,12 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 
 </details> <!-- Most common AI2001 tags section = END !-->
 
+<details><summary><p><b>[Click/tap here to expand/collapse the AI2001 cartography tags section]</b></p></summary>
+
+| [#Earth-carto-dataset](https://github.com/topics/Earth-carto-dataset/) | [#Mars-carto-dataset](https://github.com/topics/Mars-carto-dataset/) | [#Earth-asia-carto-dataset](https://github.com/topics/Earth-asia-carto-dataset/) | [#Earth-africa-carto-dataset](https://github.com/topics/Earth-africa-carto-dataset/) |
+
+</details> <!-- AI2001 Cartography tags section = END !-->
+
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 linguistics tags section]</b></p></summary>
 
 | [#English-linguistic-dataset](https://github.com/topics/English-linguistic-dataset) | [#Spanish-linguistic-dataset](https://github.com/topics/Spanish-linguistic-dataset) | [#French-linguistic-dataset](https://github.com/topics/French-linguistic-dataset) | [#German-linguistic-dataset](https://github.com/topics/German-linguistic-dataset) | [#Japanese-linguistic-dataset](https://github.com/topics/Japanese-linguistic-dataset) | [#Ukrainian-linguistic-dataset](https://github.com/topics/Ukrainian-linguistic-dataset) | [#Latin-linguistic-dataset](https://github.com/topics/Latin-linguistic-dataset) |  [#Greek-linguistic-dataset](https://github.com/topics/Greek-linguistic-dataset) | [#Arabic-linguistic-dataset](https://github.com/topics/Arabic-linguistic-dataset) | [#Hebrew-linguistic-dataset](https://github.com/topics/Hebrew-linguistic-dataset) | [#Russian-linguistic-dataset](https://github.com/topics/Russian-linguistic-dataset) |
@@ -163,12 +169,12 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Thursday, January 11th at 09:31 pm PST)`
+**As of:** `2024, Saturday, January 13th at 07:45 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
 | **[🎵️ Audio](#C-Audio) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
-| **[🗺️ Cartography](#C-Cartography) datasets:** | `0` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
+| **[🗺️ Cartography](#C-Cartography) datasets:** | `4` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
@@ -176,7 +182,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[💾️ Source Code](#C-Source-Code) datasets:** | `465` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `619` _dataset repositories_ | **As of:** `2024.01.11@21:31PST` |
+| **Overall total:** | `623` _dataset repositories_ | **As of:** `2024.01.13@19:45PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -553,7 +559,35 @@ Currently empty
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with E]</b></p></summary>
 
-Currently empty
+###### SC: Earth
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Earth`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth/)
+
+---
+
+###### S: Africa
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Africa`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Africa/)
+
+</details> <!-- Cartography, SC: Earth :S Africa = END !-->
+
+###### S: Asia
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Asia`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Asia/)
+
+</details> <!-- Cartography, SC: Earth :S Asia = END !-->
+
+---
+
+</details> <!-- Cartography, SC: Earth = END !-->
+
+---
 
 </details> <!-- Cartography.SectionE = END !-->
 
@@ -633,7 +667,16 @@ Currently empty
 
 <details open><summary><p><b>[Click/tap here to expand/collapse entries starting with M]</b></p></summary>
 
-Currently empty
+###### SC: Mars
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Mars`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Mars/)
+
+</details> <!-- Cartography, SC: Mars = END !-->
+
+---
+
 
 </details> <!-- Cartography.SectionM = END !-->
 
@@ -6020,12 +6063,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `188 (2024, Tuesday, January 2nd at 08:02 pm PST)`
-- **Line count (including blank lines and compiler line):** `8,915`
-- **Word count:** `47,233`
-- **Character count (including spaces):** `344,849`
-- **Character count (excluding spaces):** `304,988`
-- **Size (in bytes):** `344,991`
+- **File version:** `190 (2024, Saturday, January 13th at 07:45 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,124`
+- **Word count:** `48,615`
+- **Character count (including spaces):** `354,652`
+- **Character count (excluding spaces):** `313,618`
+- **Size (in bytes):** `354,798`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8958,7 +9001,6 @@ This project is not yet on Gitlab.
 
 </details> <!-- V188 !-->
 
-
 ---
 
 <details><summary><p lang="en"><b>Version 180 (2024, Thursday, January 11th at 09:31 pm PST)</b></p></summary>
@@ -9009,6 +9051,40 @@ This project is not yet on Gitlab.
 </details> <!-- V189 !-->
 
 ---
+
+<details><summary><p lang="en"><b>Version 190 (2024, Saturday, January 13th at 07:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V190.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+
+> **Note** _Took a 1 day break from this project, as I was really distracted today. Cartography data is now introduced. Continuing for 1 consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for yesterdays 2 datasets
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Cartography` section
+- - - [x] Added the `AI2001 Category: Cartography: Earth` subsection
+- - - - [x] Added the `AI2001 Category: Cartography: Earth S: Africa` sub-subsection
+- - - - [x] Added the `AI2001 Category: Cartography: Earth S: Asia` sub-subsection
+- - - [x] Added the `AI2001 Category: Cartography: Mars` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 190
+- [ ] No other changes in version 190
+
+</details> <!-- V190 !-->
 
 </details> <!-- End of file history section !-->
 

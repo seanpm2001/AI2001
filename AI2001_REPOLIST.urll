@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 633 total repository links (as of 2024, Thursday, January 11th at 09:33 pm PST), Version 189.
+//// 637 total repository links (as of 2024, Saturday, January 13th at 07:52 pm PST), Version 190.
 
-//// GitHub (633)
+//// GitHub (637)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -638,12 +638,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EmberScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DenizenScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Marko
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASN.1
+https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth
+https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Mars
+https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Africa
+https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Asia
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 189 (2024, Thursday, January 11th at 09:33 pm PST)
-//// Line count (including blank lines and compiler line): 650
+//// File version: 190 (2024, Saturday, January 13th at 07:52 pm PST)
+//// Line count (including blank lines and compiler line): 654
 
 //// End of file (EOF)

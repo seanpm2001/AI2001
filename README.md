@@ -37,7 +37,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 cartography tags section]</b></p></summary>
 
-| [#Earth-carto-dataset](https://github.com/topics/Earth-carto-dataset/) | [#Mars-carto-dataset](https://github.com/topics/Mars-carto-dataset/) | [#Earth-asia-carto-dataset](https://github.com/topics/Earth-asia-carto-dataset/) | [#Earth-africa-carto-dataset](https://github.com/topics/Earth-africa-carto-dataset/) |
+| [#Earth-carto-dataset](https://github.com/topics/Earth-carto-dataset/) | [#Mars-carto-dataset](https://github.com/topics/Mars-carto-dataset/) | [#Earth-asia-carto-dataset](https://github.com/topics/Earth-asia-carto-dataset/) | [#Earth-africa-carto-dataset](https://github.com/topics/Earth-africa-carto-dataset/) | [#Earth-europe-carto-dataset](https://github.com/topics/Earth-europe-carto-dataset/) | [#Earth-oceania-carto-dataset](https://github.com/topics/Earth-oceania-carto-dataset/) |
 
 </details> <!-- AI2001 Cartography tags section = END !-->
 
@@ -109,7 +109,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) | [#XBasePlusPlus-sc-dataset](https://github.com/topics/XBasePlusPlus-sc-dataset) |[#SmPL-sc-dataset](https://github.com/topics/SmPL-sc-dataset) | [#GolfScript-sc-dataset](https://github.com/topics/GolfScript-sc-dataset) | [#BennuGD-sc-dataset](https://github.com/topics/BennuGD-sc-dataset) | [#Triton-sc-dataset](https://github.com/topics/Triton-sc-dataset) | [#Mojo-sc-dataset](https://github.com/topics/Mojo-sc-dataset) | [#MQL4-sc-dataset](https://github.com/topics/MQL4-sc-dataset) | [#MQL5-sc-dataset](https://github.com/topics/MQL5-sc-dataset) | [#CWEB-sc-dataset](https://github.com/topics/CWEB-sc-dataset) | [#WEB-sc-dataset](https://github.com/topics/WEB-sc-dataset) | [#Turing-sc-dataset](https://github.com/topics/Turing-sc-dataset) | [#Noop-sc-dataset](https://github.com/topics/Noop-sc-dataset) |
 | [#CPL-sc-dataset](https://github.com/topics/CPL-sc-dataset) | [#Lobster-sc-dataset](https://github.com/topics/Lobster-sc-dataset) | [#FLOW-MATIC-sc-dataset](https://github.com/topics/FLOW-MATIC-sc-dataset) | [#ARITH-MATIC-sc-dataset](https://github.com/topics/ARITH-MATIC-sc-dataset) | [#InformationProcessingLanguage-SC-Dataset](https://github.com/topics/InformationProcessingLanguage-sc-dataset) | [#asm-js-sc-dataset](https://github.com/topics/asm-js-sc-dataset) | [#POP-1-sc-dataset](https://github.com/topics/POP-1-sc-dataset) | [#POP-2-sc-dataset](https://github.com/topics/POP-2-sc-dataset) | [#MDX-sc-dataset](https://github.com/topics/MDX-sc-dataset) | [#SCRIPT-sc-dataset](https://github.com/topics/SCRIPT-sc-dataset) | [#GeneralizedMarkupLamguage-sc-dataset](https://github.com/topics/GeneralizedMarkupLamguage-sc) |
 | [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
-| [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) |
+| [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -169,20 +169,20 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Saturday, January 13th at 07:45 pm PST)`
+**As of:** `2024, Monday, January 15th at 04:30 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
 | **[🎵️ Audio](#C-Audio) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
-| **[🗺️ Cartography](#C-Cartography) datasets:** | `4` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
+| **[🗺️ Cartography](#C-Cartography) datasets:** | `6` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `465` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `467` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `623` _dataset repositories_ | **As of:** `2024.01.13@19:45PST` |
+| **Overall total:** | `627` _dataset repositories_ | **As of:** `2024.01.15@16:30PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -582,6 +582,22 @@ Currently empty
 - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Asia`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Asia/)
 
 </details> <!-- Cartography, SC: Earth :S Asia = END !-->
+
+###### S: Europe
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Europe`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Europe/)
+
+</details> <!-- Cartography, SC: Earth :S Europe = END !-->
+
+###### S: Oceania
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this subsection]</b></p></summary>
+
+- [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Oceania`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Ocenaia/)
+
+</details> <!-- Cartography, SC: Earth :S Oceania = END !-->
 
 ---
 
@@ -2539,6 +2555,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ActionScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ActionScript/)
 
+#### SC: Action Message Format (AMF)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: ActionMessageFormat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AMF-ActionMessageFormat/)
+
 #### SC: Ada
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ada`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ada/)
@@ -2590,6 +2610,10 @@ Currently empty
 #### SC: ANTLR
 
 - [:octocat: `AI2001 Category: Source Code ;SC: ANTLR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ANTLR/)
+
+#### SC: Apache Avro
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Apache Avto`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apache-Avro/)
 
 #### SC: ApacheConf
 
@@ -6063,12 +6087,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `190 (2024, Saturday, January 13th at 07:45 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,124`
-- **Word count:** `48,615`
-- **Character count (including spaces):** `354,652`
-- **Character count (excluding spaces):** `313,618`
-- **Size (in bytes):** `354,798`
+- **File version:** `191 (2024, Monday, January 15th at 04:30 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,186`
+- **Word count:** `49,022`
+- **Character count (including spaces):** `357,560`
+- **Character count (excluding spaces):** `316,155`
+- **Size (in bytes):** `357,706`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9085,6 +9109,44 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 190
 
 </details> <!-- V190 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 191 (2024, Monday, January 15th at 04:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V191.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+
+> **Note** _Took a 1 day break from this project. Continuing for 1 consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for yesterdays 2 datasets
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Cartography` section
+- - - [x] Added the `AI2001 Category: Cartography: Earth` subsection
+- - - - [x] Added the `AI2001 Category: Cartography: Earth S: Europe` sub-subsection
+- - - - [x] Added the `AI2001 Category: Cartography: Earth S: Oceania` sub-subsection
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Action Message Format (AMF)` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Apache Avro` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 191
+- [ ] No other changes in version 191
+
+</details> <!-- V191 !-->
 
 </details> <!-- End of file history section !-->
 

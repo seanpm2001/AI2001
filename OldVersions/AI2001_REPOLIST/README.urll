@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 641 total repository links (as of 2024, Monday, January 15th at 04:32 pm PST), Version 191.
+//// 643 total repository links (as of 2024, Tuesday, January 16th at 05:38 pm PST), Version 192.
 
-//// GitHub (641)
+//// GitHub (643)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -646,12 +646,14 @@ https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Europe
 https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Oceania
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AMF-ActionMessageFormat
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apache-Avro
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang-Doc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSV-Tab-Separated-Values
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 191 (2024, Monday, January 15th at 04:32 pm PST)
-//// Line count (including blank lines and compiler line): 658
+//// File version: 192 (2024, Tuesday, January 16th at 05:38 pm PST)
+//// Line count (including blank lines and compiler line): 660
 
 //// End of file (EOF)

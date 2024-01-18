@@ -109,7 +109,8 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#Wisp-sc-dataset](https://github.com/topics/Wisp-sc-dataset) | [#XBasePlusPlus-sc-dataset](https://github.com/topics/XBasePlusPlus-sc-dataset) |[#SmPL-sc-dataset](https://github.com/topics/SmPL-sc-dataset) | [#GolfScript-sc-dataset](https://github.com/topics/GolfScript-sc-dataset) | [#BennuGD-sc-dataset](https://github.com/topics/BennuGD-sc-dataset) | [#Triton-sc-dataset](https://github.com/topics/Triton-sc-dataset) | [#Mojo-sc-dataset](https://github.com/topics/Mojo-sc-dataset) | [#MQL4-sc-dataset](https://github.com/topics/MQL4-sc-dataset) | [#MQL5-sc-dataset](https://github.com/topics/MQL5-sc-dataset) | [#CWEB-sc-dataset](https://github.com/topics/CWEB-sc-dataset) | [#WEB-sc-dataset](https://github.com/topics/WEB-sc-dataset) | [#Turing-sc-dataset](https://github.com/topics/Turing-sc-dataset) | [#Noop-sc-dataset](https://github.com/topics/Noop-sc-dataset) |
 | [#CPL-sc-dataset](https://github.com/topics/CPL-sc-dataset) | [#Lobster-sc-dataset](https://github.com/topics/Lobster-sc-dataset) | [#FLOW-MATIC-sc-dataset](https://github.com/topics/FLOW-MATIC-sc-dataset) | [#ARITH-MATIC-sc-dataset](https://github.com/topics/ARITH-MATIC-sc-dataset) | [#InformationProcessingLanguage-SC-Dataset](https://github.com/topics/InformationProcessingLanguage-sc-dataset) | [#asm-js-sc-dataset](https://github.com/topics/asm-js-sc-dataset) | [#POP-1-sc-dataset](https://github.com/topics/POP-1-sc-dataset) | [#POP-2-sc-dataset](https://github.com/topics/POP-2-sc-dataset) | [#MDX-sc-dataset](https://github.com/topics/MDX-sc-dataset) | [#SCRIPT-sc-dataset](https://github.com/topics/SCRIPT-sc-dataset) | [#GeneralizedMarkupLamguage-sc-dataset](https://github.com/topics/GeneralizedMarkupLamguage-sc) |
 | [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
-| [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) | [#TabSeparatedValues-sc-dataset](https://github.com/topics/TabSeparatedValues-sc-dataset) | [#Erlang-Doc-sc-dataset](https://github.com/topics/Erlang-doc-sc-dataset) | 
+| [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) | [#TabSeparatedValues-sc-dataset](https://github.com/topics/TabSeparatedValues-sc-dataset) | [#Erlang-Doc-sc-dataset](https://github.com/topics/Erlang-doc-sc-dataset) | [#Web-Ontology-Language-sc-dataset](https://github.com/topics/Web-ontology-language-sc-dataset) | [#MATH-MATIC-sc-dataset](https://github.com/topics/MATH-MATIC-sc-dataset) |
+| [#Empty-newline](https://www.example.com/) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
 
@@ -169,7 +170,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Tuesday, January 16th at 05:35 pm PST)`
+**As of:** `2024, Wednesday, January 17th at 04:46 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -179,10 +180,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `469` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `471` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `629` _dataset repositories_ | **As of:** `2024.01.16@17:35PST` |
+| **Overall total:** | `631` _dataset repositories_ | **As of:** `2024.01.17@16:46PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -3672,7 +3673,15 @@ Currently empty
 
 #### SC: Mathematica
 
+> **Note** _Not to be confused with MATH-MATIC_
+
 - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
+
+#### SC: MATH-MATIC
+
+> **Note** _Not to be confused with Mathematica_
+
+- [:octocat: `AI2001 Category: Source Code ;SC: MATH-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATH-MATIC/)
 
 #### SC: MATLAB
 
@@ -4569,6 +4578,10 @@ Currently empty
 #### SC: WebIDL
 
 - [:octocat: `AI2001 Category: Source Code ;SC: WebIDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebIDL/)
+
+#### SC: Web Ontology Language
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Web Ontology Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Web-Ontology-Language/)
 
 #### SC: WebVTT
 
@@ -6095,12 +6108,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `192 (2024, Tuesday, January 16th at 05:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,186`
-- **Word count:** `49,279`
-- **Character count (including spaces):** `359,325`
-- **Character count (excluding spaces):** `317,669`
-- **Size (in bytes):** `359,471`
+- **File version:** `193 (2024, Wednesday, January 17th at 04:46 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,275`
+- **Word count:** `49,557`
+- **Character count (including spaces):** `361,226`
+- **Character count (excluding spaces):** `319,306`
+- **Size (in bytes):** `361,372`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6256,7 +6269,7 @@ This project is not yet on Gitlab.
 
 ---
 
-<details><summary><p lang="en"><b>Version 106 (2023, Friday, July 7th at xx:xx pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 106 (2023, Friday, July 7th at ??:?? pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -9189,6 +9202,40 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 192
 
 </details> <!-- V192 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 193 (2024, Wednesday, January 17th at 04:46 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V193.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+
+> **Note** _Continuing for a 3rd consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for yesterdays 2 datasets
+- - [x] Added a new line for todays 2 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: MATH-MATIC` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Web Ontology Language` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 193
+- [ ] No other changes in version 193
+
+</details> <!-- V193 !-->
 
 </details> <!-- End of file history section !-->
 

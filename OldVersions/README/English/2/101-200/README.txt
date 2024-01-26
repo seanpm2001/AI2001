@@ -43,6 +43,10 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 linguistics tags section]</b></p></summary>
 
+> **Note** _This section will be moved out to a separate file eventually._
+
+The plan is for the file to be moved out when it starts using up far too much space here, with a link to the separate file here. Each separate file update will not have an embedded file info section or file history section.
+
 | [#English-linguistic-dataset](https://github.com/topics/English-linguistic-dataset) | [#Spanish-linguistic-dataset](https://github.com/topics/Spanish-linguistic-dataset) | [#French-linguistic-dataset](https://github.com/topics/French-linguistic-dataset) | [#German-linguistic-dataset](https://github.com/topics/German-linguistic-dataset) | [#Japanese-linguistic-dataset](https://github.com/topics/Japanese-linguistic-dataset) | [#Ukrainian-linguistic-dataset](https://github.com/topics/Ukrainian-linguistic-dataset) | [#Latin-linguistic-dataset](https://github.com/topics/Latin-linguistic-dataset) |  [#Greek-linguistic-dataset](https://github.com/topics/Greek-linguistic-dataset) | [#Arabic-linguistic-dataset](https://github.com/topics/Arabic-linguistic-dataset) | [#Hebrew-linguistic-dataset](https://github.com/topics/Hebrew-linguistic-dataset) | [#Russian-linguistic-dataset](https://github.com/topics/Russian-linguistic-dataset) |
 | [#Urdu-linguistic-dataset](https://github.com/topics/Urdu-linguistic-dataset) | [#Hindi-linguistic-dataset](https://github.com/topics/Hindi-linguistic-dataset) | [#Portuguese-linguistic-dataset](https://github.com/topics/Portuguese-linguistic-dataset) | [#Romanian-linguistic-dataset](https://github.com/topics/Romanian-linguistic-dataset) | [#Azerbaijan-linguistic-dataset](https://github.com/topics/Azerbaijan-linguistic-dataset) | [#Chinese-Traditional-linguistic-dataset](https://github.com/topics/Chinese-Traditional-linguistic-dataset) | [#Chinese-Simplified-linguistic-dataset](https://github.com/topics/Chinese-Simplified-linguistic-dataset) | [#Korean-South-linguistic-dataset](https://github.com/topics/Korean-South-linguistic-dataset) | [#Thai-linguistic-dataset](https://github.com/topics/Thai-linguistic-dataset) | [#Telugu-linguistic-dataset](https://github.com/topics/Telugu-linguistic-dataset) |
 | [#Sindhi-linguistic-dataset](https://github.com/topics/Sindhi-linguistic-dataset) | [#Berber-linguistic-dataset](https://github.com/topics/Berber-linguistic-dataset) | [#Sanskrit-linguistic-dataset](https://github.com/topics/Sanskrit-linguistic-dataset) | [#Cuneiform-linguistic-dataset](https://github.com/topics/Cuneiform-linguistic-dataset) | [#Ruthenian-linguistic-dataset](https://github.com/topics/Ruthenian-linguistic-dataset) | [#Zulu-linguistic-dataset](https://github.com/topics/Zulu-linguistic-dataset) | [#Afrikaans-linguistic-dataset](https://github.com/topics/Afrikaans-linguistic-dataset) | [#Hungarian-linguistic-dataset](https://github.com/topics/Hungarian-linguistic-dataset) | [#Javanese-linguistic-dataset](https://github.com/topics/Javanese-linguistic-dataset) | [#Laos-linguistic-dataset](https://github.com/topics/Laos-linguistic-dataset) | [#Ethiopian-linguistic-dataset](https://github.com/topics/Ethiopian-linguistic-dataset) |
@@ -69,6 +73,10 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 </details> <!-- AI2001 Linguistics tags section = END !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 source code tags section]</b></p></summary>
+
+> **Note** _This section will be moved out to a separate file eventually._
+
+The plan is for the file to be moved out when it starts using up far too much space here, with a link to the separate file here. Each separate file update will not have an embedded file info section or file history section.
 
 | [#Source-code-dataset](https://github.com/topics/Source-code-dataset) | [#ABAP-sc-dataset](https://github.com/topics/ABAP-sc-dataset/) | [#ActionScript-sc-dataset](https://github.com/topics/ActionScript-sc-dataset) | [#ALGOL-sc-dataset](https://github.com/topics/ALGOL-sc-dataset) | [#AWK-sc-dataset](https://github.com/topics/AWK-sc-dataset) | [#AngelScript-sc-dataset](https://github.com/topics/AngelScript-sc-dataset) | [#ASP.NET-sc-dataset](https://github.com/topics/ASP-NET-sc-dataset) | [#ASP-sc-dataset](https://github.com/topics/ASP-sc-dataset) | [#Astro-sc-dataset](https://github.com/topics/Astro-sc-dataset) | [#Agda-sc-dataset](https://github.com/topics/Agda-sc-dataset) | [#AMPL-sc-dataset](https://github.com/topics/AMPL-sc-dataset) | [#AppleScript-sc-dataset](https://github.com/topics/AppleScript-sc-dataset) |
 | [#Ada-sc-dataset](https://github.com/topics/Ada-sc-dataset) | [#BrightScript-sc-dataset](https://github.com/topics/BrightScript-sc-dataset) | [#BrighterScript-sc-dataset](https://github.com/topics/BrighterScript-sc-dataset) | [#B-sc-dataset](https://github.com/topics/B-sc-dataset) | [#Brainfuck-sc-dataset](https://github.com/topics/Brainfuck-sc-dataset) | [#Bikeshed-sc-dataset](https://github.com/topics/Bikeshed-sc-dataset) | [#Batchfile-sc-dataset](https://github.com/topics/Batchfile-sc-dataset) | [#C-sc-dataset](https://github.com/topics/C-sc-dataset) | [#Clean-sc-dataset](https://github.com/topics/Clean-sc-dataset) | [#CSharp-sc-dataset](https://github.com/topics/CSharp-sc-dataset) | [#CSS-sc-dataset](https://github.com/topics/CSS-sc-dataset) | [#CSV-sc-dataset](https://github.com/topics/CSV-sc-dataset) |
@@ -110,6 +118,8 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 | [#CPL-sc-dataset](https://github.com/topics/CPL-sc-dataset) | [#Lobster-sc-dataset](https://github.com/topics/Lobster-sc-dataset) | [#FLOW-MATIC-sc-dataset](https://github.com/topics/FLOW-MATIC-sc-dataset) | [#ARITH-MATIC-sc-dataset](https://github.com/topics/ARITH-MATIC-sc-dataset) | [#InformationProcessingLanguage-SC-Dataset](https://github.com/topics/InformationProcessingLanguage-sc-dataset) | [#asm-js-sc-dataset](https://github.com/topics/asm-js-sc-dataset) | [#POP-1-sc-dataset](https://github.com/topics/POP-1-sc-dataset) | [#POP-2-sc-dataset](https://github.com/topics/POP-2-sc-dataset) | [#MDX-sc-dataset](https://github.com/topics/MDX-sc-dataset) | [#SCRIPT-sc-dataset](https://github.com/topics/SCRIPT-sc-dataset) | [#GeneralizedMarkupLamguage-sc-dataset](https://github.com/topics/GeneralizedMarkupLamguage-sc) |
 | [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
 | [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) | [#TabSeparatedValues-sc-dataset](https://github.com/topics/TabSeparatedValues-sc-dataset) | [#Erlang-Doc-sc-dataset](https://github.com/topics/Erlang-doc-sc-dataset) | [#Web-Ontology-Language-sc-dataset](https://github.com/topics/Web-ontology-language-sc-dataset) | [#MATH-MATIC-sc-dataset](https://github.com/topics/MATH-MATIC-sc-dataset) |
+| [#PDDL-sc-dataset](https://github.com/topics/PDDL-sc-dataset) | [#Lasso-sc-dataset](https://github.com/topics/Lasso-sc-dataset) | [#Elvish-sc-dataset](https://github.com/topics/Elvish-sc-dataset) | [#Nearley-sc-dataset](https://github.com/topics/Nearley-sc-dataset) | [#Datalog-sc-dataset](https://github.com/topics/Datalog-sc-dataset) | [#Flix-sc-dataset](https://github.com/topics/Flix-sc-dataset) | [#SemanticQueryWebRuleLanguage-sc-dataset](https://github.com/topics/SemanticQueryWebRuleLanguage-sc-dataset) | [#DARPAAgentMarkupLanguage-sc-dataset](https://github.com/topics/DARPAAgentMarkupLanguage-sc-dataset) | [#REWERSE-Rule-Markup-Language-sc-dataset](https://github.com/topics/REWERSE-Rule-Markup-Language-sc-dataset) | [#RuleInterchangeFormat-sc-dataset](https://github.com/topics/RuleInterchangeFormat-sc-dataset) |
+| [#LegalXML-sc-dataset](https://github.com/topics/LegalXML-sc-dataset) | [#LilyPond-sc-dataset](https://github.com/topics/LilyPond-sc-dataset) | [#Gitattributes-sc-dataset](https://github.com/topics/Gitattributes-sc-dataset) |
 | [#Empty-newline](https://www.example.com/) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
@@ -170,7 +180,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Wednesday, January 17th at 04:46 pm PST)`
+**As of:** `2024, Thursday, January 25th at 04:39 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -180,10 +190,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `471` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `494` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `631` _dataset repositories_ | **As of:** `2024.01.17@16:46PST` |
+| **Overall total:** | `647` _dataset repositories_ | **As of:** `2024.01.25@1x:xxPST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -2990,9 +3000,17 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Dafny`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dafny/)
 
+#### SC: DARPA Agent Markup Language (DAML)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: DARPA Agent Markup Language (DAML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DARPA-Agent-Markup-Language-DAML/)
+
 #### SC: Dart
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Dart`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dart/)
+
+#### SC: Datalog
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Datalog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Datalog/)
 
 #### SC: DataWeave
 
@@ -3090,6 +3108,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Elm`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elm/)
 
+#### SC: Elvish
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Elvish`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish/)
+
 #### SC: Emacs Lisp
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
@@ -3145,6 +3167,10 @@ Currently empty
 #### SC: Fish
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Fish`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fish/)
+
+#### SC: Flix
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Flix`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Flix/)
 
 #### SC: FlooP
 
@@ -3238,6 +3264,10 @@ Currently empty
 #### SC: Gherkin
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Gherkin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gherkin/)
+
+#### SC: Git Attributes
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Git Attributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes/)
 
 #### SC: Gleam
 
@@ -3537,6 +3567,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: LABView`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LABView/)
 
+#### SC: Lasso
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Lasso`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lasso/)
+
 #### SC: Latte
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Latte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Latte/)
@@ -3545,6 +3579,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lean/)
 
+#### SC: LegalXML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: LegalXML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LegalXML/)
+
 #### SC: Less
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
@@ -3552,6 +3590,10 @@ Currently empty
 #### SC: Lex
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Lex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lex/)
+
+#### SC: LilyPond
+
+- [:octocat: `AI2001 Category: Source Code ;SC: LilyPond`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LilyPond/)
 
 #### SC: Limbo
 
@@ -3795,6 +3837,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: NASL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NASL/)
 
+#### SC: Nearley
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Nearley`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nearley/)
+
 #### SC: Nemerle
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Nemerle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nemerle/)
@@ -3838,6 +3884,10 @@ Currently empty
 #### SC: Nu
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Nu`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nu/)
+
+#### SC: NuShell
+
+- [:octocat: `AI2001 Category: Source Code ;SC: NuShell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NuShell/)
 
 #### SC: Nunjucks
 
@@ -3930,6 +3980,10 @@ Currently empty
 #### SC: Pawn
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Pawn`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pawn/)
+
+#### SC: PDDL
+
+- [:octocat: `AI2001 Category: Source Code ;SC: PDDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDDL/)
 
 #### SC: Perl
 
@@ -4151,6 +4205,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: reStructuredText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReStructuredText/)
 
+#### SC: REWERSE Rule Markup Language (R2ML)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: REWERSE Rule Markup Language (R2ML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REWERSE-Rule-Markup-Language-R2ML/)
+
 #### SC: REXX
 
 - [:octocat: `AI2001 Category: Source Code ;SC: REXX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REXX/)
@@ -4186,6 +4244,14 @@ Currently empty
 #### SC: Ruby
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Ruby`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ruby/)
+
+#### SC: Rule Interchange Format (RIF)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Rule Interchange Format (RIF)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rule-Interchange-Format-RIF/)
+
+#### SC: RuleML
+
+- [:octocat: `AI2001 Category: Source Code ;SC: RuleML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RuleML/)
 
 #### SC: RUNOFF
 
@@ -4248,6 +4314,14 @@ Currently empty
 #### SC: sed
 
 - [:octocat: `AI2001 Category: Source Code ;SC: sed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sed/)
+
+#### SC: Semantic Web Rule Language (SWRL)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Semantic Web Rule Language (SWRL)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Web-Rule-Language/)
+
+#### SC: Semantic Query Web Rule Language (SQWRL)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Semantic Query Web Rule Language (SWRL)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Query-Web-Rule-Language/)
 
 #### SC: Shell
 
@@ -6108,12 +6182,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `193 (2024, Wednesday, January 17th at 04:46 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,275`
-- **Word count:** `49,557`
-- **Character count (including spaces):** `361,226`
-- **Character count (excluding spaces):** `319,306`
-- **Size (in bytes):** `361,372`
+- **File version:** `194 (2024, Thursday, January 25th at 04:39 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,396`
+- **Word count:** `50,493`
+- **Character count (including spaces):** `367,948`
+- **Character count (excluding spaces):** `325,259`
+- **Size (in bytes):** `368,094`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9236,6 +9310,53 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 193
 
 </details> <!-- V193 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 194 (2024, Thursday, January 25th at 04:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V194.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+
+> **Note** _Coming back after 8 days with no updates. Continuing for 1 consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for the recent 16 datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: DataLog` subsection
+- - - [x] Added the `AI2001 Category: Source Code: DARPA-Agent-Markup-Language-DAML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Elvish` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Flix` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Git-Attributes` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Lasso` subsection
+- - - [x] Added the `AI2001 Category: Source Code: LegalXML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: LilyPond` subsection
+- - - [x] Added the `AI2001 Category: Source Code: NuShell` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Nearley` subsection
+- - - [x] Added the `AI2001 Category: Source Code: PDDL` subsection
+- - - [x] Added the `AI2001 Category: Source Code: RuleML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: REWERSE-Rule-Markup-Language-R2ML` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Rule-Interchange-Format-RIF` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Semantic-Web-Rule-Language` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Semantic-Query-Web-Rule-Language` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 193
+- [ ] No other changes in version 193
+
+</details> <!-- V194 !-->
 
 </details> <!-- End of file history section !-->
 

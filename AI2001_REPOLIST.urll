@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 645 total repository links (as of 2024, Wednesday, January 17th at 04:48 pm PST), Version 193.
+//// 661 total repository links (as of 2024, Thursday, January 25th at 04:41 pm PST), Version 194.
 
-//// GitHub (645)
+//// GitHub (661)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -650,12 +650,28 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang-Doc
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSV-Tab-Separated-Values
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Web-Ontology-Language
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATH-MATIC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lasso
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NuShell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nearley
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DataLog
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Flix
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Web-Rule-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RuleML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Query-Web-Rule-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DARPA-Agent-Markup-Language-DAML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REWERSE-Rule-Markup-Language-R2ML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rule-Interchange-Format-RIF
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LegalXML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LilyPond
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 193 (2024, Wednesday, January 17th at 04:48 pm PST)
-//// Line count (including blank lines and compiler line): 662
+//// File version: 194 (2024, Thursday, January 25th at 04:41 pm PST)
+//// Line count (including blank lines and compiler line): 678
 
 //// End of file (EOF)

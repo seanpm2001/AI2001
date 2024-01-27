@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 661 total repository links (as of 2024, Thursday, January 25th at 04:41 pm PST), Version 194.
+//// 663 total repository links (as of 2024, Friday, January 26th at 05:01 pm PST), Version 195.
 
-//// GitHub (661)
+//// GitHub (663)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -666,12 +666,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rule-Interchange-Fo
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LegalXML
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LilyPond
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CassandraQueryLanguage-CQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VRML
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 194 (2024, Thursday, January 25th at 04:41 pm PST)
-//// Line count (including blank lines and compiler line): 678
+//// File version: 195 (2024, Friday, January 26th at 05:01 pm PST)
+//// Line count (including blank lines and compiler line): 680
 
 //// End of file (EOF)

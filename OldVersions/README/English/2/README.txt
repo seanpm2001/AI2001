@@ -119,7 +119,7 @@ The plan is for the file to be moved out when it starts using up far too much sp
 | [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
 | [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) | [#TabSeparatedValues-sc-dataset](https://github.com/topics/TabSeparatedValues-sc-dataset) | [#Erlang-Doc-sc-dataset](https://github.com/topics/Erlang-doc-sc-dataset) | [#Web-Ontology-Language-sc-dataset](https://github.com/topics/Web-ontology-language-sc-dataset) | [#MATH-MATIC-sc-dataset](https://github.com/topics/MATH-MATIC-sc-dataset) |
 | [#PDDL-sc-dataset](https://github.com/topics/PDDL-sc-dataset) | [#Lasso-sc-dataset](https://github.com/topics/Lasso-sc-dataset) | [#Elvish-sc-dataset](https://github.com/topics/Elvish-sc-dataset) | [#Nearley-sc-dataset](https://github.com/topics/Nearley-sc-dataset) | [#Datalog-sc-dataset](https://github.com/topics/Datalog-sc-dataset) | [#Flix-sc-dataset](https://github.com/topics/Flix-sc-dataset) | [#SemanticQueryWebRuleLanguage-sc-dataset](https://github.com/topics/SemanticQueryWebRuleLanguage-sc-dataset) | [#DARPAAgentMarkupLanguage-sc-dataset](https://github.com/topics/DARPAAgentMarkupLanguage-sc-dataset) | [#REWERSE-Rule-Markup-Language-sc-dataset](https://github.com/topics/REWERSE-Rule-Markup-Language-sc-dataset) | [#RuleInterchangeFormat-sc-dataset](https://github.com/topics/RuleInterchangeFormat-sc-dataset) |
-| [#LegalXML-sc-dataset](https://github.com/topics/LegalXML-sc-dataset) | [#LilyPond-sc-dataset](https://github.com/topics/LilyPond-sc-dataset) | [#Gitattributes-sc-dataset](https://github.com/topics/Gitattributes-sc-dataset) |
+| [#LegalXML-sc-dataset](https://github.com/topics/LegalXML-sc-dataset) | [#LilyPond-sc-dataset](https://github.com/topics/LilyPond-sc-dataset) | [#Cs-sc-dataset](https://github.com/topics/Gitattributes-sc-dataset) | [#CassandraQueryLanguage-sc-dataset](https://github.com/topics/CassandraQueryLanguage-sc-dataset) | [#VRML-sc-dataset](https://github.com/topics/VRML-sc-dataset) |
 | [#Empty-newline](https://www.example.com/) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
@@ -170,7 +170,7 @@ The plan is for the file to be moved out when it starts using up far too much sp
 
 Datasets are sorted by categories, with nested sub-categories (**SC**) and nested subjects (**S**)
 
-All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2023, Tuesday, March 21st)
+All datasets are written in R and RMarkdown. They are all currently a work-in-progress (as of 2024, Friday, January 26th)
 
 > [`View this list in URLL format`](/AI2001_REPOLIST.urll)
 
@@ -180,7 +180,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Thursday, January 25th at 04:39 pm PST)`
+**As of:** `2024, Friday, January 26th at 04:59 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -190,10 +190,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `494` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `496` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `647` _dataset repositories_ | **As of:** `2024.01.25@1x:xxPST` |
+| **Overall total:** | `649` _dataset repositories_ | **As of:** `2024.01.26@16:59PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -2862,6 +2862,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CartoCSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CartoCSS/)
 
+#### SC: Cassandra Query Language (CQL)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Cassandra Query Language (CQL)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CassandraQueryLanguage-CQL/)
+
 #### SC: CDS
 
 - [:octocat: `AI2001 Category: Source Code ;SC: CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CDS/)
@@ -4613,6 +4617,10 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Visual Basic 6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Visual-Basic-6/)
 
+#### SC: Virtual Reality Modeling Language (VRML)
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Virtual Reality Modeling Language (VRML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VRML/)
+
 #### SC: Vue
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Vue`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vue/)
@@ -6182,12 +6190,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `194 (2024, Thursday, January 25th at 04:39 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,396`
-- **Word count:** `50,493`
-- **Character count (including spaces):** `367,948`
-- **Character count (excluding spaces):** `325,259`
-- **Size (in bytes):** `368,094`
+- **File version:** `195 (2024, Friday, January 26th at 04:59 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,446`
+- **Word count:** `50,819`
+- **Character count (including spaces):** `370,296`
+- **Character count (excluding spaces):** `327,321`
+- **Size (in bytes):** `370,442`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9053,6 +9061,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V187.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Just a normal daily update today after skipping a day due to schedule issues. Continuing for 1 consecutive day._
 
@@ -9089,6 +9098,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V188.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Just a normal daily update today after skipping a few days due to schedule issues and procrastination. First update of 2024. Continuing for 1 consecutive day._
 
@@ -9129,6 +9139,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V189.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _A catchup update after a recent struggle caused by more internal problems. Brought this repository back up to date after 9 days. Second update of 2024. Continuing for 1 consecutive day._
 
@@ -9178,6 +9189,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V190.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Took a 1 day break from this project, as I was really distracted today. Cartography data is now introduced. Continuing for 1 consecutive day_
 
@@ -9214,6 +9226,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V191.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Took a 1 day break from this project. Continuing for 1 consecutive day_
 
@@ -9252,6 +9265,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V192.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Continuing for a 2nd consecutive day_
 
@@ -9286,6 +9300,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V193.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Continuing for a 3rd consecutive day_
 
@@ -9320,6 +9335,7 @@ This project is not yet on Gitlab.
 > [View this version separately](/OldVersions/README/English/2/101-200/README_V194.md)
 
 <!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
 
 > **Note** _Coming back after 8 days with no updates. Continuing for 1 consecutive day_
 
@@ -9353,10 +9369,44 @@ This project is not yet on Gitlab.
 - - [x] Updated the line count
 - - [x] Updated other variables
 - [x] Updated the `file history` section
-- - [x] Added an entry for version 193
-- [ ] No other changes in version 193
+- - [x] Added an entry for version 194
+- [ ] No other changes in version 194
 
 </details> <!-- V194 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 195 (2024, Friday, January 26th at 04:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V195.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/1 !-->
+
+> **Note** _Continuing for a 2nd consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for the 2 most recent datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: Cassandra Query Language (CQL)` subsection
+- - - [x] Added the `AI2001 Category: Source Code: Virtual Reality Modeling Language (VRML)` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 195
+- [ ] No other changes in version 195
+
+</details> <!-- V195 !-->
 
 </details> <!-- End of file history section !-->
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 667 total repository links (as of 2024, Monday, January 29th at 05:23 pm PST), Version 197.
+//// 669 total repository links (as of 2024, Tuesday, January 30th at 05:38 pm PST), Version 198.
 
-//// GitHub (667)
+//// GitHub (669)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -672,12 +672,14 @@ https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Electric-Guitar
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Violin
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Pan-Flute
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 197 (2024, Monday, January 29th at 05:23 pm PST)
-//// Line count (including blank lines and compiler line): 684
+//// File version: 198 (2024, Tuesday, January 30th at 05:38 pm PST)
+//// Line count (including blank lines and compiler line): 686
 
 //// End of file (EOF)

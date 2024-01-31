@@ -37,7 +37,7 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 audio tags section]</b></p></summary>
 
-| [#Electronic-guitar-audio-dataset](https://github.com/topics/Electric-guitar-audio-dataset/) | [#Piano-audio-dataset](https://github.com/topics/Piano-audio-dataset/) | [#Violin-audio-dataset](https://github.com/topics/Violin-audio-dataset/) |
+| [#Electronic-guitar-audio-dataset](https://github.com/topics/Electric-guitar-audio-dataset/) | [#Piano-audio-dataset](https://github.com/topics/Piano-audio-dataset/) | [#Violin-audio-dataset](https://github.com/topics/Violin-audio-dataset/) | [#Pan-Flute-audio-dataset](https://github.com/topics/Pan-Flute-audio-dataset/) | [#Guitar-audio-dataset](https://github.com/topics/Guitar-audio-dataset/) |
 
 </details> <!-- AI2001 Audio tags section = END !-->
 
@@ -187,11 +187,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Monday, January 29th at 06:32 pm PST)`
+**As of:** `2024, Tuesday, January 30th at 05:40 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
-| **[🎵️ Audio](#C-Audio) datasets:** | `9` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
+| **[🎵️ Audio](#C-Audio) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
 | **[🗺️ Cartography](#C-Cartography) datasets:** | `6` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
@@ -200,7 +200,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[💾️ Source Code](#C-Source-Code) datasets:** | `496` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `653` _dataset repositories_ | **As of:** `2024.01.29@18:32PST` |
+| **Overall total:** | `655` _dataset repositories_ | **As of:** `2024.01.30@17:40PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -319,6 +319,14 @@ Currently empty
 ##### S: Electric Guitar
 
 - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Electric Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Electric-Guitar/)
+
+##### S: Guitar
+
+- - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Guitar/)
+
+##### S: Pan Flute
+
+- - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Pan Flute`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Pan-Flute/)
 
 ##### S: Piano
 
@@ -6219,12 +6227,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `197 (2024, Monday, January 29th at 06:32 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,548`
-- **Word count:** `51,379`
-- **Character count (including spaces):** `374,244`
-- **Character count (excluding spaces):** `330,713`
-- **Size (in bytes):** `374,390`
+- **File version:** `198 (2024, Tuesday, January 30th at 05:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,591`
+- **Word count:** `51,639`
+- **Character count (including spaces):** `376,063`
+- **Character count (excluding spaces):** `332,279`
+- **Size (in bytes):** `376,209`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9505,6 +9513,41 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 197
 
 </details> <!-- V197 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 198 (2024, Tuesday, January 30th at 05:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V197.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/2 !-->
+
+> **Note** _Continuing for a 2nd consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for the 2 most recent datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Audio dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Audio` section
+- - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
+- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Guitar` sub-subsection
+- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Pan Flute` sub-subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 198
+- [ ] No other changes in version 198
+
+</details> <!-- V198 !-->
 
 ---
 

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 669 total repository links (as of 2024, Tuesday, January 30th at 05:38 pm PST), Version 198.
+//// 673 total repository links (as of 2024, Thursday, February 1st at 06:10 pm PST), Version 199.
 
-//// GitHub (669)
+//// GitHub (673)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -673,13 +673,17 @@ https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Electric-Gu
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Violin
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Pan-Flute
-https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Guitar
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Xylophone
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Tuba
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Trombone
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Trumpet
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 198 (2024, Tuesday, January 30th at 05:38 pm PST)
-//// Line count (including blank lines and compiler line): 686
+//// File version: 199 (2024, Thursday, February 1st at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 690
 
 //// End of file (EOF)

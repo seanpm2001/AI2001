@@ -37,7 +37,8 @@ _AI2001 is a free, libre and open source Artificial Intelligence data set and so
 
 <details><summary><p><b>[Click/tap here to expand/collapse the AI2001 audio tags section]</b></p></summary>
 
-| [#Electronic-guitar-audio-dataset](https://github.com/topics/Electric-guitar-audio-dataset/) | [#Piano-audio-dataset](https://github.com/topics/Piano-audio-dataset/) | [#Violin-audio-dataset](https://github.com/topics/Violin-audio-dataset/) | [#Pan-Flute-audio-dataset](https://github.com/topics/Pan-Flute-audio-dataset/) | [#Guitar-audio-dataset](https://github.com/topics/Guitar-audio-dataset/) | [#xylophonw-audio-dataset](https://github.com/topics/Xylophone-audio-dataset/) | [#Tuba-audio-dataset](https://github.com/topics/Tuba-audio-dataset/) | [#Trombone-audio-dataset](https://github.com/topics/Trombone-audio-dataset/) | [#Trumpet-audio-dataset](https://github.com/topics/Trumpet-audio-dataset/) |
+| [#Electronic-guitar-audio-dataset](https://github.com/topics/Electric-guitar-audio-dataset/) | [#Piano-audio-dataset](https://github.com/topics/Piano-audio-dataset/) | [#Violin-audio-dataset](https://github.com/topics/Violin-audio-dataset/) | [#Pan-Flute-audio-dataset](https://github.com/topics/Pan-Flute-audio-dataset/) | [#Guitar-audio-dataset](https://github.com/topics/Guitar-audio-dataset/) | [#xylophonw-audio-dataset](https://github.com/topics/Xylophone-audio-dataset/) | [#Tuba-audio-dataset](https://github.com/topics/Tuba-audio-dataset/) | [#Trombone-audio-dataset](https://github.com/topics/Trombone-audio-dataset/) | [#Trumpet-audio-dataset](https://github.com/topics/Trumpet-audio-dataset/) | [#Drums-audio-dataset](https://github.com/topics/Drums-audio-dataset/) | [#Accordion-audio-dataset](https://github.com/topics/Accordion-audio-dataset/) |
+| nil/null |
 
 </details> <!-- AI2001 Audio tags section = END !-->
 
@@ -187,11 +188,11 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Thursday, February 1st at 06:08 pm PST)`
+**As of:** `2024, Friday, February 2nd at 11:20 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
-| **[🎵️ Audio](#C-Audio) datasets:** | `15` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
+| **[🎵️ Audio](#C-Audio) datasets:** | `17` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Audio/)) |
 | **[🗺️ Cartography](#C-Cartography) datasets:** | `6` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Cartography/)) |
 | **[📃️ Document](#C-Documents) datasets:** | `11` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Documents/)) |
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
@@ -200,7 +201,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[💾️ Source Code](#C-Source-Code) datasets:** | `496` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `659` _dataset repositories_ | **As of:** `2024.02.01@18:08PST` |
+| **Overall total:** | `661` _dataset repositories_ | **As of:** `2024.02.02@23:20PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -315,6 +316,14 @@ Currently empty
 - [:octocat: `AI2001 Category: Audio ;SC: Instruments`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments)
 
 ---
+
+##### S: Accordion
+
+- - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Accordion`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Accordion/)
+
+##### S: Drums
+
+- - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Drums`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Drums/)
 
 ##### S: Electric Guitar
 
@@ -6243,12 +6252,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `199 (2024, Thursday, February 1st at 06:08 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,644`
-- **Word count:** `51,989`
-- **Character count (including spaces):** `378,596`
-- **Character count (excluding spaces):** `334,489`
-- **Size (in bytes):** `378,742`
+- **File version:** `200 (2024, Friday, February 2nd at 11:20 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,702`
+- **Word count:** `52,296`
+- **Character count (including spaces):** `380,753`
+- **Character count (excluding spaces):** `336,340`
+- **Size (in bytes):** `380,899`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9604,6 +9613,41 @@ This project is not yet on Gitlab.
 
 ---
 
+<details><summary><p lang="en"><b>Version 200 (2024, Friday, February 2nd at 11:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V199.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/2 !-->
+
+> **Note** _This update almost didn't come at all, since I was so distracted today, and had less than an hour left to work. Continuing for a 2nd consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for the 2 most recent datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Audio dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Audio` section
+- - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
+- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Accordion` sub-subsection
+- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Drums` sub-subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 200
+- [ ] No other changes in version 200
+
+</details> <!-- V200 !-->
+
+---
+
 End of file history section.
 
 </details> <!-- End of file history section !-->
@@ -9640,4 +9684,18 @@ Cartography datasets
 <!-- Misc
 2024.01.09 (first documented 2024.01.10, drafted 2024.01.11)
 Recently, I have made a change to my daily workflow: I am no longer adding workflows to every single AI2001 repository until the process can be automated effectively.
+!-->
+
+<!--TODO
+AI2001 goals
+
+Quantum computing and AI
+Privacy
+Open source
+Freedom of speech
+Functionality
+Large datasets
+Saving history from being rewritten (deepfake control system)
+Offline functionality
+Powering applications
 !-->

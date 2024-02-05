@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 677 total repository links (as of 2024, Saturday, February 3rd at 11:09 pm PST), Version 201.
+//// 679 total repository links (as of 2024, Sunday, February 4th at 06: pm PST), Version 202.
 
-//// GitHub (677)
+//// GitHub (679)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -682,12 +682,14 @@ https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Drums
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Accordion
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Flute
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Slide-whistle
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Kazoo
+https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Snare-drum
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 201 (2024, Saturday, February 3rd at 11:09 pm PST)
-//// Line count (including blank lines and compiler line): 694
+//// File version: 202 (2024, Sunday, February 4th at 06:45 pm PST)
+//// Line count (including blank lines and compiler line): 696
 
 //// End of file (EOF)

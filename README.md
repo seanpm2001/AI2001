@@ -127,7 +127,7 @@ The plan is for the file to be moved out when it starts using up far too much sp
 | [#EasyScript-sc-dataset](https://github.com/topics/EasyScript-sc-dataset) | [#APL-sc-dataset](https://github.com/topics/APL-sc-dataset) | [#CAP-sc-dataset](https://github.com/topics/CAP-sc-dataset) | [#CDS-sc-dataset](https://github.com/topics/CDS-sc-dataset) | [#SpeedCode-sc-dataset](https://github.com/topics/SpeedCode-sc-dataset) | [#PDoublePrime-sc-dataset](https://github.com/topics/PDoublePrime-sc-dataset) | [#SKILL-sc-dataset](https://github.com/topics/SKILL-sc-dataset) | [#EJSS-sc-dataset](https://github.com/topics/EJSS-sc-dataset) | [#MDL-sc-dataset](https://github.com/topics/MDL-sc-dataset) | [#Arc-sc-dataset](https://github.com/topics/Arc-sc-dataset) | [#AdBlock-Filter-List-sc-dataset](https://github.com/topics/AdBlock-Filter-List-sc-dataset) | [#Mermaid-sc-dataset](https://github.com/topics/Mermaid-sc-dataset) | [#Hestia-sc-dataset](https://github.com/topics/Hestia-sc-dataset) |
 | [#Visual-Basic-6-sc-dataset](https://github.com/topics/Visual-Basic-6-sc-dataset) | [#EmberScript-sc-dataset](https://github.com/topics/EmberScript-sc-dataset) | [#DenizenScript-sc-dataset](https://github.com/topics/DenizenScript-sc-dataset) | [#Marko-sc-dataset](https://github.com/topics/Marko-sc-dataset) | [#ASN.1-sc-dataset](https://github.com/topics/ASN.1-sc-dataset) | [#ActionMessageFormat-sc-dataset](https://github.com/topics/ActionMessageFormat-sc-dataset) | [#Apache-Avro-sc-dataset](https://github.com/topics/Apache-Avro-sc-dataset) | [#TabSeparatedValues-sc-dataset](https://github.com/topics/TabSeparatedValues-sc-dataset) | [#Erlang-Doc-sc-dataset](https://github.com/topics/Erlang-doc-sc-dataset) | [#Web-Ontology-Language-sc-dataset](https://github.com/topics/Web-ontology-language-sc-dataset) | [#MATH-MATIC-sc-dataset](https://github.com/topics/MATH-MATIC-sc-dataset) |
 | [#PDDL-sc-dataset](https://github.com/topics/PDDL-sc-dataset) | [#Lasso-sc-dataset](https://github.com/topics/Lasso-sc-dataset) | [#Elvish-sc-dataset](https://github.com/topics/Elvish-sc-dataset) | [#Nearley-sc-dataset](https://github.com/topics/Nearley-sc-dataset) | [#Datalog-sc-dataset](https://github.com/topics/Datalog-sc-dataset) | [#Flix-sc-dataset](https://github.com/topics/Flix-sc-dataset) | [#SemanticQueryWebRuleLanguage-sc-dataset](https://github.com/topics/SemanticQueryWebRuleLanguage-sc-dataset) | [#DARPAAgentMarkupLanguage-sc-dataset](https://github.com/topics/DARPAAgentMarkupLanguage-sc-dataset) | [#REWERSE-Rule-Markup-Language-sc-dataset](https://github.com/topics/REWERSE-Rule-Markup-Language-sc-dataset) | [#RuleInterchangeFormat-sc-dataset](https://github.com/topics/RuleInterchangeFormat-sc-dataset) |
-| [#LegalXML-sc-dataset](https://github.com/topics/LegalXML-sc-dataset) | [#LilyPond-sc-dataset](https://github.com/topics/LilyPond-sc-dataset) | [#Cs-sc-dataset](https://github.com/topics/Gitattributes-sc-dataset) | [#CassandraQueryLanguage-sc-dataset](https://github.com/topics/CassandraQueryLanguage-sc-dataset) | [#VRML-sc-dataset](https://github.com/topics/VRML-sc-dataset) |
+| [#LegalXML-sc-dataset](https://github.com/topics/LegalXML-sc-dataset) | [#LilyPond-sc-dataset](https://github.com/topics/LilyPond-sc-dataset) | [#Cs-sc-dataset](https://github.com/topics/Gitattributes-sc-dataset) | [#CassandraQueryLanguage-sc-dataset](https://github.com/topics/CassandraQueryLanguage-sc-dataset) | [#VRML-sc-dataset](https://github.com/topics/VRML-sc-dataset) | [#PlainText-sc-dataset](https://github.com/topics/PlainText-sc-dataset) |
 | [#Empty-newline](https://www.example.com/) |
 
 <!-- TODO Keep each line below 1000 characters each to prevent lag and rendering issues (preferrably between 750 and 920 characters per line) !-->
@@ -188,7 +188,7 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**As of:** `2024, Wednesday, February 7th at 08:20 pm PST)`
+**As of:** `2024, Thursday, February 8th at 06:44 pm PST)`
 
 | ℹ️ Dataset type | 🔢️ Count | ❌️ Dataset Exclusions |
 |---|---|---|
@@ -198,10 +198,10 @@ All datasets are written in R and RMarkdown. They are all currently a work-in-pr
 | **[🖼️ Image](#C-Images) datasets:** | `13` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Images/)) |
 | **[🔡️ Linguistics](#C-Linguistics) datasets:** | `117` | (not counting [1](https://github.com/seanpm2001/AI2001_Category-Linguistics/)) |
 | **[🔵️ Meta](#C-Meta) datasets:** | `3` | (not including [1](https://github.com/seanpm2001/AI2001_Category-META/)) |
-| **[💾️ Source Code](#C-Source-Code) datasets:** | `496` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
+| **[💾️ Source Code](#C-Source-Code) datasets:** | `498` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Source_code/)) |
 | **[🎥️ Video](#C-Videos) datasets:** | `5` | (not including [1](https://github.com/seanpm2001/AI2001_Category-Videos/)) |
 
-| **Overall total:** | `671` _dataset repositories_ | **As of:** `2024.02.07@20:20PST` |
+| **Overall total:** | `673` _dataset repositories_ | **As of:** `2024.02.08@18:44PST` |
 |---|---|---|
 
 </details> <!-- Dataset.counters = END !-->
@@ -3367,6 +3367,12 @@ Currently empty
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Git Attributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes/)
 
+##### SC: GitAttributes
+
+> **Note** _Future redirect._
+
+- [:octocat: `AI2001 Category: Source Code ;SC: GitAttributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GitAttributes/)
+
 #### SC: Gleam
 
 - [:octocat: `AI2001 Category: Source Code ;SC: Gleam`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gleam/)
@@ -4104,6 +4110,10 @@ Currently empty
 #### SC: PigLatin
 
 - [:octocat: `AI2001 Category: Source Code ;SC: PigLatin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PigLatin/)
+
+#### SC: Plain Text
+
+- [:octocat: `AI2001 Category: Source Code ;SC: Plain Text`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlainText/)
 
 #### SC: Plankalkül
 
@@ -6328,12 +6338,12 @@ This project is not yet on Gitlab.
 <details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `205 (2024, Wednesday, February 7th at 08:20 pm PST)`
-- **Line count (including blank lines and compiler line):** `6,595`
-- **Word count:** `34,103`
-- **Character count (including spaces):** `255,139`
-- **Character count (excluding spaces):** `231,794`
-- **Size (in bytes):** `255,285`
+- **File version:** `206 (2024, Thursday, February 8th at 06:44 pm PST)`
+- **Line count (including blank lines and compiler line):** `6,639`
+- **Word count:** `34,342`
+- **Character count (including spaces):** `256,812`
+- **Character count (excluding spaces):** `233,227`
+- **Size (in bytes):** `256,958`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6382,8 +6392,8 @@ This project is not yet on Gitlab.
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
 - - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Flute` sub-subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Slide whistle` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Flute` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Slide whistle` sub-subsection
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -6418,8 +6428,8 @@ This project is not yet on Gitlab.
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
 - - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Kazoo` sub-subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Snare drum` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Kazoo` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Snare drum` sub-subsection
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -6453,8 +6463,8 @@ This project is not yet on Gitlab.
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
 - - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Cannon` sub-subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Recorder` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Cannon` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Recorder` sub-subsection
 - [x] Added the `External AI term glossary` section
 - [x] Updated the `file info` section
 - - [x] Updated the version number
@@ -6489,8 +6499,8 @@ This project is not yet on Gitlab.
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
 - - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Saxophone` sub-subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Oboe` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Saxophone` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Oboe` sub-subsection
 - [x] Added the `Personal AI trend timeline` section
 - [x] Updated the `file info` section
 - - [x] Updated the version number
@@ -6525,8 +6535,8 @@ This project is not yet on Gitlab.
 - [x] Updated the `Datasets` section
 - - [x] Updated the `C: Audio` section
 - - - [x] Updated the `AI2001 Category: Audio: Instruments` subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Bell` sub-subsection
-- - - [- [x] Added the `AI2001 Category: Audio: Instruments S: Clarinet` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Bell` sub-subsection
+- - - - [x] Added the `AI2001 Category: Audio: Instruments S: Clarinet` sub-subsection
 - [x] Updated the `External AI term glossary` section
 - [x] Updated the `file info` section
 - - [x] Updated the version number
@@ -6538,6 +6548,40 @@ This project is not yet on Gitlab.
 - [ ] No other changes in version 205
 
 </details> <!-- V205 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 206 (2024, Thursday, February 8th at 06:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> [View this version separately](/OldVersions/README/English/2/101-200/README_V206.md)
+
+<!-- Do not mention the bug any further outside of source code comments unless you try to fix it !-->
+<!-- TODO https://github.com/seanpm2001/AI2001/issues/2 !-->
+
+> **Note** _Continuing for an 8th consecutive day_
+
+> Changes:
+
+- [x] Updated the tags section
+- - [x] Added a new line for the 2 most recent datasets
+- [x] Updated the `Dataset counters` section
+- - [x] Updated the `Source Code dataset` counter
+- [x] Updated the `Datasets` section
+- - [x] Updated the `C: Source Code` section
+- - - [x] Added the `AI2001 Category: Source Code: SC: GitAttributes` sub-subsection
+- - - [x] Added the `AI2001 Category: Source Code: SC: PlainText` sub-subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated other variables
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 206
+- [ ] No other changes in version 206
+
+</details> <!-- V206 !-->
 
 ---
 

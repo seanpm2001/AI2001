@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 687 total repository links (as of 2024, Thursday, February 8th at 06:46 pm PST), Version 206.
+//// 695 total repository links (as of 2025, Saturday, June 14th at xx:Xx pm PST), Version 207.
 
-//// GitHub (687)
+//// GitHub (695)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -692,12 +692,22 @@ https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Bell
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Clarinet
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlainText
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GitAttributes
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Volt
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EdgeQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Edge
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Talon
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Faust
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fennel
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Imba
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LigoLANG
+
+//// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
 //// GitLab (0)
 //// None yet
 
 //// File info
-//// File version: 206 (2024, Thursday, February 8th at 06:46 pm PST)
-//// Line count (including blank lines and compiler line): 704
+//// File version: 207 (2025, Saturday, February 14th at 06:05 pm PST)
+//// Line count (including blank lines and compiler line): 714
 
 //// End of file (EOF)

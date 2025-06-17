@@ -4,7 +4,7 @@
 //// URL list for AI2001 repositories
 //// 695 total repository links (as of 2025, Saturday, June 14th at xx:Xx pm PST), Version 207.
 
-//// GitHub (695)
+//// GitHub (703)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -700,6 +700,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Faust
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fennel
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Imba
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LigoLANG
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pan
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pep8
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rez
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Game-Maker-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rush
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C3
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RBS
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -707,7 +715,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LigoLANG
 //// None yet
 
 //// File info
-//// File version: 207 (2025, Saturday, February 14th at 06:05 pm PST)
-//// Line count (including blank lines and compiler line): 714
+//// File version: 208 (2025, Monday, February 16th at 06:44 pm PST)
+//// Line count (including blank lines and compiler line): 722
 
 //// End of file (EOF)

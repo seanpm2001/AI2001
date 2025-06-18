@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 695 total repository links (as of 2025, Saturday, June 14th at xx:Xx pm PST), Version 207.
+//// 711 total repository links (as of 2025, Tuesday, June 17th at xx:xx pm PST), Version 209.
 
-//// GitHub (703)
+//// GitHub (711)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -708,6 +708,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Game-Maker-Language
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rush
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C3
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RBS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jolie
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IGOR-Pro
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HOCON
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ioke
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JCL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Janet
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison-Lex
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -715,7 +723,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RBS
 //// None yet
 
 //// File info
-//// File version: 208 (2025, Monday, February 16th at 06:44 pm PST)
-//// Line count (including blank lines and compiler line): 722
+//// File version: 209 (2025, Tuesday, June 17th at 06:54 pm PST)
+//// Line count (including blank lines and compiler line): 730
 
 //// End of file (EOF)

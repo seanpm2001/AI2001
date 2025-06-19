@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 711 total repository links (as of 2025, Tuesday, June 17th at xx:xx pm PST), Version 209.
+//// 719 total repository links (as of 2025, Wednesday, June 18th at xx:xx pm PST), Version 210.
 
-//// GitHub (711)
+//// GitHub (719)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -716,6 +716,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JCL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Janet
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison-Lex
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LSL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Luau
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Opa
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ox
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oz
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pact
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redcode
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mirah
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -723,7 +731,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison-Lex
 //// None yet
 
 //// File info
-//// File version: 209 (2025, Tuesday, June 17th at 06:54 pm PST)
-//// Line count (including blank lines and compiler line): 730
+//// File version: 210 (2025, Wednesday, June 18th at 07:53 pm PST)
+//// Line count (including blank lines and compiler line): 738
 
 //// End of file (EOF)

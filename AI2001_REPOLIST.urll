@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 719 total repository links (as of 2025, Wednesday, June 18th at xx:xx pm PST), Version 210.
+//// 727 total repository links (as of 2025, Thursday, June 19th at 06:40 pm PST), Version 211.
 
-//// GitHub (719)
+//// GitHub (727)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -724,6 +724,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oz
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pact
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redcode
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mirah
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slint
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Odin
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OMGROFL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Golo
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Turtle
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-vCard
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoLISP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenLISP
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -731,7 +739,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mirah
 //// None yet
 
 //// File info
-//// File version: 210 (2025, Wednesday, June 18th at 07:53 pm PST)
-//// Line count (including blank lines and compiler line): 738
+//// File version: 211 (2025, Thursday, June 19th at 06:40 pm PST)
+//// Line count (including blank lines and compiler line): 746
 
 //// End of file (EOF)

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 727 total repository links (as of 2025, Thursday, June 19th at 06:40 pm PST), Version 211.
+//// 735 total repository links (as of 2025, Thursday, June 19th at 06:40 pm PST), Version 211.
 
-//// GitHub (727)
+//// GitHub (735)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -732,6 +732,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Turtle
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-vCard
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoLISP
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenLISP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC-Plus
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B4X
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlueSpec
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlueSpec-BH
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrowsersList
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Valve-Data-Format
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Typst
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Toit
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -739,7 +747,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenLISP
 //// None yet
 
 //// File info
-//// File version: 211 (2025, Thursday, June 19th at 06:40 pm PST)
-//// Line count (including blank lines and compiler line): 746
+//// File version: 212 (2025, Friday, June 20th at 07:19 pm PST)
+//// Line count (including blank lines and compiler line): 754
 
 //// End of file (EOF)

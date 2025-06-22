@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 735 total repository links (as of 2025, Thursday, June 19th at 06:40 pm PST), Version 211.
+//// 745 total repository links (as of 2025, Saturday, June 21st at 06:49 pm PST), Version 213.
 
-//// GitHub (735)
+//// GitHub (745)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -740,6 +740,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrowsersList
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Valve-Data-Format
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Typst
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Toit
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tea
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Templ
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Darcs-Patch
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Velocity-Template-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FIRRTL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CIL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Circom
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cirru
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarion
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Charity
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -747,7 +757,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Toit
 //// None yet
 
 //// File info
-//// File version: 212 (2025, Friday, June 20th at 07:19 pm PST)
-//// Line count (including blank lines and compiler line): 754
+//// File version: 213 (2025, Saturday, June 21st at 06:49 pm PST)
+//// Line count (including blank lines and compiler line): 764
 
 //// End of file (EOF)

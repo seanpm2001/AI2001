@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 745 total repository links (as of 2025, Saturday, June 21st at 06:49 pm PST), Version 213.
+//// 755 total repository links (as of 2025, Sunday, June 22nd at xx:xx pm PST), Version 214.
 
-//// GitHub (745)
+//// GitHub (755)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -750,6 +750,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Circom
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cirru
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarion
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Charity
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarity
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EQ
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-eC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EcMarkup
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dune
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-dircolors
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cycript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cylc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crontab
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -757,7 +767,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Charity
 //// None yet
 
 //// File info
-//// File version: 213 (2025, Saturday, June 21st at 06:49 pm PST)
-//// Line count (including blank lines and compiler line): 764
+//// File version: 214 (2025, Sunday, June 22nd at 07:37 pm PST)
+//// Line count (including blank lines and compiler line): 774
 
 //// End of file (EOF)

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 755 total repository links (as of 2025, Sunday, June 22nd at xx:xx pm PST), Version 214.
+//// 763 total repository links (as of 2025, Monday, June 23rd at 08:48 pm PST), Version 215.
 
-//// GitHub (755)
+//// GitHub (763)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -760,6 +760,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cycript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cylc
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crontab
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scaml
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Noir
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Caddyfile
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FIGlet-Font
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-iCalendar
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MooCode
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Riot
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAMS
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -767,7 +775,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA
 //// None yet
 
 //// File info
-//// File version: 214 (2025, Sunday, June 22nd at 07:37 pm PST)
-//// Line count (including blank lines and compiler line): 774
+//// File version: 215 (2025, Monday, June 23rd at 08:48 pm PST)
+//// Line count (including blank lines and compiler line): 782
 
 //// End of file (EOF)

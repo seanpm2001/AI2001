@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 763 total repository links (as of 2025, Monday, June 23rd at 08:48 pm PST), Version 215.
+//// 771 total repository links (as of 2025, Tuesday, June 24th at 11:59 pm PST), Version 216.
 
-//// GitHub (763)
+//// GitHub (771)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -768,6 +768,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-iCalendar
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MooCode
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Riot
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAMS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Futhark
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RON
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemini
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genshi
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-edn
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniD
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NEON
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nasal
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -775,7 +783,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAMS
 //// None yet
 
 //// File info
-//// File version: 215 (2025, Monday, June 23rd at 08:48 pm PST)
-//// Line count (including blank lines and compiler line): 782
+//// File version: 216 (2025, Tuesday, June 24th at 07:37 pm PST)
+//// Line count (including blank lines and compiler line): 790
 
 //// End of file (EOF)

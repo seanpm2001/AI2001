@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 771 total repository links (as of 2025, Tuesday, June 24th at 11:59 pm PST), Version 216.
+//// 779 total repository links (as of 2025, Wednesday, June 25th at 11:59 pm PST), Version 217.
 
-//// GitHub (771)
+//// GitHub (779)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -776,6 +776,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-edn
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniD
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NEON
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nasal
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Myghty
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MUF
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mupad
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NanoRC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NetLinx
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quantum-Computation-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Email
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -783,7 +791,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nasal
 //// None yet
 
 //// File info
-//// File version: 216 (2025, Tuesday, June 24th at 07:37 pm PST)
-//// Line count (including blank lines and compiler line): 790
+//// File version: 217 (2025, Wednesday, June 25th at 08:51 pm PST)
+//// Line count (including blank lines and compiler line): 798
 
 //// End of file (EOF)

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 779 total repository links (as of 2025, Wednesday, June 25th at 11:59 pm PST), Version 217.
+//// 787 total repository links (as of 2025, Thursday, June 26th at 11:59 pm PST), Version 218.
 
-//// GitHub (779)
+//// GitHub (787)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -784,6 +784,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NetLinx
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quantum-Computation-Language
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Email
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hollywood
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPM-Spec
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Filebench-WML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonBit
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSONLD
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Muse
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniYAML
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -791,7 +799,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Email
 //// None yet
 
 //// File info
-//// File version: 217 (2025, Wednesday, June 25th at 08:51 pm PST)
-//// Line count (including blank lines and compiler line): 798
+//// File version: 218 (2025, Thursday, June 26th at 06:46 pm PST)
+//// Line count (including blank lines and compiler line): 806
 
 //// End of file (EOF)

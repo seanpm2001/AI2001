@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 787 total repository links (as of 2025, Thursday, June 26th at 11:59 pm PST), Version 218.
+//// 795 total repository links (as of 2025, Friday, June 27th at 11:59 pm PST), Version 219.
 
-//// GitHub (787)
+//// GitHub (795)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -792,6 +792,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonBit
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSONLD
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Muse
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniYAML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NMODL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NWScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Praat
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Prisma
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Promela
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pyret
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shen
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ATS
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -799,7 +807,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniYAML
 //// None yet
 
 //// File info
-//// File version: 218 (2025, Thursday, June 26th at 06:46 pm PST)
-//// Line count (including blank lines and compiler line): 806
+//// File version: 219 (2025, Friday, June 27th at 05:58 pm PST)
+//// Line count (including blank lines and compiler line): 814
 
 //// End of file (EOF)

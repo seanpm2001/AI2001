@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 795 total repository links (as of 2025, Friday, June 27th at 11:59 pm PST), Version 219.
+//// 805 total repository links (as of 2025, Saturday, June 28th at 11:59 pm PST), Version 220.
 
-//// GitHub (795)
+//// GitHub (805)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -800,6 +800,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Promela
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pyret
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shen
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ATS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CameLIGO
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jule
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glimmer-JS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glimmer-TS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glyph
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-2-Dimensional-Array
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-4D
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Adobe-Font-Metrics
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alpine-ABuild
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -807,7 +817,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ATS
 //// None yet
 
 //// File info
-//// File version: 219 (2025, Friday, June 27th at 05:58 pm PST)
-//// Line count (including blank lines and compiler line): 814
+//// File version: 220 (2025, Saturday, June 28th at 05:53 pm PST)
+//// Line count (including blank lines and compiler line): 824
 
 //// End of file (EOF)

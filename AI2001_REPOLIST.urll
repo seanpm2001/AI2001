@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 805 total repository links (as of 2025, Saturday, June 28th at 11:59 pm PST), Version 220.
+//// 815 total repository links (as of 2025, Sunday, June 29th at 11:59 pm PST), Version 221.
 
-//// GitHub (805)
+//// GitHub (815)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -810,6 +810,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-4D
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Adobe-Font-Metrics
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alpine-ABuild
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ant-Build-System
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apollo-Guidance-Computer
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Asymptote
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cabal-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C-ObjDump
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C2Hs-Haskell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cloud-Firestore-Security-Rules
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoNLL-U
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-cURL-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ecere-Projects
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -817,7 +827,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer
 //// None yet
 
 //// File info
-//// File version: 220 (2025, Saturday, June 28th at 05:53 pm PST)
-//// Line count (including blank lines and compiler line): 824
+//// File version: 221 (2025, Sunday, June 29th at 06:13 pm PST)
+//// Line count (including blank lines and compiler line): 834
 
 //// End of file (EOF)

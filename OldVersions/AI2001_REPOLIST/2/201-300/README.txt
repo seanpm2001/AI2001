@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 815 total repository links (as of 2025, Sunday, June 29th at 11:59 pm PST), Version 221.
+//// 823 total repository links (as of 2025, Monday, June 30th at 11:59 pm PST), Version 222.
 
-//// GitHub (815)
+//// GitHub (823)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -820,6 +820,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cloud-Firestore-Sec
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoNLL-U
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-cURL-Config
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ecere-Projects
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Debian-Package-Control-File
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DirectX-3D-File
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-D-ObjDump
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Avro-IDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cairo-Zero
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Amiga-E
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XCompose
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -827,7 +835,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ecere-Projects
 //// None yet
 
 //// File info
-//// File version: 221 (2025, Sunday, June 29th at 06:13 pm PST)
-//// Line count (including blank lines and compiler line): 834
+//// File version: 222 (2025, Monday, June 30th at 07:41 pm PST)
+//// Line count (including blank lines and compiler line): 842
 
 //// End of file (EOF)

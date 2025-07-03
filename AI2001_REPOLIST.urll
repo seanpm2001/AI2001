@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 831 total repository links (as of 2025, Tuesday, July 1st at 11:59 pm PST), Version 223.
+//// 839 total repository links (as of 2025, Wednesday, July 2nd at 11:59 pm PST), Version 224.
 
-//// GitHub (831)
+//// GitHub (839)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -836,6 +836,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Snakemake
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Soong
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SELinux-Policy
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Spline-Font-Database
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scenic
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tact
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nial
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ivy
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dex
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DotEnv
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mask
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -843,7 +851,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Spline-Font-Databas
 //// None yet
 
 //// File info
-//// File version: 223 (2025, Tuesday, July 1st at 06:43 pm PST)
-//// Line count (including blank lines and compiler line): 850
+//// File version: 224 (2025, Wednesday, July 2nd at 07:38 pm PST)
+//// Line count (including blank lines and compiler line): 858
 
 //// End of file (EOF)

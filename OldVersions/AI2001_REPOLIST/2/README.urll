@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 839 total repository links (as of 2025, Wednesday, July 2nd at 11:59 pm PST), Version 224.
+//// 847 total repository links (as of 2025, Thursday, July 3rd at 11:59 pm PST), Version 225.
 
-//// GitHub (839)
+//// GitHub (847)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -844,6 +844,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaC
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dex
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DotEnv
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mask
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NumPy
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Options-list
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Parrot-Assembly
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Parrot-Internal-Representation
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X10
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSPLIB-data
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniZinc
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OverpassQL
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -851,7 +859,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mask
 //// None yet
 
 //// File info
-//// File version: 224 (2025, Wednesday, July 2nd at 07:38 pm PST)
-//// Line count (including blank lines and compiler line): 858
+//// File version: 225 (2025, Thursday, July 3rd at 07:17 pm PST)
+//// Line count (including blank lines and compiler line): 866
 
 //// End of file (EOF)

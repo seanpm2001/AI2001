@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 855 total repository links (as of 2025, Friday, July 4th at 11:59 pm PST), Version 226.
+//// 865 total repository links (as of 2025, Saturday, July 5th at 11:59 pm PST), Version 226.
 
-//// GitHub (855)
+//// GitHub (865)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -860,6 +860,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pickle
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pic
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniZinc-Data
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XMake
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hare
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ISPC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jai
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Portugol
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Public-Key
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ignore-List
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemfile.lock
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cpp-ObjDump
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-World-of-Warcraft-Addon-Data
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -867,7 +877,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XMake
 //// None yet
 
 //// File info
-//// File version: 226 (2025, Friday, July 4th at 07:33 pm PST)
-//// Line count (including blank lines and compiler line): 874
+//// File version: 227 (2025, Saturday, July 5th at 06:25 pm PST)
+//// Line count (including blank lines and compiler line): 884
 
 //// End of file (EOF)

@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 865 total repository links (as of 2025, Saturday, July 5th at 11:59 pm PST), Version 226.
+//// 875 total repository links (as of 2025, Sunday, July 6th at 11:59 pm PST), Version 228.
 
-//// GitHub (865)
+//// GitHub (875)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -870,6 +870,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemfile.lock
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cpp-ObjDump
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-World-of-Warcraft-Addon-Data
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quake
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slang
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rouge
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Help-File
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Win32-Message-File
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WGet-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Survex-Data
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellSession
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellCheck-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Witcher-Script
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -877,7 +887,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move
 //// None yet
 
 //// File info
-//// File version: 227 (2025, Saturday, July 5th at 06:25 pm PST)
-//// Line count (including blank lines and compiler line): 884
+//// File version: 228 (2025, Sunday, July 6th at 06:57 pm PST)
+//// Line count (including blank lines and compiler line): 894
 
 //// End of file (EOF)

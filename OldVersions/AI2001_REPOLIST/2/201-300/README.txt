@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 875 total repository links (as of 2025, Sunday, July 6th at 11:59 pm PST), Version 228.
+//// 883 total repository links (as of 2025, Monday, July 7th at 11:59 pm PST), Version 229.
 
-//// GitHub (875)
+//// GitHub (883)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -880,6 +880,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Survex-Data
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellSession
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellCheck-Config
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Witcher-Script
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MFM-MissKey
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KDL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NPM-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X-BitMap
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QuickBasic
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redirect-Rules
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LTspice-Symbol
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -887,7 +895,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Witcher-Script
 //// None yet
 
 //// File info
-//// File version: 228 (2025, Sunday, July 6th at 06:57 pm PST)
-//// Line count (including blank lines and compiler line): 894
+//// File version: 229 (2025, Monday, July 7th at 07:04 pm PST)
+//// Line count (including blank lines and compiler line): 902
 
 //// End of file (EOF)

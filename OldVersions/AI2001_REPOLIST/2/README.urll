@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 883 total repository links (as of 2025, Monday, July 7th at 11:59 pm PST), Version 229.
+//// 884 total repository links (as of 2025, Tuesday, July 8th at 11:59 pm PST), Version 230.
 
-//// GitHub (883)
+//// GitHub (884)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -888,6 +888,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QuickBasic
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redirect-Rules
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LTspice-Symbol
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TextMate-Properties
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -895,7 +896,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted
 //// None yet
 
 //// File info
-//// File version: 229 (2025, Monday, July 7th at 07:04 pm PST)
-//// Line count (including blank lines and compiler line): 902
+//// File version: 230 (2025, Tuesday, July 8th at 07:31 pm PST)
+//// Line count (including blank lines and compiler line): 903
 
 //// End of file (EOF)

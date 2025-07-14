@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 884 total repository links (as of 2025, Tuesday, July 8th at 11:59 pm PST), Version 230.
+//// 894 total repository links (as of 2025, Sunday, July 13th at 11:59 pm PST), Version 231.
 
-//// GitHub (884)
+//// GitHub (894)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -889,6 +889,16 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redirect-Rules
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LTspice-Symbol
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TextMate-Properties
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Catrobat
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CODEOWNERS
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Frege
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Grace
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sieve
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ink
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LoomScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ObjectScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mint
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -896,7 +906,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TextMate-Properties
 //// None yet
 
 //// File info
-//// File version: 230 (2025, Tuesday, July 8th at 07:31 pm PST)
-//// Line count (including blank lines and compiler line): 903
+//// File version: 231 (2025, Sunday, July 13th at 07:24 pm PST)
+//// Line count (including blank lines and compiler line): 913
 
 //// End of file (EOF)

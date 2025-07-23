@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 894 total repository links (as of 2025, Sunday, July 13th at 11:59 pm PST), Version 231.
+//// 896 total repository links (as of 2025, Tuesday, July 22nd at 11:59 pm PST), Version 232.
 
-//// GitHub (894)
+//// GitHub (896)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -899,6 +899,8 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LoomScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ObjectScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mint
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Learn-Terraform-Template
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -906,7 +908,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit
 //// None yet
 
 //// File info
-//// File version: 231 (2025, Sunday, July 13th at 07:24 pm PST)
-//// Line count (including blank lines and compiler line): 913
+//// File version: 232 (2025, Tuesday, July 22nd at 08:26 pm PST)
+//// Line count (including blank lines and compiler line): 915
 
 //// End of file (EOF)

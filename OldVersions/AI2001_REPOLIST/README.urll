@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 896 total repository links (as of 2025, Tuesday, July 22nd at 11:59 pm PST), Version 232.
+//// 904 total repository links (as of 2025, Thursday, July 24th at 11:59 pm PST), Version 233.
 
-//// GitHub (896)
+//// GitHub (904)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -901,6 +901,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mint
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Learn-Terraform-Template
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roff-Manpage
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Readline-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Propeller-Spin
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenType-Feature-File
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenStep-Property-List
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenRC-RunScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V2
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V3
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -908,7 +916,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config
 //// None yet
 
 //// File info
-//// File version: 232 (2025, Tuesday, July 22nd at 08:26 pm PST)
-//// Line count (including blank lines and compiler line): 915
+//// File version: 233 (2025, Thursday, July 24th at 08:53 pm PST)
+//// Line count (including blank lines and compiler line): 923
 
 //// End of file (EOF)

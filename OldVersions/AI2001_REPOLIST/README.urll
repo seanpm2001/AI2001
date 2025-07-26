@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 904 total repository links (as of 2025, Thursday, July 24th at 11:59 pm PST), Version 233.
+//// 910 total repository links (as of 2025, Friday, July 25th at 11:59 pm PST), Version 234.
 
-//// GitHub (904)
+//// GitHub (910)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -909,6 +909,12 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenStep-Property-L
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenRC-RunScript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V2
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V3
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TL-Verilog
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TI-Program
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RON
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rocq-Prover
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Record-Jar
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonLIGO
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -916,7 +922,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specificati
 //// None yet
 
 //// File info
-//// File version: 233 (2025, Thursday, July 24th at 08:53 pm PST)
-//// Line count (including blank lines and compiler line): 923
+//// File version: 234 (2025, Friday, July 25th at 07:45 pm PST)
+//// Line count (including blank lines and compiler line): 929
 
 //// End of file (EOF)

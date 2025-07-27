@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 910 total repository links (as of 2025, Friday, July 25th at 11:59 pm PST), Version 234.
+//// 918 total repository links (as of 2025, Saturday, July 26th at 11:59 pm PST), Version 235.
 
-//// GitHub (910)
+//// GitHub (918)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -915,6 +915,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RON
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rocq-Prover
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Record-Jar
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonLIGO
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PIP-Requirements
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Object-Data-Instance-Notation
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BiBTeX-Style
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv2-yaml
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv2-json
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-yaml
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-json
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -922,7 +930,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonLIGO
 //// None yet
 
 //// File info
-//// File version: 234 (2025, Friday, July 25th at 07:45 pm PST)
-//// Line count (including blank lines and compiler line): 929
+//// File version: 235 (2025, Saturday, July 26th at 07:34 pm PST)
+//// Line count (including blank lines and compiler line): 937
 
 //// End of file (EOF)

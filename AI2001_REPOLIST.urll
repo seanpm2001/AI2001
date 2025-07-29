@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 918 total repository links (as of 2025, Saturday, July 26th at 11:59 pm PST), Version 235.
+//// 926 total repository links (as of 2025, Monday, July 28th at 11:59 pm PST), Version 236.
 
-//// GitHub (918)
+//// GitHub (926)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -923,6 +923,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv2-yaml
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv2-json
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-yaml
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-json
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-Haskell
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-CoffeeScript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-Agda
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript-ERB
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JAR-Manifest
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle-ROOT
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IRC-Log
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-Razor
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -930,7 +938,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-json
 //// None yet
 
 //// File info
-//// File version: 235 (2025, Saturday, July 26th at 07:34 pm PST)
-//// Line count (including blank lines and compiler line): 937
+//// File version: 236 (2025, Monday, July 28th at 07:38 pm PST)
+//// Line count (including blank lines and compiler line): 945
 
 //// End of file (EOF)

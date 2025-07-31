@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 934 total repository links (as of 2025, Tuesday, July 29th at 11:59 pm PST), Version 237.
+//// 942 total repository links (as of 2025, Wednesday, July 30th at 11:59 pm PST), Version 238.
 
-//// GitHub (934)
+//// GitHub (942)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -939,6 +939,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Graph-Modeling-Lang
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Workspace
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Revision-List
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Eclass
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Ebuild
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran-Free-Form
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ECLiPSe
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java-Template-Engine
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle-Kotlin-DSL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish-Transcript
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BuildStream
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Per
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -946,7 +954,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Eclass
 //// None yet
 
 //// File info
-//// File version: 237 (2025, Tuesday, July 29th at 08:52 pm PST)
-//// Line count (including blank lines and compiler line): 953
+//// File version: 238 (2025, Wednesday, July 30th at 06:45 pm PST)
+//// Line count (including blank lines and compiler line): 961
 
 //// End of file (EOF)

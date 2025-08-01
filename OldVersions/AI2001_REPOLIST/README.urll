@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 942 total repository links (as of 2025, Wednesday, July 30th at 11:59 pm PST), Version 238.
+//// 950 total repository links (as of 2025, Thursday, July 31st at 11:59 pm PST), Version 239.
 
-//// GitHub (942)
+//// GitHub (950)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -947,6 +947,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle-Kotlin-DSL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish-Transcript
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BuildStream
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Per
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoDot-resource
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Daslang
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Edje-Data-Collection
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Module
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Checksums
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java-Properties
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SPARQL
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sail
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -954,7 +962,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Per
 //// None yet
 
 //// File info
-//// File version: 238 (2025, Wednesday, July 30th at 06:45 pm PST)
-//// Line count (including blank lines and compiler line): 961
+//// File version: 239 (2025, Thursday, July 31st at 07:48 pm PST)
+//// Line count (including blank lines and compiler line): 969
 
 //// End of file (EOF)

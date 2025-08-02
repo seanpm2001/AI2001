@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 950 total repository links (as of 2025, Thursday, July 31st at 11:59 pm PST), Version 239.
+//// 958 total repository links (as of 2025, Friday, August 1st at 11:59 pm PST), Version 240.
 
-//// GitHub (950)
+//// GitHub (958)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -955,6 +955,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Checksums
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java-Properties
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SPARQL
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sail
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Microsoft-Visual-Studio-Solution
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jest-Snapshot
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HIP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Leo
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vento
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Forms
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Answer-Set-Programming
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -962,7 +970,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sail
 //// None yet
 
 //// File info
-//// File version: 239 (2025, Thursday, July 31st at 07:48 pm PST)
-//// Line count (including blank lines and compiler line): 969
+//// File version: 240 (2025, Friday, August 1st at 09:14 pm PST)
+//// Line count (including blank lines and compiler line): 977
 
 //// End of file (EOF)

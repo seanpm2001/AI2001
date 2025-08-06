@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 958 total repository links (as of 2025, Friday, August 1st at 11:59 pm PST), Version 240.
+//// 961 total repository links (as of 2025, Tuesday, August 5th at xx:Xx pm PST), Version 241.
 
-//// GitHub (958)
+//// GitHub (961)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -963,6 +963,9 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vento
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Forms
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Answer-Set-Programming
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raw-Token-Data
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Python-Console
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Aiken
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -970,7 +973,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML
 //// None yet
 
 //// File info
-//// File version: 240 (2025, Friday, August 1st at 09:14 pm PST)
-//// Line count (including blank lines and compiler line): 977
+//// File version: 241 (2025, Tuesday, August 5th at 08:51 pm PST)
+//// Line count (including blank lines and compiler line): 980
 
 //// End of file (EOF)

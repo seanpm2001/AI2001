@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 961 total repository links (as of 2025, Tuesday, August 5th at xx:Xx pm PST), Version 241.
+//// 969 total repository links (as of 2025, Wednesday, August 6th at xx:xx pm PST), Version 242.
 
-//// GitHub (961)
+//// GitHub (969)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -966,6 +966,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raw-Token-Data
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Python-Console
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Aiken
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OMNeTPP-NED
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OMNeTPP-MSG
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GMIC
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zmodel
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly-Interface-Type
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Untyped-Plutus-Core
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeSpec
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tor-Config
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -973,7 +981,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Aiken
 //// None yet
 
 //// File info
-//// File version: 241 (2025, Tuesday, August 5th at 08:51 pm PST)
-//// Line count (including blank lines and compiler line): 980
+//// File version: 242 (2025, Wednesday, August 6th at 09:22 pm PST)
+//// Line count (including blank lines and compiler line): 988
 
 //// End of file (EOF)

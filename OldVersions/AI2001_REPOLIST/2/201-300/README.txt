@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: AI2001_REPOLIST.urll
 //// URL list for AI2001 repositories
-//// 969 total repository links (as of 2025, Wednesday, August 6th at xx:xx pm PST), Version 242.
+//// 975 total repository links (as of 2025, Thursday, August 7th at 09:20 pm PST), Version 243.
 
-//// GitHub (969)
+//// GitHub (975)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -974,6 +974,12 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly-Interfa
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Untyped-Plutus-Core
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeSpec
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tor-Config
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X-Font-Directory-Index
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Type-Language
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Motorola-68K-Assembly
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Microsoft-Developer-Studio-Project
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Maven-POM
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M3U
 
 //// Potential missing entries between 2024, February 8th, and 2025, June 13th
 
@@ -981,7 +987,7 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tor-Config
 //// None yet
 
 //// File info
-//// File version: 242 (2025, Wednesday, August 6th at 09:22 pm PST)
-//// Line count (including blank lines and compiler line): 988
+//// File version: 243 (2025, Thursday, August 7th at 09:20 pm PST)
+//// Line count (including blank lines and compiler line): 994
 
 //// End of file (EOF)
